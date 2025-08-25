@@ -64,7 +64,7 @@ edit poc-catalog/README.md
 - Test all internal links work properly
 - Confirm navigation updates correctly
 
-## 📞 Getting Help
+## Getting Help
 
 - **Documentation Questions**: [Primary contact]
 - **Technical Issues**: [Technical lead]

@@ -22,7 +22,7 @@ This hub serves as a single source of truth for all POC solutions, offering:
 
 - **Active POCs**: 0
 - **Templates Available**: 2 (Business + Technical)
-- **Last Updated**: {{ current_date }}
+- **Last Updated**: 25/08/2025
 
 ---
 
