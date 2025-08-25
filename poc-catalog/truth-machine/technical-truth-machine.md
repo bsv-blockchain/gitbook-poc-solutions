@@ -1,111 +1,182 @@
 # Truth Machine - Technical Documentation
 
-**POC ID**: `POC-2025-001`
-**Version**: `1.0.8`
-**Last Updated**: `August 2025`
+## Overview
 
-## Architecture Overview
+Truth Machine is a blockchain-based data integrity and timestamping system built on Bitcoin SV. It provides immutable proof of data existence and integrity by recording cryptographic hashes on the blockchain.
 
-### System Architecture
-The Truth Machine system consists of a **React + TypeScript frontend** and a **Node.js + Express backend**, integrated with the Bitcoin SV blockchain for immutable timestamping.
+---
 
-- Frontend provides a modern, user-friendly interface for file upload, treasury management, QR code scanning, and real-time treasury balance.
-- Backend exposes RESTful APIs to handle file operations, create blockchain transactions using BEEF format, and store files and transaction data in MongoDB.
+## Features
 
-### Technology Stack
-- **Frontend**: React, TypeScript
-- **Backend**: Node.js, Express, BEEF transaction protocol
-- **Database**: MongoDB
-- **Infrastructure**: Docker, local development uses Docker Compose; designed for cloud deployment
+- **Secure File Storage**: Upload files with blockchain-backed integrity verification
+- **Timestamping**: Immutable proof of data existence at a specific time
+- **Integrity Verification**: Download files with cryptographic proof of integrity
+- **BEEF Integration**: Background Evaluation Extended Format for complete transaction verification
+- **Treasury Management**: Built-in token system for managing transaction fees
+- **QR Code Support**: Easy funding through QR code scanning
+- **Modern Web Interface**: User-friendly React-based frontend
 
-### Key Components
-1. **Frontend UI**: Manages user interactions, file upload/download, and treasury balance display
-2. **Backend API**: Implements REST API endpoints for file and treasury management
-3. **Blockchain Integration**: Uses WhatsOnChain API and BEEF transaction format for writing and verifying blockchain proofs
-4. **Database Layer**: MongoDB stores uploaded files metadata, transaction records, and token balances
+---
 
-## Integration & APIs
+## System Architecture
 
-### External Dependencies
-| Service       | Purpose                            | Version | Documentation                              |
-|---------------|----------------------------------|---------|--------------------------------------------|
-| WhatsOnChain  | Blockchain transaction querying  | Latest  | https://developers.whatsonchain.com/       |
-| MongoDB       | Document storage                  | 4.4+    | https://docs.mongodb.com/                    |
+### Frontend (React + TypeScript)
 
-### API Endpoints
-POST /api/upload
-- Upload and timestamp a file on the blockchain
+- Modern React application with TypeScript
+- Real-time treasury balance monitoring
+- Intuitive file upload/download interface
+- QR code generation for funding
 
-GET /api/download/:hash
-- Download file and proofs by file hash
+### Backend (Node.js + Express)
 
-GET /api/verify/:hash
-- Verify file integrity based on blockchain proof
+- RESTful API endpoints for file operations
+- BEEF transaction format support
+- Blockchain integration via WhatsOnChain
+- MongoDB for file and transaction storage
 
-GET /api/checkTreasury
-- Get current treasury balance
+---
 
-POST /api/fund/:tokens
-- Create write tokens for file uploads
+## Quick Start Guide
 
-## Implementation Guide
+Prerequisites: Latest versions of Docker Compose and Node.js. The `start.sh` script assumes macOS/Unix environment.
 
-### Prerequisites
-- Node.js v18 or higher
-- MongoDB 4.4 or higher
-- Docker and Docker Compose (for containerized setup)
-- BSV wallet for funding transactions (optional)
-
-### Setup Instructions
+### Setup
 ```bash
-git clone https://github.com/bsv-blockchain-demos/truth-machine.gitcd
-truth-machinesh
-quickstart.sh
+git clone https://github.com/bitcoin-sv/truth-machine.git
+cd truth-machine
+sh quickstart.sh
 ```
 
-This will install dependencies for both frontend and backend, generate keys, and start the application with Docker Compose.
+This script will install dependencies for frontend and backend, generate local keys, update your `.env` and `docker-compose.yml`, then launch the application.
 
-If using a local blockchain callback server, tools like `ngrok` can be used to expose webhook URLs by configuring the `DOMAIN` environment variable in the docker-compose.yml.
+### Reverse Proxy Setup
 
-### Running the Application
+To route API callbacks, set up a public tunnel:
+```bash
+ngrok http 3030
+```
 
-**Development mode:**
+Copy the public URL and update `DOMAIN` variable in `.env` or `docker-compose.yml` accordingly.
+
+### Stopping and Restarting
+
+Stop services:
+```bash
+docker compose down
+```
+
+Restart without destroying the environment:
+
+```bash
+docker compose up
+```
+
+---
+
+## Running the Application
+
+### Development Mode
+
 ```bash
 cd back
 npm run dev
-cd
-../front
+cd ../front
 npm run dev
 ```
 
-**Production mode:**
+### Production Mode
+
 ```bash
-cd back
-npm run build
+cd back npm run build
 npm run start
 cd ../front
 npm run build
 npm run preview
 ```
 
-**Docker:**
+### Using Docker
+
+Build images:
+
 ```bash
 docker compose build
+```
+
+Run containers:
+
+```bash
 docker compose up
 ```
 
-### Configuration
-Key environment variables
-DOMAIN: your-public-domain-for-callbacks
-MONGO_URL: your-mongodb-connection-string
-BSV_WALLET_PRIVATE_KEY: blockchain wallet key
+---
 
-## Testing & Validation
+## Usage Guide
 
-### Test Coverage
-- Unit tests available under `back` and `front` folders
-- Run tests with `npm test` in respective directories
+### Treasury Management
 
+- Access Treasury section to see balance
+- Fund treasury by scanning QR code with BSV
+- Create write tokens for uploading files (1 token per upload)
+
+### File Upload
+
+1. Navigate to Upload section
+2. Select a file for upload
+3. System calculates cryptographic hash, writes transaction on-chain, securely stores file, and provides transaction ID and proof
+
+### File Download
+
+1. Navigate to Download section
+2. Input file hash or transaction ID
+3. Receive original file, timestamp proof, integrity verification, and BEEF transaction data
+
+---
+
+## API Endpoints
+
+### File Operations
+
+- `POST /api/upload` — Upload and timestamp file
+- `GET /api/download/:hash` — Download file and proofs
+- `GET /api/verify/:hash` — Verify file integrity
+
+### Treasury Operations
+
+- `GET /api/checkTreasury` — Get treasury balance
+- `POST /api/fund/:tokens` — Create upload tokens
+
+---
+
+## Security Features
+
+- BEEF format for transaction verification
+- Simplified Payment Verification (SPV)
+- SHA-256 file hash verification
+- Immutable blockchain-backed timestamping
+
+---
+
+## Development Environment
+
+### Prerequisites
+
+- Node.js 18+
+- MongoDB 4.4+
+- BSV wallet for testing
+
+### Testing
+
+Run backend tests:
+```bash
+cd back
+npm test
+```
+
+Run frontend tests:
+```bash
+cd front
+npm test
+```
 ### Validation Criteria
 - Functional tests for upload, download, and verification APIs
 - Performance tests simulate upload and retrieval under load
