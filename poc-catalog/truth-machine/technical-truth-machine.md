@@ -11,7 +11,7 @@ Truth Machine is a blockchain-based data integrity and timestamping system built
 - **Secure File Storage**: Upload files with blockchain-backed integrity verification
 - **Timestamping**: Immutable proof of data existence at a specific time
 - **Integrity Verification**: Download files with cryptographic proof of integrity
-- **BEEF Integration**: Background Evaluation Extended Format for complete transaction verification
+- **BEEF Integration**: [Background Evaluation Extended Format for complete transaction verification](https://hub.bsvblockchain.org/brc/transactions/0062)
 - **Treasury Management**: Built-in token system for managing transaction fees
 - **QR Code Support**: Easy funding through QR code scanning
 - **Modern Web Interface**: User-friendly React-based frontend
@@ -30,7 +30,7 @@ Truth Machine is a blockchain-based data integrity and timestamping system built
 ### Backend (Node.js + Express)
 
 - RESTful API endpoints for file operations
-- BEEF transaction format support
+- [BEEF transaction format support](https://hub.bsvblockchain.org/brc/transactions/0062)
 - Blockchain integration via WhatsOnChain
 - MongoDB for file and transaction storage
 
@@ -149,7 +149,7 @@ docker compose up
 
 ## Security Features
 
-- BEEF format for transaction verification
+- [BEEF format for transaction verification](https://hub.bsvblockchain.org/brc/transactions/0062)
 - Simplified Payment Verification (SPV)
 - SHA-256 file hash verification
 - Immutable blockchain-backed timestamping
