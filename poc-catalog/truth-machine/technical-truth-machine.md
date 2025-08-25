@@ -57,11 +57,11 @@ POST /api/fund/:tokens
 - BSV wallet for funding transactions (optional)
 
 ### Setup Instructions
-´´´bash
+```bash
 git clone https://github.com/bsv-blockchain-demos/truth-machine.gitcd
 truth-machinesh
 quickstart.sh
-´´´
+```
 
 This will install dependencies for both frontend and backend, generate keys, and start the application with Docker Compose.
 
@@ -70,29 +70,29 @@ If using a local blockchain callback server, tools like `ngrok` can be used to e
 ### Running the Application
 
 **Development mode:**
-´´´bash
+```bash
 cd back
 npm run dev
 cd
 ../front
 npm run dev
-´´´
+```
 
 **Production mode:**
-´´´bash
+```bash
 cd back
 npm run build
 npm run start
 cd ../front
 npm run build
 npm run preview
-´´´
+```
 
 **Docker:**
-´´´bash
+```bash
 docker compose build
 docker compose up
-´´´
+```
 
 ### Configuration
 Key environment variables
