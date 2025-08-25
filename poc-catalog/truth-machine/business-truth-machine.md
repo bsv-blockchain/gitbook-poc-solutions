@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-Truth Machine uses the Bitcoin SV blockchain to secure digital files by recording their cryptographic hashes on-chain. This creates a permanent, tamper-proof proof that a file existed at a specific time and has not been altered since.
+Truth Machine uses the BSV blockchain to secure digital files by recording their cryptographic hashes on-chain. This creates a permanent, tamper-proof proof that a file existed at a specific time and has not been altered since.
 
 ---
 
@@ -20,7 +20,7 @@ Businesses often struggle to prove the authenticity and creation time of importa
 
 ## How It Works
 
-- Files are uploaded and their hash is recorded on the Bitcoin SV blockchain.
+- Files are uploaded and their hash is recorded on the BSV blockchain.
 - The original files are stored securely off-chain.
 - At any time, users can verify a file’s integrity by comparing it with the blockchain record.
 - A Treasury system funds blockchain transaction fees transparently, ensuring ongoing operation.

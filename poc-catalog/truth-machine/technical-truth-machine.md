@@ -2,7 +2,7 @@
 
 ## Overview
 
-Truth Machine is a blockchain-based data integrity and timestamping system built on Bitcoin SV. It provides immutable proof of data existence and integrity by recording cryptographic hashes on the blockchain.
+Truth Machine is a blockchain-based data integrity and timestamping system built on BSV. It provides immutable proof of data existence and integrity by recording cryptographic hashes on the blockchain.
 
 ---
 
