@@ -1,4 +1,4 @@
-# 📐 Documentation Standards
+# Documentation Standards
 
 Standards and guidelines for maintaining high-quality POC documentation.
 

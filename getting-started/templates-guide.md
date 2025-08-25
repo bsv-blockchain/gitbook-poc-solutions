@@ -1,4 +1,4 @@
-# 📋 Templates Guide
+# Templates Guide
 
 This page explains **what each template contains, how to copy it, and how to mix-and-match modules** to document new POC solutions quickly.
 
@@ -8,8 +8,8 @@ This page explains **what each template contains, how to copy it, and how to mix
 
 | Template | Audience | Core Modules | Optional Modules |
 |----------|----------|--------------|------------------|
-| **👔 Business** | Managers & stakeholders | Core Info, Executive Summary | Business Impact, Roadmap, Success Stories |
-| **⚙️ Technical** | Developers & architects | Core Info, Technical Summary | Architecture, Integration, Deployment, Testing |
+| **Business** | Managers & stakeholders | Core Info, Executive Summary | Business Impact, Roadmap, Success Stories |
+| **Technical** | Developers & architects | Core Info, Technical Summary | Architecture, Integration, Deployment, Testing |
 
 GitBook supports **page duplication** and **block-level editing**, so you can reuse these templates as many times as you need[13].
 

@@ -1,8 +1,8 @@
-# 📊 POC Catalog
+# POC Catalog
 
 Comprehensive index of all POC solutions with quick access to key information.
 
-## 🔍 Active POCs
+## Active POCs
 
 <!-- Template for future POCs:
 | POC Name | Status | Business Value | Tech Stack | Owner | Last Updated |
@@ -21,10 +21,10 @@ Comprehensive index of all POC solutions with quick access to key information.
 ## Quick Filters
 
 ### By Status
-- 🟢 **Production Ready**: [Future links]
-- 🟡 **In Development**: [Future links]
-- 🔵 **Proof of Concept**: [Future links]
-- ⚪ **Archived**: [Future links]
+- **Production Ready**: [Future links]
+- **In Development**: [Future links]
+- **Proof of Concept**: [Future links]
+- **Archived**: [Future links]
 
 ### By Technology
 - **Web Applications**: [Future links]
@@ -32,7 +32,7 @@ Comprehensive index of all POC solutions with quick access to key information.
 - **Data & Analytics**: [Future links]
 - **Infrastructure**: [Future links]
 
-## ➕ Adding New POCs
+## Adding New POCs
 
 1. **Choose Template**: [Business](../templates/business-template.md) | [Technical](../templates/technical-template.md)
 2. **Create Documentation**: Follow [POC Creation Guide](../getting-started/creating-pocs.md)
@@ -40,4 +40,4 @@ Comprehensive index of all POC solutions with quick access to key information.
 4. **Link Documents**: Ensure business ↔ technical cross-references
 
 ---
-*Last updated: {{ current_date }}*
+

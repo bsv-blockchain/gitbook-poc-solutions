@@ -46,6 +46,30 @@ How to contribute to and maintain the POC Solutions hub.
 - [ ] Standards guide updated if needed
 - [ ] Contributors notified of changes
 
-## 🔧 Technical Process
+## Technical Process
 
 ### **File Organization**
+
+### Create new POC folder
+mkdir poc-catalog/poc-name
+### Copy templates
+cp templates/business-template.md poc-catalog/poc-name/business.md cp templates/technical-template.md poc-catalog/poc-name/technical.md
+### Update catalog
+edit poc-catalog/README.md
+
+
+### **GitBook Sync**
+- Changes automatically sync to GitBook
+- Verify formatting in GitBook preview
+- Test all internal links work properly
+- Confirm navigation updates correctly
+
+## 📞 Getting Help
+
+- **Documentation Questions**: [Primary contact]
+- **Technical Issues**: [Technical lead]
+- **Process Questions**: [Project manager]
+- **GitBook Problems**: [Admin contact]
+
+---
+*This guide is a living document - suggest improvements through the normal contribution process.*

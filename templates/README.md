@@ -29,4 +29,5 @@ Standardized templates ensure consistent, comprehensive POC documentation across
 4. **Custom Sections**: Add POC-specific information as needed
 5. **Cross-Link**: Connect to related documentation
 
+---
 > 💡 **Pro Tip**: Use both templates for comprehensive coverage - business template for stakeholder communication, technical template for implementation details.

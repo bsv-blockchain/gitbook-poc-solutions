@@ -1,4 +1,4 @@
-# ⚙️ Technical POC Template
+# Technical POC Template
 
 Copy this template to create developer-focused POC documentation.
 
@@ -91,7 +91,7 @@ parameter_2: value
 - [Potential bottleneck 1]
 - [Optimization opportunity 1]
 
-## 🔧 Maintenance & Support
+## Maintenance & Support
 
 ### Monitoring
 - **Logs**: [Location/Access]
