@@ -1,39 +1,71 @@
 # Truth Machine - Business Overview
 
 **POC ID**: `POC-2025-001`
-**Status**: `Pilot`
+**Status**: `Production`
 **Last Updated**: `August 2025`
+
+---
 
 ## Executive Summary
 
-### Problem Statement
-The Truth Machine application addresses the need for **secure data integrity and trusted timestamping** using blockchain technology. It solves the problem of proving the existence and integrity of digital files at a specific point in time with immutable evidence.
+Truth Machine uses the Bitcoin SV blockchain to secure digital files by recording their cryptographic hashes on-chain. This creates a permanent, tamper-proof proof that a file existed at a specific time and has not been altered since.
 
-### Solution Overview
-This application demonstrates how to securely upload a file, then record its cryptographic hash on the Bitcoin SV blockchain to create an immutable proof of existence timestamp. Files are stored securely and can be retrieved later, providing verifiable evidence of their creation date and integrity to stakeholders.
+---
 
-### Key Benefits
-- Immutable proof of file existence and integrity using blockchain
-- Transparent and verifiable timestamping
-- Ability to fund operational costs via token creation for transaction fees
-- Supports secure document management with cryptographic assurance
+## Problem Statement
 
-## Business Impact
+Businesses often struggle to prove the authenticity and creation time of important digital documents. Traditional storage methods are vulnerable to tampering, accidental deletion, or disputes. Truth Machine solves this by providing immutable, verifiable evidence anchored on the blockchain.
 
-### Target Users
-- **Primary**: Enterprises requiring secure document timestamping and verification
-- **Secondary**: Developers and blockchain service providers demonstrating trusted data solutions
+---
 
-### Success & Usage Insights
-- In active production use by businesses seeking secure timestamping
-- Files cryptographically hashed and anchored on BSV blockchain for immutable audit trails
-- Treasury system funds transaction fees via token mechanisms to ensure cost transparency and sustainability  
+## How It Works
+
+- Files are uploaded and their hash is recorded on the Bitcoin SV blockchain.
+- The original files are stored securely off-chain.
+- At any time, users can verify a file’s integrity by comparing it with the blockchain record.
+- A Treasury system funds blockchain transaction fees transparently, ensuring ongoing operation.
+
+---
+
+## Key Benefits
+
+- **Immutable Proof**: Once recorded, data cannot be changed or deleted without detection.
+- **Trust & Compliance**: Provides reliable audit trails supporting legal and regulatory needs.
+- **Cost-Effective**: Blockchain fees managed by a tokenized treasury, avoiding surprise costs.
+- **Easy Verification**: Users can independently confirm data authenticity anytime.
+
+---
+
+## Who Uses Truth Machine?
+
+- Legal teams securing contracts and evidence
+- Compliance officers validating records for audits
+- Intellectual property owners protecting their work
+- Businesses needing trusted timestamping for transactions and documents
+
+---
+
+## Real-World Use Cases
+
+- **Legal Evidence Timestamping**: Prove digital evidence existed at a particular date.
+- **Regulatory Reporting**: Verified records to satisfy strict audit requirements.
+- **IP Ownership Claims**: Secure timestamps for creative works and inventions.
+- **Supply Chain Documentation**: Trusted proofs for shipment and quality records.
+
+---
+
+## Current Impact
+
+Truth Machine is in active production use, trusted by businesses to provide secure timestamping and data integrity. Its blockchain anchoring ensures each file has an immutable, verifiable audit trail. The token treasury funds transaction fees, enabling transparent and sustainable operations.
+
+---
 
 ## Related Resources
 
-- **Technical Documentation**: [Link to technical-truth-machine.md](technical-truth-machine.md)
-- **Demo/Prototype**: [Truth Machine Demo](https://truth-machine.bsvb.tech/)
-- **Business Case**: [Source Code](https://github.com/bsv-blockchain-demos/truth-machine)
+- **Technical Documentation**: [technical-truth-machine.md](technical-truth-machine.md)
+- **Live Demo**: [truth-machine.bsvb.tech](https://truth-machine.bsvb.tech)
+- **Source Code**: [GitHub Repository](https://github.com/bsv-blockchain-demos/truth-machine)
 
 ---
-*For technical implementation details, see: [Technical Documentation](technical-truth-machine.md)*
+
+*For technical specifications and implementation details, refer to the technical documentation.*
