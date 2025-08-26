@@ -42,7 +42,7 @@ Prerequisites: Latest versions of Docker Compose and Node.js. The `start.sh` scr
 
 ### Setup
 ```bash
-git clone https://github.com/bitcoin-sv/truth-machine.git
+git clone https://github.com/bsv-blockchain-demos/truth-machine.git
 cd truth-machine
 sh quickstart.sh
 ```

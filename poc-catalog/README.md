@@ -4,10 +4,10 @@ Comprehensive index of all POC solutions with quick access to key information.
 
 ## Active POCs
 
-| POC Name                             | Status   | Business Value | Tech Stack     | Owner    | Last Updated |
+| POC Name                             | Status   | Business Value | Tech Stack     | Maintainer    | Last Updated |
 |------------------------------------|----------|----------------|----------------|----------|--------------|
-| [Truth Machine - Business](truth-machine/business-truth-machine.md)   | 🟢 Active | High ROI       | Blockchain, Node.js | [BSV Blockchain]   | Aug 2025     |
-| [Truth Machine - Technical](truth-machine/technical-truth-machine.md) | 🟢 Active | High ROI       | Blockchain, Node.js | [BSV Blockchain]   | Aug 2025     |
+| [Truth Machine - Business](truth-machine/business-truth-machine.md)   | 🟢 Active | High ROI       | Blockchain, Node.js | BSVA   | Aug 2025     |
+| [Truth Machine - Technical](truth-machine/technical-truth-machine.md) | 🟢 Active | High ROI       | Blockchain, Node.js | BSVA   | Aug 2025     |
 
 
 ## POC Statistics
