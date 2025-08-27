@@ -1,6 +1,6 @@
 # Contribution Guide
 
-How to contribute to and maintain the POC Solutions hub.
+How to contribute to and maintain the Demo Solutions hub.
 
 ## Quick Contribution Flow
 
@@ -12,11 +12,11 @@ How to contribute to and maintain the POC Solutions hub.
 
 ## Roles & Responsibilities
 
-### **POC Owners**
-- Create and maintain POC documentation
+### **Demo Owners**
+- Create and maintain Demo documentation
 - Update status and progress regularly
 - Respond to questions and requests
-- Archive POC when complete
+- Archive Demo when complete
 
 ### **Technical Leads**
 - Maintain technical documentation accuracy
@@ -32,11 +32,11 @@ How to contribute to and maintain the POC Solutions hub.
 
 ## Contribution Checklist
 
-### **New POC Documentation**
+### **New Demo Documentation**
 - [ ] Business template completed
 - [ ] Technical template completed (if applicable)
 - [ ] Cross-references added between docs
-- [ ] POC catalog updated
+- [ ] Demo catalog updated
 - [ ] Stakeholders notified
 - [ ] Review process completed
 
@@ -50,12 +50,12 @@ How to contribute to and maintain the POC Solutions hub.
 
 ### **File Organization**
 
-### Create new POC folder
-mkdir poc-catalog/poc-name
+### Create new Demo folder
+mkdir demo-catalog/demo-name
 ### Copy templates
-cp templates/business-template.md poc-catalog/poc-name/business.md cp templates/technical-template.md poc-catalog/poc-name/technical.md
+cp templates/business-template.md demo-catalog/demo-name/business.md cp templates/technical-template.md demo-catalog/demo-name/technical.md
 ### Update catalog
-edit poc-catalog/README.md
+edit demo-catalog/README.md
 
 
 ### **GitBook Sync**

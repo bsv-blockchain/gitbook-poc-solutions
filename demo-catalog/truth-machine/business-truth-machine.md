@@ -1,6 +1,6 @@
 # Truth Machine - Business Overview
 
-**POC ID**: `POC-2025-001`
+**Demo ID**: `demo-2025-001`
 **Status**: `Production`
 **Last Updated**: `August 2025`
 

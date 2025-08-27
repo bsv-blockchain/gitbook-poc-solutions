@@ -12,11 +12,11 @@
 * [Business Template](templates/business-template.md)
 * [Technical Template](templates/technical-template.md)
 
-## POC Solutions
-* [POC Catalog](poc-catalog/README.md)
-  * [Truth Machine](poc-catalog/truth-machine/README.md)
-    * [Business Documentation](poc-catalog/truth-machine/business-truth-machine.md)
-    * [Technical Documentation](poc-catalog/truth-machine/technical-truth-machine.md)
+## Demo Solutions
+* [Demo Catalog](demo-catalog/README.md)
+  * [Truth Machine](demo-catalog/truth-machine/README.md)
+    * [Business Documentation](demo-catalog/truth-machine/business-truth-machine.md)
+    * [Technical Documentation](demo-catalog/truth-machine/technical-truth-machine.md)
 
 ## Guidelines
 * [Documentation Standards](guidelines/README.md)

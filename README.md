@@ -1,10 +1,10 @@
-# POC Solutions Hub
+# Demo Solutions Hub
 
 Welcome to our centralized repository for Proof of Concept (POC) solutions. This space provides structured documentation for both business stakeholders and technical teams.
 
 ## Purpose
 
-This hub serves as a single source of truth for all POC solutions, offering:
+This hub serves as a single source of truth for all Demo solutions, offering:
 - **Business-focused documentation** for managers and decision-makers
 - **Technical documentation** for developers and implementers
 - **Standardized templates** for consistent documentation
@@ -14,7 +14,7 @@ This hub serves as a single source of truth for all POC solutions, offering:
 
 | Role | Start Here |
 |------|------------|
-| **Business Manager** | [POC Catalog](poc-catalog/README.md) → [Business Template](templates/business-template.md) |
+| **Business Manager** | [Demo Catalog](demo-catalog/README.md) → [Business Template](templates/business-template.md) |
 | **Developer/Engineer** | [Technical Template](templates/technical-template.md) → [How to Use](getting-started/README.md) |
 | **New Contributor** | [Contribution Guide](guidelines/contribution-guide.md) |
 
@@ -26,4 +26,4 @@ This hub serves as a single source of truth for all POC solutions, offering:
 
 ---
 
-> 💡 **Tip**: Each POC includes both business and technical documentation linked together for complete context.
+> 💡 **Tip**: Each Demo includes both business and technical documentation linked together for complete context.

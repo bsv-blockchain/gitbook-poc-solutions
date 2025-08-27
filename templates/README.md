@@ -1,6 +1,6 @@
 # Templates Overview
 
-Standardized templates ensure consistent, comprehensive POC documentation across all projects.
+Standardized templates ensure consistent, comprehensive Demo documentation across all projects.
 
 ## Available Templates
 
@@ -13,7 +13,7 @@ Standardized templates ensure consistent, comprehensive POC documentation across
 
 ### **Modular Design**
 - **Core Modules**: Essential information (always required)
-- **Optional Modules**: Additional sections based on POC complexity
+- **Optional Modules**: Additional sections based on Demo complexity
 - **Cross-References**: Automatic linking between business and technical docs
 
 ### **Dynamic Content**
@@ -26,7 +26,7 @@ Standardized templates ensure consistent, comprehensive POC documentation across
 1. **Start with Base Template**: Copy the appropriate template
 2. **Required Sections**: Complete all core modules
 3. **Optional Additions**: Include relevant optional modules
-4. **Custom Sections**: Add POC-specific information as needed
+4. **Custom Sections**: Add demo-specific information as needed
 5. **Cross-Link**: Connect to related documentation
 
 ---

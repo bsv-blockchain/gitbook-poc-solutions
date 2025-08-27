@@ -1,16 +1,16 @@
-# POC Catalog
+# Demo Catalog
 
-Comprehensive index of all POC solutions with quick access to key information.
+Comprehensive index of all Demo solutions with quick access to key information.
 
 ## Active POCs
 
-| POC Name                             | Status   | Business Value | Tech Stack     | Maintainer    | Last Updated |
+| Demo Name                             | Status   | Business Value | Tech Stack     | Maintainer    | Last Updated |
 |------------------------------------|----------|----------------|----------------|----------|--------------|
 | [Truth Machine - Business](truth-machine/business-truth-machine.md)   | 🟢 Active | High ROI       | Blockchain, Node.js | BSVA   | Aug 2025     |
 | [Truth Machine - Technical](truth-machine/technical-truth-machine.md) | 🟢 Active | High ROI       | Blockchain, Node.js | BSVA   | Aug 2025     |
 
 
-## POC Statistics
+## Demo Statistics
 
 - **Total POCs**: 1
 - **Active**: 1
@@ -35,7 +35,7 @@ Comprehensive index of all POC solutions with quick access to key information.
 ## Adding New POCs
 
 1. **Choose Template**: [Business](../templates/business-template.md) | [Technical](../templates/technical-template.md)
-2. **Create Documentation**: Follow [POC Creation Guide](../getting-started/creating-pocs.md)
+2. **Create Documentation**: Follow [Demo Creation Guide](../getting-started/creating-pocs.md)
 3. **Update This Catalog**: Add entry to the table above
 4. **Link Documents**: Ensure business ↔ technical cross-references
 

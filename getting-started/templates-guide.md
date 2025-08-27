@@ -1,6 +1,6 @@
 # Templates Guide
 
-This page explains **what each template contains, how to copy it, and how to mix-and-match modules** to document new POC solutions quickly.
+This page explains **what each template contains, how to copy it, and how to mix-and-match modules** to document new Demo solutions quickly.
 
 ---
 
@@ -18,20 +18,20 @@ GitBook supports **page duplication** and **block-level editing**, so you can re
 ## 2 · Folder Structure
 
 templates/
-├── business-template.md # copy → [poc-name]/business.md
-└── technical-template.md # copy → [poc-name]/technical.md
+├── business-template.md # copy → [demo-name]/business.md
+└── technical-template.md # copy → [demo-name]/technical.md
 
-## 3 · Create a New POC Doc (Git Sync)
+## 3 · Create a New Demo Doc (Git Sync)
 
 1. Create a folder for the new POC
-mkdir poc-catalog/example
+mkdir demo-catalog/example
 
 2. Copy base templates
-cp templates/business-template.md poc-catalog/example/business.md
-cp templates/technical-template.md poc-catalog/example/technical.md
+cp templates/business-template.md demo-catalog/example/business.md
+cp templates/technical-template.md demo-catalog/example/technical.md
 
 3. Commit & push
-git add poc-catalog/example
+git add demo-catalog/example
 git commit -m "docs: add example POC"
 git push
 
@@ -40,12 +40,12 @@ GitBook will auto-sync the push and render both pages in the correct navigation 
 
 ---
 
-## 4 · Create a New POC Doc (GitBook UI)
+## 4 · Create a New Demo Doc (GitBook UI)
 
 1. Open the **Templates** section in the left panel.
 2. Click the **⋮** menu on *Business Template* or *Technical Template* → **Duplicate**.
 3. Rename the duplicated page (e.g., `example – Business`).
-4. Move the page into **POC Solutions › example**.
+4. Move the page into **Demo Solutions › example**.
 5. Edit placeholders and delete unused sections.
 
 ---
@@ -56,8 +56,8 @@ GitBook will auto-sync the push and render both pages in the correct navigation 
 For technical details, see: Technical Documentation
 
 text
-- Update the **POC Catalog** table after creating a new POC.
-- Keep IDs and filenames identical across business & technical docs (`POC-2025-001`).
+- Update the **Demo Catalog** table after creating a new POC.
+- Keep IDs and filenames identical across business & technical docs (`demo-2025-001`).
 
 ---
 
@@ -83,6 +83,6 @@ text
 
 ---
 
-Happy documenting! Use these templates to keep every POC clear, consistent, and easy to navigate.
+Happy documenting! Use these templates to keep every Demo clear, consistent, and easy to navigate.
 
 
