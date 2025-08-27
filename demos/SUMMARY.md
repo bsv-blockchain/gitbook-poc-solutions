@@ -1,6 +1,6 @@
 # Summary
 
-* [POC Catalog Home](README.md)
+* [Demo Catalog Home](README.md)
 
 ## Truth Machine
 * [Business Documentation](truth-machine/business-truth-machine.md)

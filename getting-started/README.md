@@ -1,12 +1,12 @@
 # How to Use This Space
 
-This guide helps you navigate and contribute to our POC Solutions hub effectively.
+This guide helps you navigate and contribute to our Demo Solutions hub effectively.
 
 ## Navigation
 
 ### **For Business Stakeholders**
-1. **Browse POCs**: Start at [POC Catalog](../poc-catalog/README.md)
-2. **Understand Business Value**: Each POC has a dedicated business overview
+1. **Browse POCs**: Start at [Demo Catalog](../demo-catalog/README.md)
+2. **Understand Business Value**: Each Demo has a dedicated business overview
 3. **Access Quick Metrics**: ROI, timeline, and resource requirements
 4. **Find Implementation Status**: Current phase and next steps
 
@@ -19,5 +19,5 @@ This guide helps you navigate and contribute to our POC Solutions hub effectivel
 ## Support
 
 - **Documentation Issues**: Create an issue in the repository
-- **POC Questions**: Contact the POC owner (listed in each document)
+- **Demo Questions**: Contact the Demo owner (listed in each document)
 - **Template Updates**: Follow the [Contribution Guide](../guidelines/contribution-guide.md)

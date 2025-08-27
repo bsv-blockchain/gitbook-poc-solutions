@@ -1,20 +1,20 @@
 # Creating New POCs
 
-Follow this process to add new POC documentation to the hub.
+Follow this process to add new Demo documentation to the hub.
 
 ## Quick Creation Process
 
 1. **Choose Template**: Business, Technical, or both
 2. **Copy Template**: Use the appropriate template as starting point
-3. **Fill Information**: Replace placeholders with POC details
+3. **Fill Information**: Replace placeholders with Demo details
 4. **Link Documents**: Connect business and technical docs
-5. **Update Catalog**: Add entry to POC catalog
+5. **Update Catalog**: Add entry to Demo catalog
 6. **Review & Publish**: Get stakeholder approval
 
 ## Required Information
 
 ### **Minimum Requirements**
-- [ ] POC Name and unique identifier
+- [ ] Demo Name and unique identifier
 - [ ] Problem statement and objectives
 - [ ] Key stakeholders and contacts
 - [ ] Current status and timeline

@@ -1,12 +1,12 @@
-# Technical POC Template
+# Technical Demo Template
 
-Copy this template to create developer-focused POC documentation.
+Copy this template to create developer-focused Demo documentation.
 
 ---
 
-# [POC Name] - Technical Documentation
+# [Demo Name] - Technical Documentation
 
-**POC ID**: `[MATCHES-BUSINESS-DOC]`
+**Demo ID**: `[MATCHES-BUSINESS-DOC]`
 **Version**: `[1.0.0]`
 **Last Updated**: `[DATE]`
 

@@ -1,19 +1,19 @@
-# Business POC Template
+# Business Demo Template
 
-Copy this template to create business-focused POC documentation.
+Copy this template to create business-focused Demo documentation.
 
 ---
 
-# [POC Name] - Business Overview
+# [Demo Name] - Business Overview
 
-**POC ID**: `[AUTO-GENERATED]`
+**Demo ID**: `[AUTO-GENERATED]`
 **Status**: `[Development/Pilot/Production]`
 **Last Updated**: `[DATE]`
 
 ## Executive Summary
 
 ### Problem Statement
-[Describe the business problem or opportunity this POC addresses]
+[Describe the business problem or opportunity this Demo addresses]
 
 ### Solution Overview
 [High-level description of the proposed solution in business terms]

@@ -1,6 +1,6 @@
 # Documentation Standards
 
-Standards and guidelines for maintaining high-quality POC documentation.
+Standards and guidelines for maintaining high-quality Demo documentation.
 
 ## Documentation Quality Standards
 
@@ -25,7 +25,7 @@ Standards and guidelines for maintaining high-quality POC documentation.
 ## Maintenance Schedule
 
 ### **Monthly Reviews**
-- Update POC status and progress
+- Update Demo status and progress
 - Refresh metrics and KPIs
 - Verify contact information
 - Check link integrity
@@ -53,12 +53,12 @@ Standards and guidelines for maintaining high-quality POC documentation.
 ## Naming Conventions
 
 ### **Files and Folders**
-- Use lowercase with hyphens: `my-poc-name`
-- Include POC type in folder structure
+- Use lowercase with hyphens: `my-demo-name`
+- Include Demo type in folder structure
 - Maintain consistent README.md naming
 
-### **POC Identifiers**
-- Format: `POC-YYYY-###` (e.g., POC-2025-001)
+### **Demo Identifiers**
+- Format: `demo-YYYY-###` (e.g., demo-2025-001)
 - Sequential numbering within year
 - Maintain registry in catalog
 
