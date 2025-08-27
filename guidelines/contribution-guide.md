@@ -53,7 +53,7 @@ How to contribute to and maintain the Demo Solutions hub.
 ### Create new Demo folder
 mkdir demo-catalog/demo-name
 ### Copy templates
-cp templates/business-template.md demo-catalog/demo-name/business.md cp templates/technical-template.md demo-catalog/demo-name/technical.md
+cp templates/demos/business-template.md demo-catalog/demo-name/business.md cp templates/demos/technical-template.md demo-catalog/demo-name/technical.md
 ### Update catalog
 edit demo-catalog/README.md
 

@@ -34,7 +34,7 @@ Comprehensive index of all Demo solutions with quick access to key information.
 
 ## Adding New POCs
 
-1. **Choose Template**: [Business](../templates/business-template.md) | [Technical](../templates/technical-template.md)
+1. **Choose Template**: [Business](../templates/demos/business-template.md) | [Technical](../templates/demos/technical-template.md)
 2. **Create Documentation**: Follow [Demo Creation Guide](../getting-started/creating-pocs.md)
 3. **Update This Catalog**: Add entry to the table above
 4. **Link Documents**: Ensure business ↔ technical cross-references

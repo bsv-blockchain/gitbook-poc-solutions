@@ -17,7 +17,7 @@ GitBook supports **page duplication** and **block-level editing**, so you can re
 
 ## 2 · Folder Structure
 
-templates/
+templates/demos/
 ├── business-template.md # copy → [demo-name]/business.md
 └── technical-template.md # copy → [demo-name]/technical.md
 
@@ -27,8 +27,8 @@ templates/
 mkdir demo-catalog/example
 
 2. Copy base templates
-cp templates/business-template.md demo-catalog/example/business.md
-cp templates/technical-template.md demo-catalog/example/technical.md
+cp templates/demos/business-template.md demo-catalog/example/business.md
+cp templates/demos/technical-template.md demo-catalog/example/technical.md
 
 3. Commit & push
 git add demo-catalog/example

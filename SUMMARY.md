@@ -8,9 +8,9 @@
 * [Using Templates](getting-started/templates-guide.md)
 
 ## Templates
-* [Templates Overview](templates/README.md)
-* [Business Template](templates/business-template.md)
-* [Technical Template](templates/technical-template.md)
+* [Templates Overview](templates/demos/README.md)
+* [Business Template](templates/demos/business-template.md)
+* [Technical Template](templates/demos/technical-template.md)
 
 ## Demo Solutions
 * [Demo Catalog](demo-catalog/README.md)
