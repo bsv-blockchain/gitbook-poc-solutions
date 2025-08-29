@@ -37,12 +37,6 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **In Development**: More POCs being added regularly
 - **Archived**: [None]
 
-### By Technology
-- **Web Applications**: [Future links]
-- **Mobile Solutions**: [Future links]
-- **Data & Analytics**: [Future links]
-- **Infrastructure**: [Future links]
-
 ## Adding New POCs
 
 1. **Choose Template**: [Business](../templates/demos/business-template.md) | [Technical](../templates/demos/technical-template.md)
