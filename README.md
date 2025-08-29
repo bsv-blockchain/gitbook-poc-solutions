@@ -22,7 +22,7 @@ This hub serves as a single source of truth for all Demo solutions, offering:
 
 ## Current Status
 
-- **Active POCs**: 1
+- **Active Demos**: 5
 - **Templates Available**: 2 (Business + Technical)
 - **Last Updated**: 25/08/2025
 
