@@ -66,7 +66,7 @@ Natural Chain is actively demonstrated in the BSV ecosystem, showcasing blockcha
 
 - **Technical Documentation:** [technical-natural-chain.md](technical-natural-chain.md)
 - **Repository:** [GitHub - bsv-blockchain-demos/natural-chain](https://github.com/bsv-blockchain-demos/natural-chain)
-- **Demo URL:** (Not publicly listed; see technical documentation for local deployment)
+- **Demo URL:** [Natural Chain Site](https://natural-chain.vercel.app/)
 
 ---
 
