@@ -1,5 +1,9 @@
 # Truth Machine - Technical Documentation
 
+**Demo ID**: `demo-2025-001`
+**Version**: `1.0.0`
+**Last Updated**: `August 2025`
+
 ## Overview
 
 Truth Machine is a blockchain-based data integrity and timestamping system built on BSV. It provides immutable proof of data existence and integrity by recording cryptographic hashes on the blockchain.

@@ -2,6 +2,8 @@
 
 Welcome to our centralized repository for Proof of Concept (POC) solutions. This space provides structured documentation for both business stakeholders and technical teams.
 
+> **Note**: This catalog represents a subset of BSVA's  portfolio. Many are still in development and not all are documented in this GitBook yet. BSVA is continuously incorporating new additions to expand the catalog.
+
 ## Purpose
 
 This hub serves as a single source of truth for all Demo solutions, offering:
@@ -20,7 +22,7 @@ This hub serves as a single source of truth for all Demo solutions, offering:
 
 ## Current Status
 
-- **Active POCs**: 1
+- **Active Demos**: 5
 - **Templates Available**: 2 (Business + Technical)
 - **Last Updated**: 25/08/2025
 
