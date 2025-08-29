@@ -14,19 +14,19 @@
 
 ## Demo Solutions
 * [Demo Catalog](demos/README.md)
-  * [Natural Chain](demos/demo-catalog/natural-chain/README.md)
+  * Natural Chain
     * [Business Documentation](demos/demo-catalog/natural-chain/business-natural-chain.md)
     * [Technical Documentation](demos/demo-catalog/natural-chain/technical-natural-chain.md)
-  * [P2P Medical](demos/demo-catalog/p2p-medical/README.md)
+  * P2P Medical
     * [Business Documentation](demos/demo-catalog/p2p-medical/business-p2p-medical.md)
     * [Technical Documentation](demos/demo-catalog/p2p-medical/technical-p2p-medical.md)
-  * [Prescription Tokens](demos/demo-catalog/prescription-tokens/README.md)
+  * Prescription Tokens
     * [Business Documentation](demos/demo-catalog/prescription-tokens/business-prescription-tokens.md)
     * [Technical Documentation](demos/demo-catalog/prescription-tokens/technical-prescription-tokens.md)
-  * [Register](demos/demo-catalog/register/README.md)
+  * Register
     * [Business Documentation](demos/demo-catalog/register/business-register.md)
     * [Technical Documentation](demos/demo-catalog/register/technical-register.md)
-  * [Truth Machine](demos/demo-catalog/truth-machine/README.md)
+  * Truth Machine
     * [Business Documentation](demos/demo-catalog/truth-machine/business-truth-machine.md)
     * [Technical Documentation](demos/demo-catalog/truth-machine/technical-truth-machine.md)
 
