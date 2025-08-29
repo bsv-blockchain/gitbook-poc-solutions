@@ -2,7 +2,7 @@
 
 Comprehensive index of all Demo solutions with quick access to key information.
 
-> **Note**: This catalog represents a subset of BSVA's POC portfolio. Many POCs are still in development and not all are documented in this GitBook yet. BSVA is continuously incorporating new additions to expand the catalog.
+> **Note**: This catalog represents a subset of BSVA's Demos portfolio. Many Demos are still in development and not all are documented in this GitBook yet. BSVA is continuously incorporating new additions to expand the catalog.
 
 ## Active POCs
 
