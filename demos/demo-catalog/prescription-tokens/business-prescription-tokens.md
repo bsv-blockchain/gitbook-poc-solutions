@@ -65,7 +65,7 @@ Prescription Tokens is an active demo showcasing how blockchain tokenization can
 
 - **Technical Documentation:** [technical-prescription-tokens.md](technical-prescription-tokens.md)
 - **Repository:** [GitHub - bsv-blockchain-demos/prescription-tokens](https://github.com/bsv-blockchain-demos/prescription-tokens)
-- **Demo URL:** (Local environment as per repo instructions)
+- **Demo URL:** [Prescriptions Site](prescription-eight.vercel.app)
 
 ---
 

@@ -66,7 +66,7 @@ Natural Chain is actively demonstrated in the BSV ecosystem, showcasing blockcha
 
 - **Technical Documentation:** [technical-natural-chain.md](technical-natural-chain.md)
 - **Repository:** [GitHub - bsv-blockchain-demos/natural-chain](https://github.com/bsv-blockchain-demos/natural-chain)
-- **Demo URL:** [http://localhost:3000](http://localhost:3000) (local deployment)
+- **Demo URL:** (Not publicly listed; see technical documentation for local deployment)
 
 ---
 

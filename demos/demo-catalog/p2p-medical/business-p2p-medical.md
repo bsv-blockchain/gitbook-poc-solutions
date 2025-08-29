@@ -63,7 +63,7 @@ Secure Med Drop-Off demonstrates next-generation file sharing workflows in healt
 
 - **Technical Documentation:** [technical-p2p-medical.md](technical-p2p-medical.md)
 - **Repository:** [GitHub - bsv-blockchain-demos/p2p-medical](https://github.com/bsv-blockchain-demos/p2p-medical)
-- **Demo URL:** http://localhost:8080/
+- **Demo URL:** (Not publicly listed; see technical documentation for local deployment)
 
 ---
 

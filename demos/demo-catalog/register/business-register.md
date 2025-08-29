@@ -67,7 +67,7 @@ Deployed as a live demo within BSV ecosystem, Register showcases real-world secu
 
 - **Technical Documentation:** [technical-register.md](technical-register.md)
 - **Repository:** [GitHub - bsv-blockchain-demos/register](https://github.com/bsv-blockchain-demos/register)
-- **Demo Site:** (Not publicly listed; see repo for local deployment)
+- **Demo Site:** (Not publicly listed; see technical documentation for local deployment)
 
 ---
 
