@@ -3,8 +3,6 @@
 
 ## Getting Started
 * [How to Use This Space](getting-started/README.md)
-* [Creating New POCs](getting-started/creating-pocs.md)
-* [Using Templates](getting-started/templates-guide.md)
 
 ## Demo Solutions
 * [Demo Catalog](demos/README.md)
