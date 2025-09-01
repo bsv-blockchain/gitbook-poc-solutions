@@ -24,7 +24,7 @@ This hub serves as a single source of truth for all Demo solutions, offering:
 
 - **Active Demos**: 5
 - **Templates Available**: 2 (Business + Technical)
-- **Last Updated**: 25/08/2025
+- **Last Updated**: 01/09/2025
 
 ---
 
