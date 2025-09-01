@@ -5,7 +5,7 @@ This guide helps you navigate on our Demo Solutions hub effectively.
 ## Navigation
 
 ### **For Business Stakeholders**
-1. **Browse POCs**: Start at [Demo Catalog](../demo-catalog/README.md)
+1. **Browse POCs**: Start at [Demo Catalog](../demos/README.md)
 2. **Understand Business Value**: Each Demo has a dedicated business overview
 3. **Access Quick Metrics**: ROI, timeline, and resource requirements
 4. **Find Implementation Status**: Current phase and next steps
