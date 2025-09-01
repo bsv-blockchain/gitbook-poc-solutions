@@ -22,3 +22,11 @@
     * [Business Documentation](demos/demo-catalog/truth-machine/business-truth-machine.md)
     * [Technical Documentation](demos/demo-catalog/truth-machine/technical-truth-machine.md)
 
+## Onboardings
+* [Onboarding Overview](onboardings/README.md)
+* [Onboarding Catalog](onboardings/onboarding-catalog/README.md)
+  * Getting BSV
+    * [Getting BSV Overview](onboardings/onboarding-catalog/get-bsv/README.md)
+    * [Orange Gateway](onboardings/onboarding-catalog/get-bsv/orange-gateway.md)
+  * [Metanet Desktop (Mainnet)](onboardings/onboarding-catalog/metanet-desktop-mainnet.md)
+  * [Pay and Paid](onboardings/onboarding-catalog/pay-and-paid.md)
