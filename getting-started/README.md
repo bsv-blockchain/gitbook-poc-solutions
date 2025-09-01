@@ -1,6 +1,6 @@
 # How to Use This Space
 
-This guide helps you navigate and contribute to our Demo Solutions hub effectively.
+This guide helps you navigate on our Demo Solutions hub effectively.
 
 ## Navigation
 
@@ -20,4 +20,3 @@ This guide helps you navigate and contribute to our Demo Solutions hub effective
 
 - **Documentation Issues**: Create an issue in the repository
 - **Demo Questions**: Contact the Demo owner (listed in each document)
-- **Template Updates**: Follow the [Contribution Guide](../guidelines/contribution-guide.md)
