@@ -1,5 +1,4 @@
 # Table of contents
-
 * [Home](README.md)
 
 ## Getting Started
@@ -25,6 +24,3 @@
     * [Business Documentation](demos/demo-catalog/truth-machine/business-truth-machine.md)
     * [Technical Documentation](demos/demo-catalog/truth-machine/technical-truth-machine.md)
 
-## Guidelines
-* [Documentation Standards](guidelines/README.md)
-* [Contribution Guide](guidelines/contribution-guide.md)
