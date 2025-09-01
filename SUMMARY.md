@@ -7,11 +7,6 @@
 * [Creating New POCs](getting-started/creating-pocs.md)
 * [Using Templates](getting-started/templates-guide.md)
 
-## Templates
-* [Templates Overview](templates/demos/README.md)
-* [Business Template](templates/demos/business-template.md)
-* [Technical Template](templates/demos/technical-template.md)
-
 ## Demo Solutions
 * [Demo Catalog](demos/README.md)
   * Natural Chain
