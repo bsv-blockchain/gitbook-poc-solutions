@@ -16,8 +16,8 @@ This hub serves as a single source of truth for all Demo solutions, offering:
 
 | Role | Start Here |
 |------|------------|
-| **Business Manager** | [Demo Catalog](demos/README.md) |
-| **Developer/Engineer** | [How to Use](getting-started/README.md) → [Demo Catalog](demos/README.md) |
+| **Business Manager** | [Demo Catalog](demos/demo-catalog/README.md) |
+| **Developer/Engineer** | [How to Use](getting-started/README.md) → [Demo Catalog](demos/demo-catalog/README.md) |
 
 
 ## Current Status
