@@ -4,20 +4,16 @@ Comprehensive index of all Demo solutions with quick access to key information.
 
 > **Note**: This catalog represents a subset of BSVA's Demos portfolio. Many Demos are still in development and not all are documented in this GitBook yet. BSVA is continuously incorporating new additions to expand the catalog.
 
-## Active POCs
+## Active Demos
 
-| Demo Name                             | Status        | Maintainer | Last Updated |
-|---------------------------------------|---------------|------------|--------------|
-| [Natural Chain - Business](demo-catalog/natural-chain/business-natural-chain.md)       | 🟢 Production | BSVA       | Aug 2025     |
-| [Natural Chain - Technical](demo-catalog/natural-chain/technical-natural-chain.md)     | 🟢 Production | BSVA       | Aug 2025     |
-| [P2P Medical - Business](demo-catalog/p2p-medical/business-p2p-medical.md)            | 🔵 Demo       | BSVA       | Aug 2025     |
-| [P2P Medical - Technical](demo-catalog/p2p-medical/technical-p2p-medical.md)          | 🔵 Demo       | BSVA       | Aug 2025     |
-| [Prescription Tokens - Business](demo-catalog/prescription-tokens/business-prescription-tokens.md) | 🟢 Production | BSVA | Aug 2025     |
-| [Prescription Tokens - Technical](demo-catalog/prescription-tokens/technical-prescription-tokens.md) | 🟢 Production | BSVA | Aug 2025     |
-| [Register - Business](demo-catalog/register/business-register.md)                     | 🟡 Ready      | BSVA       | Aug 2025     |
-| [Register - Technical](demo-catalog/register/technical-register.md)                   | 🟡 Ready      | BSVA       | Aug 2025     |
-| [Truth Machine - Business](demo-catalog/truth-machine/business-truth-machine.md)      | 🟢 Production | BSVA       | Aug 2025     |
-| [Truth Machine - Technical](demo-catalog/truth-machine/technical-truth-machine.md)    | 🟢 Production | BSVA       | Aug 2025     |
+| Use Case | Demo Name | Description | Links | Last Updated |
+|----------|-----------|-------------|-------|--------------|
+| **Data Integrity & Hashing** | Truth Machine | This application demonstrates secure data integrity and timestamping on the BSV Blockchain. Upload a file, and its cryptographic hash is recorded on the blockchain, creating an immutable proof of existence at that exact time. Files are stored in a regular database and can be retrieved later with verifiable evidence of their creation date and integrity. The Treasury section enables token creation to fund transaction fees for the service. | [Summary](demo-catalog/truth-machine/README.md) • [Business](demo-catalog/truth-machine/business-truth-machine.md) • [Technical](demo-catalog/truth-machine/technical-truth-machine.md) | Aug 2025 |
+| **Supply Chain Tracking** | Natural Chain | A natural gas supply chain proof of concept system leveraging the BSV blockchain that creates an incentivized data-provenance tracking for methane emissions across different supply chain stages. The demo shows how each party can view history, confirm/acknowledge receipt of items, triggering new transaction states with unique transaction IDs (txid). | [Summary](demo-catalog/natural-chain/README.md) • [Business](demo-catalog/natural-chain/business-natural-chain.md) • [Technical](demo-catalog/natural-chain/technical-natural-chain.md) | Aug 2025 |
+| **Healthcare Tokenization** | Prescription Tokens | A prescription token proof-of-concept using BSV blockchain that creates secure, transferable prescription ownership. This demo serves as a precursor to identity solutions, built entirely with BSV stack components and demonstrating remote rootKey-based WalletClient over JSON RPC. Built for QuarkID/BlockMed. | [Summary](demo-catalog/prescription-tokens/README.md) • [Business](demo-catalog/prescription-tokens/business-prescription-tokens.md) • [Technical](demo-catalog/prescription-tokens/technical-prescription-tokens.md) | Aug 2025 |
+| **Medical Data Exchange** | P2P Medical | Peer-to-peer medical data exchange system demonstrating secure patient data sharing and interoperability between healthcare providers using BSV blockchain for data integrity and access control. | [Summary](demo-catalog/p2p-medical/README.md) • [Business](demo-catalog/p2p-medical/business-p2p-medical.md) • [Technical](demo-catalog/p2p-medical/technical-p2p-medical.md) | Aug 2025 |
+| **Digital Identity** | Register | Digital identity management system showcasing decentralized identity creation, verification, and management capabilities on BSV blockchain for secure user authentication and credential management. | [Summary](demo-catalog/register/README.md) • [Business](demo-catalog/register/business-register.md) • [Technical](demo-catalog/register/technical-register.md) | Aug 2025 |
+
 
 ## Demo Statistics
 
