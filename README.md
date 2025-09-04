@@ -16,15 +16,15 @@ This hub serves as a single source of truth for all Demo solutions, offering:
 
 | Role | Start Here |
 |------|------------|
-| **Business Manager** | [Demo Catalog](demo-catalog/README.md) → [Business Template](templates/demos/business-template.md) |
-| **Developer/Engineer** | [Technical Template](templates/demos/technical-template.md) → [How to Use](getting-started/README.md) |
-| **New Contributor** | [Contribution Guide](guidelines/contribution-guide.md) |
+| **Business Manager** | [Demo Catalog](demo-catalog/README.md) |
+| **Developer/Engineer** | [How to Use](getting-started/README.md) → [Demo Catalog](demo-catalog/README.md) |
+
 
 ## Current Status
 
 - **Active Demos**: 5
 - **Templates Available**: 2 (Business + Technical)
-- **Last Updated**: 25/08/2025
+- **Last Updated**: 01/09/2025
 
 ---
 

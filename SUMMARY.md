@@ -1,16 +1,8 @@
 # Table of contents
-
 * [Home](README.md)
 
 ## Getting Started
 * [How to Use This Space](getting-started/README.md)
-* [Creating New POCs](getting-started/creating-pocs.md)
-* [Using Templates](getting-started/templates-guide.md)
-
-## Templates
-* [Templates Overview](templates/demos/README.md)
-* [Business Template](templates/demos/business-template.md)
-* [Technical Template](templates/demos/technical-template.md)
 
 ## Demo Solutions
 * [Demo Catalog](demos/README.md)
@@ -30,6 +22,11 @@
     * [Business Documentation](demos/demo-catalog/truth-machine/business-truth-machine.md)
     * [Technical Documentation](demos/demo-catalog/truth-machine/technical-truth-machine.md)
 
-## Guidelines
-* [Documentation Standards](guidelines/README.md)
-* [Contribution Guide](guidelines/contribution-guide.md)
+## Onboardings
+* [Onboarding Overview](onboardings/README.md)
+* [Onboarding Catalog](onboardings/onboarding-catalog/README.md)
+  * Getting BSV
+    * [Getting BSV Overview](onboardings/onboarding-catalog/get-bsv/README.md)
+    * [Orange Gateway](onboardings/onboarding-catalog/get-bsv/orange-gateway.md)
+  * [Metanet Desktop (Mainnet)](onboardings/onboarding-catalog/metanet-desktop-mainnet.md)
+  * [Pay and Paid](onboardings/onboarding-catalog/pay-and-paid.md)
