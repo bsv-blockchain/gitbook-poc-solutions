@@ -15,22 +15,53 @@ Comprehensive index of all Demo solutions with quick access to key information.
 | **Digital Identity** | Register | Digital identity management system showcasing decentralized identity creation, verification, and management capabilities on BSV blockchain for secure user authentication and credential management. | [Business](demo-catalog/register/business-register.md) [Technical](demo-catalog/register/technical-register.md) | Aug 2025 |
 
 
-## Demo Statistics
-
-- **Total POCs (Documented)**: 5
-- **Production**: 3 (Natural Chain, Prescription Tokens, Truth Machine)
-- **Ready for Production**: 1 (Register)
-- **Demo Only**: 1 (P2P Medical)
-- **In Development**: Additional POCs coming soon
-- **Archived**: 0
-
 ## Quick Filters
 
-### By Status
-- **Production Ready**: Natural Chain, Prescription Tokens, Truth Machine
-- **Ready for Deployment**: Register
-- **Demo/Proof of Concept**: P2P Medical
-- **In Development**: More POCs being added regularly
-- **Archived**: [None]
+### By Industry
+- **Healthcare:** P2P Medical, Prescription Tokens
+- **Supply Chain:** Natural Chain
+- **Data Management:** Truth Machine
+- **Identity:** Register
 
+### By Use Case Category
+- **Data Integrity:** Truth Machine
+- **Tokenization:** Prescription Tokens
+- **Supply Chain Tracking:** Natural Chain
+- **Healthcare Systems:** P2P Medical, Prescription Tokens
+- **Identity Management:** Register
+
+### By Implementation Status
+- **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens
+- **In Progress:** P2P Medical, Register
+- **Not Started:** Additional use cases coming soon
+
+### By Development Stage
+- **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens
+- **Core Features Complete:** P2P Medical, Register
+- **Planning Phase:** Future demos in roadmap
+
+## Demo Access Links
+
+### Truth Machine - Data Integrity & Hashing
+- **Live Demo:** [https://truth-machine.bsvb.tech/](https://truth-machine.bsvb.tech/)
+- **Repository:** [https://github.com/bsv-blockchain-demos/truth-machine](https://github.com/bsv-blockchain-demos/truth-machine)
+
+### Natural Chain - Supply Chain Natural Gas
+- **Live Demo:** [natural-chain.vercel.app](https://natural-chain.vercel.app) *(new bsvb.tech URL coming soon)*
+- **Repository:** [https://github.com/bsv-blockchain-demos/natural-chain](https://github.com/bsv-blockchain-demos/natural-chain)
+
+
+### Prescription Tokens - Tokenization of Medicine
+- **Live Demo:** [prescription-tokens.vercel.app](https://prescription-tokens.vercel.app) *(new bsvb.tech URL coming soon)*
+- **Repository:** [https://github.com/bsv-blockchain-demos/prescription-tokens](https://github.com/bsv-blockchain-demos/prescription-tokens)
+
+## Navigation Structure
+
+Each use case includes:
+- **Business Documentation**: Business value, use cases, ROI, and implementation considerations
+- **Technical Documentation**: Architecture, APIs, deployment guides, and developer resources
+
+---
+
+**Note**: All demonstrations run on BSV blockchain testnet/development environments to showcase capabilities without real-world financial implications.
 ---
