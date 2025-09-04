@@ -62,6 +62,3 @@ Each use case includes:
 - **Technical Documentation**: Architecture, APIs, deployment guides, and developer resources
 
 ---
-
-**Note**: All demonstrations run on BSV blockchain testnet/development environments to showcase capabilities without real-world financial implications.
----
