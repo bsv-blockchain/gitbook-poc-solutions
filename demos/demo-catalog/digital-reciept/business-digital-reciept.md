@@ -59,4 +59,4 @@ Digital Receipts is a BSV blockchain-powered platform enabling retailers and pay
 - **Business Case**: [GitHub Repository: POS](https://github.com/bsv-blockchain-demos/digital-receipts-pos), [Mobile App](https://github.com/bsv-blockchain-demos/digital-receipts-mobile)
 
 ---
-*For technical implementation details, see: [Digital Receipts - Technical Documentation](./technical.md)*
+*For technical implementation details, see: [Digital Receipts - Technical Documentation](./technical-digital-reciept.md)*

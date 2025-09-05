@@ -21,6 +21,13 @@
   * Truth Machine
     * [Business Documentation](demos/demo-catalog/truth-machine/business-truth-machine.md)
     * [Technical Documentation](demos/demo-catalog/truth-machine/technical-truth-machine.md)
+  * Digital Reciepts
+    * [Business Documentation](demos/demo-catalog/digital-reciept/business-digital-reciept.md)
+    * [Technical Documentation](demos/demo-catalog/digital-reciept/technical-digital-reciept.md)
+  * Slack Threads
+    * [Business Documentation](demos/demo-catalog/slack-threads/business-slack-threads.md)
+    * [Technical Documentation](demos/demo-catalog/slack-threads/technical-slack-threads.md)
+
 
 ## Onboardings
 * [Onboarding Overview](onboardings/README.md)

@@ -116,5 +116,5 @@ Key configuration parameters:
 - **Support Contact**: [Lead Blockchain Engineer]
 
 ---
-*For business context and ROI details, see: [Digital Receipts - Business Overview](./business.md)*
+*For business context and ROI details, see: [Digital Receipts - Business Overview](./business-digital-reciept.md)*
 
