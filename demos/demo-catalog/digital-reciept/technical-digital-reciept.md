@@ -1,6 +1,6 @@
 # Digital Receipts - Technical Documentation
 
-**Demo ID**: `[AUTO-GENERATED]`
+**Demo ID**: `demo-2025-004`
 **Version**: `[1.0.0]`
 **Last Updated**: `2025-09-05`
 

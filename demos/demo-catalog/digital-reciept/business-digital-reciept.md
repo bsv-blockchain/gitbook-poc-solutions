@@ -1,7 +1,7 @@
 # Digital Receipts - Business Overview
 
-**Demo ID**: `[AUTO-GENERATED]`
-**Status**: `[Pilot]`
+**Demo ID**: `demo-2025-004`
+**Status**: `Production`
 **Last Updated**: `2025-09-05`
 
 ## Executive Summary
