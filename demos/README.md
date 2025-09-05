@@ -13,32 +13,68 @@ Comprehensive index of all Demo solutions with quick access to key information.
 | **Healthcare Tokenization** | Prescription Tokens | A prescription token proof-of-concept using BSV blockchain that creates secure, transferable prescription ownership. This demo serves as a precursor to identity solutions, built entirely with BSV stack components and demonstrating remote rootKey-based WalletClient over JSON RPC. | [Business](demo-catalog/prescription-tokens/business-prescription-tokens.md) [Technical](demo-catalog/prescription-tokens/technical-prescription-tokens.md) | Aug 2025 |
 | **Medical Data Exchange** | P2P Medical | Peer-to-peer medical data exchange system demonstrating secure patient data sharing and interoperability between healthcare providers using BSV blockchain for data integrity and access control. | [Business](demo-catalog/p2p-medical/business-p2p-medical.md) [Technical](demo-catalog/p2p-medical/technical-p2p-medical.md) | Aug 2025 |
 | **Digital Identity** | Register | Digital identity management system showcasing decentralized identity creation, verification, and management capabilities on BSV blockchain for secure user authentication and credential management. | [Business](demo-catalog/register/business-register.md) [Technical](demo-catalog/register/technical-register.md) | Aug 2025 |
+| **Digital Receipts** | Digital Reciepts | This proof of concept tackles the environmental and economic waste of paper receipts by creating a BSV blockchain-powered digital receipt platform.
 
+Addressing the massive environmental impact—10 million trees and 21 billion gallons of water annually—plus billions in economic losses, the PoC demonstrates how blockchain can enable secure, immutable digital receipts.
+
+The platform connects payment systems with retailers to eliminate paper waste while creating new economic value through trusted collaboration and data integrity, positioning BSV as a scalable solution for everyday commerce transformation.
+ | [Business](demo-catalog/digital-reciept/business-digital-reciept.md) [Technical](demo-catalog/digital-reciept/technical-digital-reciept.md)| Sep 2025 |
+| **Community Knowledge** | Slack Threads | This proof of concept connects BSVA's internal Slack workspace with a public Q&A website using BSV micropayments.
+
+Valuable discussions from organizational Slack channels can be shared publicly, extending knowledge beyond internal teams. Users can reward helpful answers with BSV tips, demonstrating how blockchain micropayments create economic incentives for quality knowledge sharing while connecting private organizational discussions with broader developer communities. | [Business](demo-catalog/slack-threads/business-slack-threads.md) [Technical](demo-catalog/slack-threads/technical-slack-threads.md) | Sep 2025 |
+| **Digital Identity Privacy** | Digital Trust Card  | This proof of concept addresses online safety challenges following the UK's new Online Safety legislation by creating a blockchain-powered age verification tool.
+
+The Digital Trust Card enables privacy-first age verification without revealing personal identity, empowering families to protect children online while maintaining control.
+
+By partnering with child safety organizations, privacy advocates, and educational institutions, this PoC demonstrates how blockchain can provide practical solutions to real-world regulatory compliance issues while positioning BSV as a thoughtful innovator in digital identity and privacy protection. | [Business](demo-catalog/digital-trust-card/business-digital-trust-card.md) | Sep 2025 |
+| **Sovereign Data Control** | Data Ownership | This proof of concept integrates SOLID pods with BSV blockchain to create a decentralized personal knowledge management system.
+
+SOLID provides personal data vaults with user ownership, while BSV enables public timestamping, notarization, and micropayments. The demo shows users maintaining data control while leveraging BSV for proof of existence, governance, and immutable audit trails.
+
+Built as a "second brain" application using NextJS and W3C standards, it demonstrates pay-per-use storage with micropayments, content sharing capabilities, and seamless AI integration while following decentralized identity management protocols. | [Business](demo-catalog/data-ownership/business-data-ownership.md) | Sep 2025 |
+| **File Integrity & Tracking**| Time Anchor | Put checksums on the blockchain to verify integrity of applications, but expanded to include Overlay Services to register the files and keep track with UHRP / BRC-26 and StorageUploader and use WalletClient from @bsv/sdk to make use of Metanet Desktop for making transactions | [Business](demo-catalog/time-anchor/business-time-anchor.md) | Sep 2025 |
+| **Sustainable Fashion** | Circular Economy    | This proof of concept demonstrates how BSV blockchain can revolutionize circular fashion by creating complete traceability from plastic waste to finished garments.
+
+The application tracks every step of the recycling process - from bottle collection in London through transformation into high-fashion clothing. By recording each stage on the immutable blockchain, it provides consumers with verifiable proof of sustainability claims, enabling them to make informed purchasing decisions.
+
+This transparency-driven approach could transform the fashion industry's environmental impact while building consumer trust through data-backed circular economy practices. | [Business](demo-catalog/circular-economy/business-circular-economy.md) | Sep 2025 |
+| **Token Economy** | Token Transfer | This proof of concept demonstrates token-based file sharing on BSV blockchain.
+
+Users earn tokens by uploading files and spend tokens to access others' content. Built with Metanet Desktop wallet integration and PushDrop protocol, it showcases practical token minting, transfer mechanisms, and value exchange systems within a decentralized file-sharing platform. | [Business](demo-catalog/token-transfer/business-token-transfer.md)  | Sep 2025 |
 
 ## Quick Filters
 
 ### By Industry
 - **Healthcare:** P2P Medical, Prescription Tokens
-- **Supply Chain:** Natural Chain
-- **Data Management:** Truth Machine
-- **Identity:** Register
+- **Supply Chain:** Natural Chain, Circular Economy
+- **Data Management:** Truth Machine, Data Ownership (SOLID + BSV)
+- **Identity:** Register, Digital Trust Card
+- **Sustainable Fashion:** Circular Economy
+- **Content Sharing / Token Economy:** Token Transfer
 
 ### By Use Case Category
-- **Data Integrity:** Truth Machine
-- **Tokenization:** Prescription Tokens
-- **Supply Chain Tracking:** Natural Chain
+- **Data Integrity:** Truth Machine, Time Anchor
+- **Tokenization:** Prescription Tokens, Token Transfer
+- **Supply Chain Tracking:** Natural Chain, Circular Economy
 - **Healthcare Systems:** P2P Medical, Prescription Tokens
-- **Identity Management:** Register
+- **Identity Management:** Register, Digital Trust Card
+- **Age Verification & Compliance:** Digital Trust Card
+- **Decentralized Knowledge Management:** Data Ownership
+- **File Integrity & Verification:** Time Anchor
+- **Sustainable Product Transparency:** Circular Economy
+- **Decentralized File Sharing:** Token Transfer
 
 ### By Implementation Status
-- **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens
-- **In Progress:** P2P Medical, Register
-- **Not Started:** Additional use cases coming soon
+- **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts
+- **In Progress:** P2P Medical, Register, Slack Threads, Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
+- **Not Started:** Circular Economy
 
 ### By Development Stage
-- **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens
+- **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Slack Threads
 - **Core Features Complete:** P2P Medical, Register
-- **Planning Phase:** Future demos in roadmap
+- **Pilot Phase:** Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
+- **Planning Phase:** Circular Economy
+
 
 ## Demo Access Links
 
