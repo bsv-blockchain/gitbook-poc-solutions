@@ -27,12 +27,20 @@ You can also download the HTX mobile app for iOS or Android for on-the-go tradin
 - Verify your email or phone with the received code.
 - Complete the **KYC verification** by submitting necessary identity documents to enable trading.
 
+![Register into HTX](../../../assets/onboardings/get-bsv/htx/register-htx.png)
+
+![Phone input](../../../assets/onboardings/get-bsv/htx/phone-htx.png)
+
 ---
 
 ### 3. Deposit Funds
 
 - Deposit fiat currency via credit/debit card or global bank transfer.
 - Alternatively, deposit stablecoins like USDT for smoother trading operations.
+
+![Transaction info](../../../assets/onboardings/get-bsv/htx/transaction-info.png)
+
+![Payment info](../../../assets/onboardings/get-bsv/htx/payment-info.png)
 
 ---
 
@@ -45,6 +53,10 @@ You can also download the HTX mobile app for iOS or Android for on-the-go tradin
 
 HTX also supports BSV P2P trading, enabling you to buy directly from other users with escrow protection.
 
+![Buy Crypto](../../../assets/onboardings/get-bsv/htx/buy-crypto.png)
+
+![Buy Crypto Table](../../../assets/onboardings/get-bsv/htx/buy-crypto-table.png)
+
 ---
 
 ### 5. Manage Your BSV
@@ -52,6 +64,7 @@ HTX also supports BSV P2P trading, enabling you to buy directly from other users
 - Store your purchased BSV securely within your HTX exchange wallet.
 - You can trade BSV against other cryptocurrencies, stake, or transfer to external wallets for additional security.
 
+![Wallet](../../../assets/onboardings/get-bsv/htx/wallet.png)
 ---
 
 ## 🔒 Security and Support
@@ -62,5 +75,22 @@ If you face any issues during your BSV purchase or trading, HTX offers 24/7 cust
 ---
 
 HTX Exchange makes acquiring and managing BSV simple and secure for both new and experienced users.
+
+---
+
+## 🚀 Next Steps
+
+Now that you have BSV, you can transfer it to your wallet for secure storage and use.
+
+- **Need a wallet?**
+	👉 [Create your Metanet Desktop Wallet](../metanet-desktop-mainnet.md)
+
+- **Want to learn how to transfer BSV to Metanet Desktop?**
+	👉 [How to transfer BSV to Metanet Desktop](https://example.com) <!-- Replace with actual link later -->
+
+---
+
+Orange Gateway makes it easy to start your journey with BSV Blockchain.
+If you have questions or need help, reach out to the BSV Blockchain Association community.
 
 ---
