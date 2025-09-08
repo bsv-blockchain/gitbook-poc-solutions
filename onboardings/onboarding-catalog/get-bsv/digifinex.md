@@ -1,6 +1,6 @@
 # ⚡ DigiFinex Exchange Onboarding Guide for BSV Tokens
 
-**DigiFinex Exchange** ([digifinex.com](https://www.digifinex.com)) is a trusted global cryptocurrency platform offering secure, fast, and accessible trading services for over 700 digital assets, including Bitcoin SV (BSV).
+**DigiFinex Exchange** ([digifinex.com](https://www.digifinex.com)) is a trusted global cryptocurrency platform offering secure, fast, and accessible trading services for over 700 digital assets, including BSV.
 
 ---
 
