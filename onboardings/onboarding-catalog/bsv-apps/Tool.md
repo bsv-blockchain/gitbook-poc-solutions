@@ -55,9 +55,9 @@ If you don't have Metanet Desktop Wallet yet, follow our [Metanet Desktop Onboar
 4. **Grant permission** to allow ToolBSV to request payments from your wallet
 5. Once connected, you'll see your wallet status in the ToolBSV interface
 
-*[Screenshot placeholder: Wallet connection request dialog in Metanet Desktop]*
+![Granting access to ToolBsv through Metanet Wallet](../../../assets/tool-app/wallet-request.png)
 
-*[Screenshot placeholder: ToolBSV interface showing successful wallet connection]*
+![*\ToolBSV interface showing successful wallet connection\]*](../../../assets/tool-app/toolbsv-connected.png)
 
 ### Step 3: Choose Your AI Service
 
@@ -133,7 +133,7 @@ Video generation offers extensive customization options that directly impact the
 5. **Approve the micropayment** (ranging from $0.06 to higher amounts based on settings)
 6. Your AI request is processed immediately
 
-*[Screenshot placeholder: Payment confirmation dialog in Metanet Desktop showing micropayment amount]*
+![Payment confirmation dialog in Metanet Desktop showing micropayment amount](../../../assets/tool-app/metanet-payment.png)
 
 ### Step 6: View Results and History
 - Your generated content appears immediately after payment
@@ -141,7 +141,9 @@ Video generation offers extensive customization options that directly impact the
 - Access your history anytime through your connected wallet
 - Export or share your generated content as needed
 
-*[Screenshot placeholder: Generated content with transaction confirmation]*
+You can easily access your transaction history by clicking on the ToolBSV application within Metanet Desktop. The image below shows how your history will appear, including the payment made for the previous AI task.
+
+![ToolBSV transaction history in Metanet Desktop, showing payment confirmation](../../../assets/tool-app/metanet-history.png)
 
 ---
 
