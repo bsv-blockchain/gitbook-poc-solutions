@@ -21,6 +21,22 @@
   * Truth Machine
     * [Business Documentation](demos/demo-catalog/truth-machine/business-truth-machine.md)
     * [Technical Documentation](demos/demo-catalog/truth-machine/technical-truth-machine.md)
+  * Digital Reciepts
+    * [Business Documentation](demos/demo-catalog/digital-reciept/business-digital-reciept.md)
+    * [Technical Documentation](demos/demo-catalog/digital-reciept/technical-digital-reciept.md)
+  * Slack Threads
+    * [Business Documentation](demos/demo-catalog/slack-threads/business-slack-threads.md)
+    * [Technical Documentation](demos/demo-catalog/slack-threads/technical-slack-threads.md)
+  * Digital Trust Card
+    * [Business Documentation](demos/demo-catalog/digital-trust-card/business-digital-trust-card.md)
+  * Data Ownership (SOLID + BSV)
+    * [Business Documentation](demos/demo-catalog/data-ownership/business-data-ownership.md)
+  * Time Anchor
+    * [Business Documentation](demos/demo-catalog/time-anchor/business-time-anchor.md)
+  * Circular Economy
+    * [Business Documentation](demos/demo-catalog/circular-economy/business-circular-economy.md)
+  * Token Transfer
+    * [Business Documentation](demos/demo-catalog/token-transfer/business-token-transfer.md)
 
 ## Onboardings
 * [Onboarding Overview](onboardings/README.md)
