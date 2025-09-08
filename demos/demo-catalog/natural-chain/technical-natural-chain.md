@@ -8,7 +8,7 @@
 
 ## Overview
 
-Natural Chain is a blockchain-based application for capturing natural gas-related environmental data on the Bitcoin SV blockchain. It ensures data integrity and supports carbon credit creation through tokenization and immutable record-keeping.
+Natural Chain is a blockchain-based application for capturing natural gas-related environmental data on the BSV blockchain. It ensures data integrity and supports carbon credit creation through tokenization and immutable record-keeping.
 
 ---
 
@@ -18,7 +18,7 @@ Natural Chain is a blockchain-based application for capturing natural gas-relate
 - Token-based system for carbon credit creation and tracking
 - Web-based dashboard for monitoring and data entry
 - Real-time transparency and audit logging
-- Integration with Bitcoin SV blockchain for secure anchoring
+- Integration with BSV blockchain for secure anchoring
 
 ---
 
