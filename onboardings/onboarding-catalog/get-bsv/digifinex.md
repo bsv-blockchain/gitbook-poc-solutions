@@ -27,6 +27,10 @@ Optionally, download the DigiFinex mobile app for iOS or Android for convenient 
 - Submit your registration form.
 - Complete **KYC verification** by uploading your government-issued ID, selfie, and proof of address to unlock higher withdrawal limits and full trading features.
 
+![Register](../../../assets/onboardings/digifinex/register.png)
+
+![Identity Verification](../../../assets/onboardings/digifinex/identity-verification.png)
+
 ---
 
 ### 3. Deposit Funds
@@ -34,6 +38,8 @@ Optionally, download the DigiFinex mobile app for iOS or Android for convenient 
 - Access the **Wallet** or **Assets** section.
 - Choose to deposit fiat via bank transfer or credit/debit card (subject to availability).
 - Alternatively, deposit stablecoins such as USDT or other cryptocurrencies for faster trading.
+
+![Transfer Money](../../../assets/onboardings/digifinex/transfer-money.png)
 
 ---
 
@@ -44,12 +50,16 @@ Optionally, download the DigiFinex mobile app for iOS or Android for convenient 
 - Choose your payment method (crypto transfer, bank card, or other supported methods).
 - Enter the amount of BSV you want to purchase and confirm the order.
 
+![Buy BSV](../../../assets/onboardings/digifinex/trade-bsv.png)
+
 ---
 
 ### 5. Manage Your BSV
 
 - Store your newly acquired BSV safely in your DigiFinex wallet.
 - Trade BSV against other currencies, stake for rewards, or transfer to your external wallet for enhanced security.
+
+![Manage BSV](../../../assets/onboardings/digifinex/manage-bsv.png)
 
 ---
 
