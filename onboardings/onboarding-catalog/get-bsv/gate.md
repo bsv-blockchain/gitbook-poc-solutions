@@ -1,6 +1,6 @@
 # ⚡ Gate Exchange Onboarding Guide for BSV Tokens
 
-**Gate Exchange** ([gate.io](https://www.gate.io)) is a global cryptocurrency exchange platform offering a wide variety of digital assets, including Bitcoin SV (BSV). It focuses on security, liquidity, and user-friendly trading features.
+**Gate Exchange** ([gate.io](https://www.gate.io)) is a global cryptocurrency exchange platform offering a wide variety of digital assets, including BSV. It focuses on security, liquidity, and user-friendly trading features.
 
 ---
 
