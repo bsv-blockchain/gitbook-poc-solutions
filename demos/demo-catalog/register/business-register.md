@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-Register (BlockMed) is a comprehensive blockchain-based prescription management solution built on Bitcoin SV. It uses Decentralized Identifiers (DIDs) and Verifiable Credentials (VCs) to securely create, share, and verify digital prescriptions and related healthcare authorizations.
+Register (BlockMed) is a comprehensive blockchain-based prescription management solution built on BSV. It uses Decentralized Identifiers (DIDs) and Verifiable Credentials (VCs) to securely create, share, and verify digital prescriptions and related healthcare authorizations.
 
 ---
 
@@ -16,7 +16,7 @@ Register (BlockMed) is a comprehensive blockchain-based prescription management 
 
 Healthcare providers, patients, pharmacies, and insurers require secure, transparent, and tamper-proof workflows for managing prescriptions and medication history. Traditional paper or centralized digital systems are vulnerable to fraud, data loss, and lack efficient cross-entity coordination.
 
-Register solves these issues by leveraging the Bitcoin SV blockchain and an overlay network to provide immutable tracking, identity validation, and controlled sharing of prescription data.
+Register solves these issues by leveraging the BSV blockchain and an overlay network to provide immutable tracking, identity validation, and controlled sharing of prescription data.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-Natural Chain is a blockchain-enabled solution for tracking natural gas lifecycle data to ensure data integrity and enable carbon credit creation. By leveraging the Bitcoin SV blockchain, Natural Chain provides a transparent, immutable record of natural gas production, processing, and emissions, supporting environmental monitoring and regulatory compliance.
+Natural Chain is a blockchain-enabled solution for tracking natural gas lifecycle data to ensure data integrity and enable carbon credit creation. By leveraging the BSV blockchain, Natural Chain provides a transparent, immutable record of natural gas production, processing, and emissions, supporting environmental monitoring and regulatory compliance.
 
 ---
 
@@ -22,7 +22,7 @@ Natural Chain addresses these challenges by capturing natural gas-related data o
 
 ## How It Works
 
-- Data related to natural gas extraction, transportation, and usage is recorded on the Bitcoin SV blockchain.
+- Data related to natural gas extraction, transportation, and usage is recorded on the BSV blockchain.
 - Token mechanisms link specific environmental data points to verifiable records, enabling carbon credit accounting.
 - Real-time monitoring enhances transparency and supports regulatory audits.
 

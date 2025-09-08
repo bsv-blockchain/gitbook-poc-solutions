@@ -1,6 +1,6 @@
 # ⚡ HTX Exchange Onboarding Guide for BSV Tokens
 
-**HTX Exchange** ([htx.com](https://www.htx.com)) is a leading global cryptocurrency exchange offering a wide range of digital assets, including Bitcoin SV (BSV). It provides a secure, fast, and user-friendly platform for buying, selling, and trading BSV tokens.
+**HTX Exchange** ([htx.com](https://www.htx.com)) is a leading global cryptocurrency exchange offering a wide range of digital assets, including BSV (BSV). It provides a secure, fast, and user-friendly platform for buying, selling, and trading BSV tokens.
 
 ---
 

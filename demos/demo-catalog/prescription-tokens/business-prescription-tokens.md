@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-Prescription Tokens demonstrates a secure and auditable way to handle medical prescriptions by tokenizing prescription data on the Bitcoin SV blockchain. This ensures that prescriptions issued by doctors, held by patients, and redeemed by pharmacies are securely tracked and protected against fraud and misuse.
+Prescription Tokens demonstrates a secure and auditable way to handle medical prescriptions by tokenizing prescription data on the BSV blockchain. This ensures that prescriptions issued by doctors, held by patients, and redeemed by pharmacies are securely tracked and protected against fraud and misuse.
 
 ---
 
@@ -20,7 +20,7 @@ The healthcare industry faces challenges in securely managing prescriptions, wit
 
 ## How It Works
 
-- Doctors create prescription tokens anchored immutably on the Bitcoin SV blockchain.
+- Doctors create prescription tokens anchored immutably on the BSV blockchain.
 - Patients securely receive and hold these tokens as proof of prescriptions.
 - Pharmacies redeem tokens to verify prescription authenticity and dispense medications.
 - The token-based system supports one-time use and auditability, minimizing fraud and errors.

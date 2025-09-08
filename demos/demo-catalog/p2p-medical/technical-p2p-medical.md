@@ -8,7 +8,7 @@
 
 ## Overview
 
-Secure Med Drop-Off is a demo web application built in TypeScript for confidential peer-to-peer medical file transfer with blockchain-backed logging and permissions. It uses Bitcoin SV to anchor transaction records, ensuring every file drop is verifiable, auditable, and private.
+Secure Med Drop-Off is a demo web application built in TypeScript for confidential peer-to-peer medical file transfer with blockchain-backed logging and permissions. It uses BSV to anchor transaction records, ensuring every file drop is verifiable, auditable, and private.
 
 ---
 
@@ -32,7 +32,7 @@ Secure Med Drop-Off is a demo web application built in TypeScript for confidenti
 ### Backend (Node.js, Express or similar)
 
 - REST APIs for file upload, download, permission management, and blockchain event logging
-- Encrypted storage for files; integration with Bitcoin SV for transaction anchoring
+- Encrypted storage for files; integration with BSV for transaction anchoring
 
 ---
 

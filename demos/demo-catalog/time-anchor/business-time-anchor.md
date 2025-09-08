@@ -10,7 +10,7 @@
 Ensuring the integrity and authenticity of software applications and data over time is critical for security, auditability, and trust. Current solutions often lack verifiable, immutable proof of existence and tamper evidence in a scalable and transparent manner.
 
 ### Solution Overview
-This proof of concept leverages the Bitcoin SV blockchain's scalability and security to anchor file checksums and metadata immutably on-chain. It expands upon base checksum verification with advanced Overlay Services integrating UHRP, BRC-26 token protocols, and storage management tools to track and maintain file integrity over time. Using WalletClient from the @bsv/sdk and Metanet Desktop enables seamless blockchain transaction management for these anchored records.
+This proof of concept leverages the BSV blockchain's scalability and security to anchor file checksums and metadata immutably on-chain. It expands upon base checksum verification with advanced Overlay Services integrating UHRP, BRC-26 token protocols, and storage management tools to track and maintain file integrity over time. Using WalletClient from the @bsv/sdk and Metanet Desktop enables seamless blockchain transaction management for these anchored records.
 
 ### Key Benefits
 - **Tamper Evident Records**: Immutable blockchain timestamps protect file integrity and application authenticity.

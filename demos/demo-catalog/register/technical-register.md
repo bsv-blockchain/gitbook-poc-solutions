@@ -8,7 +8,7 @@
 
 ## Overview
 
-Register (BlockMed) is a blockchain-based prescription management system using Decentralized Identifiers (DIDs) and Verifiable Credentials (VCs) on the Bitcoin SV overlay network with extended QuarkID packages. The system enables secure prescription workflows with actors including patients, doctors, pharmacies, and insurers.
+Register (BlockMed) is a blockchain-based prescription management system using Decentralized Identifiers (DIDs) and Verifiable Credentials (VCs) on the BSV overlay network with extended QuarkID packages. The system enables secure prescription workflows with actors including patients, doctors, pharmacies, and insurers.
 
 ---
 
@@ -40,7 +40,7 @@ Register (BlockMed) is a blockchain-based prescription management system using D
 ### Overlay Service (LARS)
 
 - Manages blockchain communication, DID registration, and transaction confirmation
-- Utilizes extended QuarkID packages for managing identities and VCs on Bitcoin SV
+- Utilizes extended QuarkID packages for managing identities and VCs on BSV
 - Runs as a separate microservice to scale blockchain communication efficiently
 
 ---
