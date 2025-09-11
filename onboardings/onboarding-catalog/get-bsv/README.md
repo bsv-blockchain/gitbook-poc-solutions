@@ -2,7 +2,7 @@
 
 # 💸 Get BSV
 
-Welcome to the **Get BSV** section!  
+Welcome to the **Get BSV** section!
 Here you’ll find everything you need to start your journey with BSV Blockchain. Whether you’re a developer, business, or new user, this guide will help you discover the best ways to acquire BSV quickly, securely, and confidently.
 
 ---
@@ -19,16 +19,16 @@ We are preparing comprehensive guides to help you obtain BSV through trusted pla
 
 ### 🏦 Available Exchanges
 
-Below are popular exchanges where you can purchase BSV.  
+Below are popular exchanges where you can purchase BSV.
 We are working on step-by-step guides for each platform to ensure a smooth experience.
 
 | 🏢 Exchange         | 📚 Guide Status         | 🔗 Link                |
 |---------------------|------------------------|------------------------|
-| **HTX**             | Guide in progress      | —                      |
-| **DigiFinex**       | Guide in progress      | —                      |
+| **HTX**             | Guide in progress      | [Get BSV with HTX](.md)                      |
+| **DigiFinex**       | Guide in progress      | [Get BSV with DIGIFINEX](digifinex.md)                      |
 | **UpBit**           | Guide in progress      | —                      |
 | **Gate**            | Guide in progress      | —                      |
-| **Kucoin**          | Guide in progress      | —                      |
+| **Kucoin**          | Guide in progress      | [Get BSV with Kucoin](kucoin.md)                      |
 | **Orange Gateway**  | Guide available!       | [Get BSV with Orange Gateway](orange-gateway.md) |
 
 > ⚠️ **Note:** Guides for most exchanges are currently being created. Orange Gateway is already available—check out the link above!
@@ -44,7 +44,7 @@ We are working on step-by-step guides for each platform to ensure a smooth exper
 
 ## 🔔 Stay Updated
 
-We are committed to keeping this section up to date with the latest options and guides for acquiring BSV.  
+We are committed to keeping this section up to date with the latest options and guides for acquiring BSV.
 If you have questions or need support, reach out to the BSV Blockchain Association community for assistance.
 
 ---
