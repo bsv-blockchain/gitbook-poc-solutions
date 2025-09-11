@@ -43,5 +43,8 @@
 * [Onboarding Catalog](onboardings/onboarding-catalog/README.md)
   * [Getting BSV](onboardings/onboarding-catalog/get-bsv/README.md)
     * [Orange Gateway](onboardings/onboarding-catalog/get-bsv/orange-gateway.md)
+    * [Digifinex](onboardings/onboarding-catalog/get-bsv/digifinex.md)
+    * [HTX](onboardings/onboarding-catalog/get-bsv/htx.md)
+    * [Kucoin](onboardings/onboarding-catalog/get-bsv/kucoin.md)
   * [Metanet Desktop (Mainnet)](onboardings/onboarding-catalog/metanet-desktop-mainnet.md)
   * [Pay and Get Paid](onboardings/onboarding-catalog/pay-and-paid.md)
