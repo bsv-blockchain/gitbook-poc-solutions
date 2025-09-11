@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-Secure Med Drop-Off is a web-based demo that showcases confidential peer-to-peer medical file sharing using blockchain security principles. Built on Bitcoin SV, it enables healthcare providers, patients, and authorized recipients to transfer sensitive medical documents while maintaining auditability, privacy, and absolute data integrity.
+Secure Med Drop-Off is a web-based demo that showcases confidential peer-to-peer medical file sharing using blockchain security principles. Built on BSV, it enables healthcare providers, patients, and authorized recipients to transfer sensitive medical documents while maintaining auditability, privacy, and absolute data integrity.
 
 ---
 

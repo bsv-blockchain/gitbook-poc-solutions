@@ -8,7 +8,7 @@
 
 ## Overview
 
-Prescription Tokens is a blockchain-based demo illustrating secure prescription data capture and transfer using tokens on the Bitcoin SV blockchain. It models a workflow where doctors create prescription tokens, which are passed to patients and pharmacies to verify and dispense medications securely.
+Prescription Tokens is a blockchain-based demo illustrating secure prescription data capture and transfer using tokens on the BSV blockchain. It models a workflow where doctors create prescription tokens, which are passed to patients and pharmacies to verify and dispense medications securely.
 
 ---
 
@@ -64,7 +64,7 @@ Visit [http://localhost:3000](http://localhost:3000) on your browser to interact
 - **Patient:** Receive and hold the token
 - **Pharmacy:** Redeem the token to verify and dispense medication
 
-Tokens map prescription data immutably on the Bitcoin SV blockchain, enabling secure tracking and audit.
+Tokens map prescription data immutably on the BSV blockchain, enabling secure tracking and audit.
 
 ---
 
