@@ -24,11 +24,11 @@ We are working on step-by-step guides for each platform to ensure a smooth exper
 
 | 🏢 Exchange         | 📚 Guide Status         | 🔗 Link                |
 |---------------------|------------------------|------------------------|
-| **HTX**             | Guide in progress      | [Get BSV with HTX](.md)                      |
-| **DigiFinex**       | Guide in progress      | [Get BSV with DIGIFINEX](digifinex.md)                      |
+| **HTX**             | Guide available!        | [Get BSV with HTX](htx.md)                      |
+| **DigiFinex**       | Guide available!        | [Get BSV with DIGIFINEX](digifinex.md)                      |
 | **UpBit**           | Guide in progress      | —                      |
 | **Gate**            | Guide in progress      | —                      |
-| **Kucoin**          | Guide in progress      | [Get BSV with Kucoin](kucoin.md)                      |
+| **Kucoin**          | Guide available!        | [Get BSV with Kucoin](kucoin.md)                      |
 | **Orange Gateway**  | Guide available!       | [Get BSV with Orange Gateway](orange-gateway.md) |
 
 > ⚠️ **Note:** Guides for most exchanges are currently being created. Orange Gateway is already available—check out the link above!
