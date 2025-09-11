@@ -12,7 +12,7 @@ DigiFinex provides users worldwide with a streamlined crypto trading experience 
 
 ## 📝 How to Buy BSV on DigiFinex Exchange
 
-### 1. Access DigiFinex Exchange
+### 1. Access DigiFinex Exchange 
 
 Go to [https://www.digifinex.com](https://www.digifinex.com).
 Optionally, download the DigiFinex mobile app for iOS or Android for convenient trading anytime, anywhere.
