@@ -63,11 +63,11 @@ If you don't have a Metanet Desktop wallet yet:
 
 1. **Visit the Legacy Bridge platform** at [https://legacy.atx.systems/](https://legacy.atx.systems/)
 
-[Landing page](../../assets/onboardings/legacy-bridge/landing-page.png)
+![Landing page](../../assets/onboardings/legacy-bridge/landing-page.png)
 
 2. **Connect your Metanet Desktop wallet** when prompted
 
-[Prompt connection](../../assets/onboardings/legacy-bridge/prompt-metanet.png)
+![Prompt connection](../../assets/onboardings/legacy-bridge/prompt-metanet.png)
 
 3. **Grant necessary permissions** for the application to interact with your wallet
 
@@ -85,7 +85,7 @@ If you don't have a Metanet Desktop wallet yet:
 3. **Copy the generated legacy address** carefully
 4. **Verify the address format** matches what your exchange expects
 
-[Recieve Funds](../../assets/onboardings/legacy-bridge/recieve.png)
+![Recieve Funds](../../assets/onboardings/legacy-bridge/recieve.png)
 
 ### Step 5: Initiate Exchange Withdrawal
 
@@ -110,7 +110,7 @@ If you don't have a Metanet Desktop wallet yet:
 2. **Enter the ammount to send** within your funds
 3. **Send the funds to the wallet**
 
-[Sending funds](../../assets/onboardings/legacy-bridge/send.png)
+![Sending funds](../../assets/onboardings/legacy-bridge/send.png)
 
 ---
 
@@ -135,7 +135,7 @@ Legacy Bridge leverages the **BRC-100 standard** features:
 - **BKDS Integration** for secure key derivation
 - **SPV Verification** using BRC-67 for transaction validation
 
-[Advanced Features](../../assets/onboardings/legacy-bridge/history.png)
+![Advanced Features](../../assets/onboardings/legacy-bridge/history.png)
 
 ---
 
