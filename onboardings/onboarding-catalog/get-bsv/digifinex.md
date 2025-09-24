@@ -12,7 +12,7 @@ DigiFinex provides users worldwide with a streamlined crypto trading experience 
 
 ## 📝 How to Buy BSV on DigiFinex Exchange
 
-### 1. Access DigiFinex Exchange 
+### 1. Access DigiFinex Exchange
 
 Go to [https://www.digifinex.com](https://www.digifinex.com).
 Optionally, download the DigiFinex mobile app for iOS or Android for convenient trading anytime, anywhere.
@@ -75,10 +75,10 @@ If you encounter any difficulties, DigiFinex provides 24/7 customer support acce
 You can now transfer your BSV to personal wallets for additional control and security.
 
 - **Need a wallet?**
-  👉 [Create your Metanet Desktop Wallet](../metanet-desktop-mainnet.md)
+  👉 [Create your BSV Desktop Wallet](../metanet-desktop-mainnet.md)
 
-- **Want to learn how to transfer BSV to Metanet Desktop?**
-  👉 [How to transfer BSV to Metanet Desktop](https://example.com) <!-- Replace with actual link later -->
+- **Want to learn how to transfer BSV to BSV Desktop?**
+  👉 [How to transfer BSV to BSV Desktop](https://example.com) <!-- Replace with actual link later -->
 
 ---
 

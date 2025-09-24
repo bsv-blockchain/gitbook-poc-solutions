@@ -46,6 +46,6 @@
     * [Digifinex](onboardings/onboarding-catalog/get-bsv/digifinex.md)
     * [HTX](onboardings/onboarding-catalog/get-bsv/htx.md)
     * [Kucoin](onboardings/onboarding-catalog/get-bsv/kucoin.md)
-  * [Metanet Desktop (Mainnet)](onboardings/onboarding-catalog/metanet-desktop-mainnet.md)
+  * [BSV Desktop (Mainnet)](onboardings/onboarding-catalog/metanet-desktop-mainnet.md)
   * [Pay and Get Paid](onboardings/onboarding-catalog/pay-and-paid.md)
   * [Legacy Bridge](onboardings/onboarding-catalog/legacy-bridge.md)

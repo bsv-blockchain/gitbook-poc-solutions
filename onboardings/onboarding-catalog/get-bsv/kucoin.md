@@ -1,13 +1,13 @@
 # 🏦 How to Buy BSV with Kucoin
 
-Welcome to the Kucoin onboarding guide!  
+Welcome to the Kucoin onboarding guide!
 Kucoin is a global cryptocurrency exchange where you can buy, sell, and transfer BSV Blockchain tokens. This guide will walk you through every step—from creating your account to withdrawing BSV to your own wallet.
 
 ---
 
 ## 🌟 What is Kucoin?
 
-**Kucoin** is a popular crypto exchange known for its wide range of coins, user-friendly interface, and strong security.  
+**Kucoin** is a popular crypto exchange known for its wide range of coins, user-friendly interface, and strong security.
 With Kucoin, you can:
 
 - Buy BSV using USDT (Tether)
@@ -57,7 +57,7 @@ Choose your preferred method, deposit the amount you want to use for buying BSV,
 
 #### 4.1 Transfer USDT to Trading Account
 
-Kucoin uses the **Spot Market** for buying BSV.  
+Kucoin uses the **Spot Market** for buying BSV.
 Spot trading means buying or selling crypto at the current market price.
 
 - First, transfer your deposited funds to your **Trading Account** ([Kucoin Trading Account](https://www.kucoin.com/assets/trade-account)).
@@ -65,7 +65,7 @@ Spot trading means buying or selling crypto at the current market price.
 
 ![Kucoin Transfer to Trading account](../../../assets/onboardings/get-bsv/kucoin/kucoin-trade-transfer.png)
 
-> **Why USDT?**  
+> **Why USDT?**
 > The BSV/USDT pair means you exchange USDT for BSV. For example, if 1 BSV = 10 USDT, buying 0.1 BSV costs 1 USDT.
 
 ---
@@ -81,7 +81,7 @@ Spot trading means buying or selling crypto at the current market price.
 - Enter the amount of USDT you want to spend.
 - Click **BUY** to complete your purchase.
 
-> **Example:**  
+> **Example:**
 > If you want to buy 0.5 BSV and the price is 10 USDT per BSV, you’ll need 5 USDT.
 
 ---
@@ -102,31 +102,31 @@ To transfer BSV to your personal wallet:
 
 ![Kucoin Withdraw](../../../assets/onboardings/get-bsv/kucoin/kucoin-withdraw.png)
 
-> **Important:**  
+> **Important:**
 > Always verify your wallet address before withdrawing. Sending to the wrong address may result in loss of funds.
 
 ---
 
 ## 🎯 Conclusion & Next Steps
 
-Kucoin is a powerful exchange for buying and managing BSV, but it requires KYC and spot trading.  
+Kucoin is a powerful exchange for buying and managing BSV, but it requires KYC and spot trading.
 While it’s a bit more complex than some payment ramps, it offers flexibility and security for larger purchases.
 
-> **Coming Soon:**  
-> A dedicated tutorial for withdrawing BSV directly to Metanet Desktop, including how to generate your wallet address.
+> **Coming Soon:**
+> A dedicated tutorial for withdrawing BSV directly to BSV Desktop, including how to generate your wallet address.
 
 ---
 
 ## 🔗 Useful Links
 
-- **Create your wallet:** 👉 [Metanet Desktop Guide](../metanet-desktop-mainnet.md)
+- **Create your wallet:** 👉 [BSV Desktop Guide](../metanet-desktop-mainnet.md)
 - **Get BSV:** 👉 [Get BSV Guide](README.md)
 - **Send/Receive Payments:** 👉 [Pay & Get Paid Guide](../pay-and-paid.md)
-- **Withdraw to Metanet Desktop:** 🚧 Coming soon!
+- **Withdraw to BSV Desktop:** 🚧 Coming soon!
 
 ---
 
-If you have questions or need help, reach out to the BSV Blockchain Association community.  
+If you have questions or need help, reach out to the BSV Blockchain Association community.
 Enjoy your BSV Blockchain journey with Kucoin!
 
 ---

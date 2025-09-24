@@ -8,13 +8,13 @@
 
 ## 1. What Is Legacy Bridge?
 
-Legacy Bridge is a BSV blockchain tool that enables seamless fund transfers between traditional cryptocurrency exchanges and modern BRC-100 wallets, specifically designed to work with Metanet Desktop wallets. The system acts as a conversion layer that bridges the compatibility gap between legacy address formats used by exchanges and modern BSV wallet standards.
+Legacy Bridge is a BSV blockchain tool that enables seamless fund transfers between traditional cryptocurrency exchanges and modern BRC-100 wallets, specifically designed to work with BSV Desktop wallets. The system acts as a conversion layer that bridges the compatibility gap between legacy address formats used by exchanges and modern BSV wallet standards.
 
 **Key Features:**
 - Legacy address-based BSV payments to and from BRC-100 wallets
 - Exchange-to-wallet fund transfers without format conversion issues
 - Core functionality including receiving funds, displaying addresses, sending transactions, and viewing transaction history
-- Seamless integration with Metanet Desktop wallets
+- Seamless integration with BSV Desktop wallets
 
 ---
 
@@ -23,7 +23,7 @@ Legacy Bridge is a BSV blockchain tool that enables seamless fund transfers betw
 ### 2.1. Prerequisites
 
 **Essential Requirements:**
-- **Metanet Desktop Wallet** - Your BRC-100 compatible BSV wallet
+- **BSV Desktop Wallet** - Your BRC-100 compatible BSV wallet
 - **Web browser** - Chrome, Firefox, Safari, or Edge
 - **BSV funds on an exchange** - Funds in a traditional exchange like KuCoin, Kraken, or others
 - **Internet connection** - Stable connection for blockchain transactions
@@ -32,7 +32,7 @@ Legacy Bridge is a BSV blockchain tool that enables seamless fund transfers betw
 
 - **Web-based** - Access through any modern web browser
 - **Compatible with** - All operating systems (Windows, macOS, Linux)
-- **Wallet Integration** - Works with Metanet Desktop and other BRC-100 wallets
+- **Wallet Integration** - Works with BSV Desktop and other BRC-100 wallets
 
 ### 2.3. Exchange Compatibility
 
@@ -48,16 +48,16 @@ Legacy Bridge works with traditional exchanges that use legacy address formats, 
 
 ## 3. Getting Started: Step-by-Step
 
-### Step 1: Set Up Your Metanet Desktop Wallet
+### Step 1: Set Up Your BSV Desktop Wallet
 
-If you don't have a Metanet Desktop wallet yet:
+If you don't have a BSV Desktop wallet yet:
 
-1. **Download Metanet Desktop** from [https://metanet.bsvb.tech/](https://metanet.bsvb.tech/)
+1. **Download BSV Desktop** from [https://metanet.bsvb.tech/](https://metanet.bsvb.tech/)
 2. **Install and configure** your wallet following the setup wizard
 3. **Secure your recovery keys** in a safe place
 4. **Note your wallet's receiving address** for later use
 
-👉 **Detailed Guide:** [Metanet Desktop Wallet Setup](./metanet-desktop-mainnet.md)
+👉 **Detailed Guide:** [BSV Desktop Wallet Setup](./metanet-desktop-mainnet.md)
 
 ### Step 2: Access Legacy Bridge
 
@@ -65,7 +65,7 @@ If you don't have a Metanet Desktop wallet yet:
 
 ![Landing page](../../assets/onboardings/legacy-bridge/landing-page.png)
 
-2. **Connect your Metanet Desktop wallet** when prompted
+2. **Connect your BSV Desktop wallet** when prompted
 
 ![Prompt connection](../../assets/onboardings/legacy-bridge/prompt-metanet.png)
 
@@ -102,7 +102,7 @@ If you don't have a Metanet Desktop wallet yet:
 2. **Check transaction status** in the application dashboard
 3. **Wait for blockchain confirmations** (typically 6 confirmations for security)
 4. **Click import to send funds to you metanet wallet**
-4. **Verify funds arrival** in your connected Metanet Desktop wallet
+4. **Verify funds arrival** in your connected BSV Desktop wallet
 
 ### Step 7: Send funds to a recipient wallet (Optional)
 
@@ -155,7 +155,7 @@ Legacy Bridge leverages the **BRC-100 standard** features:
 
 ### 5.3. Wallet Security
 
-- **Keep Metanet Desktop updated** to the latest version
+- **Keep BSV Desktop updated** to the latest version
 - **Secure your recovery keys** offline in multiple safe locations
 - **Use strong authentication** methods when available
 
@@ -176,7 +176,7 @@ Legacy Bridge leverages the **BRC-100 standard** features:
 
 - **BSV Blockchain Association Community**
 - **Legacy Bridge Documentation**
-- **Metanet Desktop Support**
+- **BSV Desktop Support**
 - **Exchange Customer Support** (for withdrawal issues)
 
 ---
@@ -189,7 +189,7 @@ Now that you can transfer funds from exchanges to your modern BSV wallet:
 
 - **Explore Metanet Apps** at [https://metanetapps.com/](https://metanetapps.com/)
 - **Make peer-to-peer payments** using connected applications
-- **Store and manage** your BSV securely in Metanet Desktop
+- **Store and manage** your BSV securely in BSV Desktop
 
 ### 7.2. Additional Resources
 
@@ -201,14 +201,14 @@ Now that you can transfer funds from exchanges to your modern BSV wallet:
 
 **Complete BSV Onboarding Stack:**
 1. **Legacy Bridge** → Transfer funds from exchanges
-2. **Metanet Desktop** → Secure wallet management
+2. **BSV Desktop** → Secure wallet management
 3. **PeerPay** → Send and receive payments
 4. **Metanet Apps** → Explore blockchain applications
 
 ---
 
 **Quick Links:**
-[Metanet Desktop Guide](./metanet-desktop-mainnet.md) | [Get BSV Guide](./get-bsv/README.md) | [Pay & Get Paid Guide](./pay-and-paid.md) | [Home](../README.md)
+[BSV Desktop Guide](./metanet-desktop-mainnet.md) | [Get BSV Guide](./get-bsv/README.md) | [Pay & Get Paid Guide](./pay-and-paid.md) | [Home](../README.md)
 
 ---
 

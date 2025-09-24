@@ -25,7 +25,7 @@ ToolBSV is a revolutionary AI platform that replaces expensive subscriptions wit
 ## 2. Before You Begin
 
 ### Prerequisites
-- **BSV Wallet:** Metanet Desktop Wallet (required for micropayments)
+- **BSV Wallet:** BSV Desktop Wallet (required for micropayments)
 - **Web Browser:** Modern browser with JavaScript enabled
 - **BSV Balance:** Small amount of BSV for micropayments (transactions cost fractions of cents)
 
@@ -35,7 +35,7 @@ ToolBSV is a revolutionary AI platform that replaces expensive subscriptions wit
 - **No Installation Required:** Pure web application
 
 ### Metanet Wallet Setup
-If you don't have Metanet Desktop Wallet yet, follow our [Metanet Desktop Onboarding Guide](../metanet-desktop-mainnet.md) to get started. You'll need this wallet to make micropayments for AI services.
+If you don't have BSV Desktop Wallet yet, follow our [BSV Desktop Onboarding Guide](../metanet-desktop-mainnet.md) to get started. You'll need this wallet to make micropayments for AI services.
 
 ---
 
@@ -44,14 +44,14 @@ If you don't have Metanet Desktop Wallet yet, follow our [Metanet Desktop Onboar
 ### Step 1: Access ToolBSV
 1. Navigate to **https://toolbsv.com** in your web browser
 2. The homepage will display the three main service categories
-3. Ensure your Metanet Desktop Wallet is running in the background
+3. Ensure your BSV Desktop Wallet is running in the background
 
 ![ToolBSV Main Interface](../../../assets/tool-app/main-interface.png)
 
 ### Step 2: Connect Your Metanet Wallet
 1. Click on any AI service (Chat, Images, or Video)
 2. ToolBSV will automatically detect your Metanet wallet
-3. A connection request popup will appear in Metanet Desktop
+3. A connection request popup will appear in BSV Desktop
 4. **Grant permission** to allow ToolBSV to request payments from your wallet
 5. Once connected, you'll see your wallet status in the ToolBSV interface
 
@@ -129,11 +129,11 @@ Video generation offers extensive customization options that directly impact the
 1. Choose your desired AI model and configure settings
 2. Review the **exact cost** displayed before proceeding
 3. Click **Generate/Submit** to proceed
-4. Metanet Desktop will request payment confirmation
+4. BSV Desktop will request payment confirmation
 5. **Approve the micropayment** (ranging from $0.06 to higher amounts based on settings)
 6. Your AI request is processed immediately
 
-![Payment confirmation dialog in Metanet Desktop showing micropayment amount](../../../assets/tool-app/metanet-payment.png)
+![Payment confirmation dialog in BSV Desktop showing micropayment amount](../../../assets/tool-app/metanet-payment.png)
 
 ### Step 6: View Results and History
 - Your generated content appears immediately after payment
@@ -141,9 +141,9 @@ Video generation offers extensive customization options that directly impact the
 - Access your history anytime through your connected wallet
 - Export or share your generated content as needed
 
-You can easily access your transaction history by clicking on the ToolBSV application within Metanet Desktop. The image below shows how your history will appear, including the payment made for the previous AI task.
+You can easily access your transaction history by clicking on the ToolBSV application within BSV Desktop. The image below shows how your history will appear, including the payment made for the previous AI task.
 
-![ToolBSV transaction history in Metanet Desktop, showing payment confirmation](../../../assets/tool-app/metanet-history.png)
+![ToolBSV transaction history in BSV Desktop, showing payment confirmation](../../../assets/tool-app/metanet-history.png)
 
 ---
 
@@ -178,7 +178,7 @@ You can easily access your transaction history by clicking on the ToolBSV applic
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
-| Wallet not connecting | Metanet Desktop not running | Launch Metanet Desktop and ensure it's connected to mainnet |
+| Wallet not connecting | BSV Desktop not running | Launch BSV Desktop and ensure it's connected to mainnet |
 | Payment fails | Insufficient BSV balance | Add BSV to your Metanet wallet |
 | High costs | Premium settings selected | Choose lower resolution or shorter duration options |
 | Video upload fails | File size too large | Ensure reference images are under 10MB |
@@ -212,7 +212,7 @@ You can easily access your transaction history by clicking on the ToolBSV applic
 ---
 
 **Quick Links:**
-[Metanet Desktop Guide](../metanet-desktop-mainnet.md) | [ BSV Getting Started](../README.md) | [BSV Blockchain Tools](https://bsvblockchain.org/features/tools-libraries/)
+[BSV Desktop Guide](../metanet-desktop-mainnet.md) | [ BSV Getting Started](../README.md) | [BSV Blockchain Tools](https://bsvblockchain.org/features/tools-libraries/)
 
 ---
 
