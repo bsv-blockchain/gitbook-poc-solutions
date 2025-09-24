@@ -39,7 +39,10 @@ Legacy Bridge is a BSV blockchain tool that enables seamless fund transfers betw
 Legacy Bridge works with traditional exchanges that use legacy address formats, including:
 - KuCoin
 - Kraken
-- Other major BSV-supporting exchanges
+- Digifinex
+- Orange
+- Htx
+- Any other major BSV-supporting exchanges
 
 ---
 
@@ -59,7 +62,13 @@ If you don't have a Metanet Desktop wallet yet:
 ### Step 2: Access Legacy Bridge
 
 1. **Visit the Legacy Bridge platform** at [https://legacy.atx.systems/](https://legacy.atx.systems/)
+
+[Landing page](../../assets/onboardings/legacy-bridge/landing-page.png)
+
 2. **Connect your Metanet Desktop wallet** when prompted
+
+[Prompt connection](../../assets/onboardings/legacy-bridge/prompt-metanet.png)
+
 3. **Grant necessary permissions** for the application to interact with your wallet
 
 ### Step 3: Prepare Your Exchange Funds
@@ -76,6 +85,8 @@ If you don't have a Metanet Desktop wallet yet:
 3. **Copy the generated legacy address** carefully
 4. **Verify the address format** matches what your exchange expects
 
+[Recieve Funds](../../assets/onboardings/legacy-bridge/recieve.png)
+
 ### Step 5: Initiate Exchange Withdrawal
 
 1. **Log into your exchange account**
@@ -84,12 +95,22 @@ If you don't have a Metanet Desktop wallet yet:
 4. **Enter the amount** you want to transfer
 5. **Confirm the withdrawal** following your exchange's security procedures
 
+
 ### Step 6: Monitor the Transfer
 
 1. **Return to Legacy Bridge** to monitor the incoming transaction
 2. **Check transaction status** in the application dashboard
 3. **Wait for blockchain confirmations** (typically 6 confirmations for security)
+4. **Click import to send funds to you metanet wallet**
 4. **Verify funds arrival** in your connected Metanet Desktop wallet
+
+### Step 7: Send funds to you a recipient wallet
+
+1. **Enter your adress in the Legacy Bridge**
+2. **Enter the ammount to send** within your funds
+3. **Send the funds to the wallet**
+
+[Sending funds](../../assets/onboardings/legacy-bridge/send.png)
 
 ---
 
@@ -113,6 +134,8 @@ Legacy Bridge leverages the **BRC-100 standard** features:
 - **Payment Internalization with BRC-29** for standardized payment handling
 - **BKDS Integration** for secure key derivation
 - **SPV Verification** using BRC-67 for transaction validation
+
+[Advanced Features](../../assets/onboardings/legacy-bridge/history.png)
 
 ---
 
