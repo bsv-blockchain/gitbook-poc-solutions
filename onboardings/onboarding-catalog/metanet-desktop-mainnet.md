@@ -10,7 +10,7 @@ BSV Desktop is a modern wallet designed to make your experience with BSV Blockch
 BSV Desktop is a wallet for BSV Blockchain, allowing you to manage your digital assets, explore blockchain applications, and interact with the BSV ecosystem.
 It’s built for security, ease of use, and flexibility—making it the perfect starting point for anyone interested in BSV Blockchain.
 
-- **Website:** [Download BSV Desktop](https://metanet.bsvb.tech/)
+- **Website:** [Download BSV Desktop](https://desktop.bsvb.tech/)
 
 ---
 
@@ -22,7 +22,7 @@ BSV Desktop is available for:
 - **macOS**
 - **Linux**
 
-Before installing, make sure your system meets the basic requirements listed on the [official website](https://metanet.bsvb.tech/).
+Before installing, make sure your system meets the basic requirements listed on the [official website](https://desktop.bsvb.tech/).
 
 ---
 
@@ -58,7 +58,7 @@ Intuitive interface designed for both new users and experienced developers.
 ## 🛠️ Installation Guide
 
 1. **Go to the official website:**
-	 [https://metanet.bsvb.tech/](https://metanet.bsvb.tech/)
+	 [https://desktop.bsvb.tech/](https://desktop.bsvb.tech/)
 2. **Download the version for your operating system.**
 3. **Run the installer and follow the setup wizard.**
 4. **Launch BSV Desktop.**

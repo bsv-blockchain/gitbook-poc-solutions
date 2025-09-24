@@ -52,7 +52,7 @@ Legacy Bridge works with traditional exchanges that use legacy address formats, 
 
 If you don't have a BSV Desktop wallet yet:
 
-1. **Download BSV Desktop** from [https://metanet.bsvb.tech/](https://metanet.bsvb.tech/)
+1. **Download BSV Desktop** from [https://desktop.bsvb.tech/](https://desktop.bsvb.tech/)
 2. **Install and configure** your wallet following the setup wizard
 3. **Secure your recovery keys** in a safe place
 4. **Note your wallet's receiving address** for later use
