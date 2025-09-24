@@ -48,3 +48,4 @@
     * [Kucoin](onboardings/onboarding-catalog/get-bsv/kucoin.md)
   * [Metanet Desktop (Mainnet)](onboardings/onboarding-catalog/metanet-desktop-mainnet.md)
   * [Pay and Get Paid](onboardings/onboarding-catalog/pay-and-paid.md)
+  * [Legacy Bridge](onboardings/onboarding-catalog/legacy-bridge.md)
