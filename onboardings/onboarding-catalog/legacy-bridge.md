@@ -104,7 +104,7 @@ If you don't have a Metanet Desktop wallet yet:
 4. **Click import to send funds to you metanet wallet**
 4. **Verify funds arrival** in your connected Metanet Desktop wallet
 
-### Step 7: Send funds to you a recipient wallet
+### Step 7: Send funds to a recipient wallet (Optional)
 
 1. **Enter your adress in the Legacy Bridge**
 2. **Enter the ammount to send** within your funds
