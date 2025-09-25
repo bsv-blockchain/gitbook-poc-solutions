@@ -53,7 +53,7 @@ Register (BlockMed) is a blockchain-based prescription management system using D
 - Docker v20 or newer
 - npm v8 or newer
 - Git
-- (Optional) Metanet Desktop for funding PLATFORM_FUNDING_KEY
+- (Optional) BSV Desktop for funding PLATFORM_FUNDING_KEY
 
 ### Clone and Setup
 

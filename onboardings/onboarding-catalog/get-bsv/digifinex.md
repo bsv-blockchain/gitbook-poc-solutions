@@ -12,7 +12,7 @@ DigiFinex provides users worldwide with a streamlined crypto trading experience 
 
 ## 📝 How to Buy BSV on DigiFinex Exchange
 
-### 1. Access DigiFinex Exchange 
+### 1. Access DigiFinex Exchange
 
 Go to [https://www.digifinex.com](https://www.digifinex.com).
 Optionally, download the DigiFinex mobile app for iOS or Android for convenient trading anytime, anywhere.
@@ -27,9 +27,9 @@ Optionally, download the DigiFinex mobile app for iOS or Android for convenient 
 - Submit your registration form.
 - Complete **KYC verification** by uploading your government-issued ID, selfie, and proof of address to unlock higher withdrawal limits and full trading features.
 
-![Register](../../../assets/onboardings/digifinex/register.png)
+![Register](../../../assets/onboardings/get-bsv/digifinex/register.png)
 
-![Identity Verification](../../../assets/onboardings/digifinex/identity-verification.png)
+![Identity Verification](../../../assets/onboardings/get-bsv/digifinex/identity-verification.png)
 
 ---
 
@@ -39,7 +39,7 @@ Optionally, download the DigiFinex mobile app for iOS or Android for convenient 
 - Choose to deposit fiat via bank transfer or credit/debit card (subject to availability).
 - Alternatively, deposit stablecoins such as USDT or other cryptocurrencies for faster trading.
 
-![Transfer Money](../../../assets/onboardings/digifinex/transfer-money.png)
+![Transfer Money](../../../assets/onboardings/get-bsv/digifinex/transfer-money.png)
 
 ---
 
@@ -50,7 +50,7 @@ Optionally, download the DigiFinex mobile app for iOS or Android for convenient 
 - Choose your payment method (crypto transfer, bank card, or other supported methods).
 - Enter the amount of BSV you want to purchase and confirm the order.
 
-![Buy BSV](../../../assets/onboardings/digifinex/trade-bsv.png)
+![Buy BSV](../../../assets/onboardings/get-bsv/digifinex/trade-bsv.png)
 
 ---
 
@@ -59,7 +59,7 @@ Optionally, download the DigiFinex mobile app for iOS or Android for convenient 
 - Store your newly acquired BSV safely in your DigiFinex wallet.
 - Trade BSV against other currencies, stake for rewards, or transfer to your external wallet for enhanced security.
 
-![Manage BSV](../../../assets/onboardings/digifinex/manage-bsv.png)
+![Manage BSV](../../../assets/onboardings/get-bsv/digifinex/manage-bsv.png)
 
 ---
 
@@ -75,10 +75,10 @@ If you encounter any difficulties, DigiFinex provides 24/7 customer support acce
 You can now transfer your BSV to personal wallets for additional control and security.
 
 - **Need a wallet?**
-  👉 [Create your Metanet Desktop Wallet](../metanet-desktop-mainnet.md)
+  👉 [Create your BSV Desktop Wallet](../metanet-desktop-mainnet.md)
 
-- **Want to learn how to transfer BSV to Metanet Desktop?**
-  👉 [How to transfer BSV to Metanet Desktop](https://example.com) <!-- Replace with actual link later -->
+- **Want to learn how to transfer BSV to BSV Desktop?**
+  👉 [How to transfer BSV to BSV Desktop](../legacy-bridge.md)
 
 ---
 

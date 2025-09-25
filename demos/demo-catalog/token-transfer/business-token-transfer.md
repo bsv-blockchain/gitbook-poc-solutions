@@ -10,13 +10,13 @@
 Decentralized file sharing faces challenges in incentivizing contributions and controlling content access. Traditional platforms lack efficient token-based economic models to reward uploaders and regulate content consumption.
 
 ### Solution Overview
-This proof of concept demonstrates a token-enabled decentralized file-sharing platform on the BSV blockchain. Users earn tokens by uploading content and spend tokens to access files shared by others. Integration with Metanet Desktop wallet and the PushDrop protocol enables seamless token minting, transfer, and value exchange, illustrating practical mechanisms for decentralized economies in file sharing.
+This proof of concept demonstrates a token-enabled decentralized file-sharing platform on the BSV blockchain. Users earn tokens by uploading content and spend tokens to access files shared by others. Integration with BSV Desktop wallet and the PushDrop protocol enables seamless token minting, transfer, and value exchange, illustrating practical mechanisms for decentralized economies in file sharing.
 
 ### Key Benefits
 - **Incentivized Sharing**: Encourages content contributions through earned token rewards.
 - **Controlled Access**: Users spend tokens to access valuable content, enabling fair exchange.
 - **Decentralized Economy**: Supports token minting and transfer purely on the blockchain, eliminating intermediaries.
-- **User-Friendly Wallet Integration**: Metanet Desktop provides a seamless payment and management experience.
+- **User-Friendly Wallet Integration**: BSV Desktop provides a seamless payment and management experience.
 
 ## Business Impact
 
@@ -40,7 +40,7 @@ This proof of concept demonstrates a token-enabled decentralized file-sharing pl
 
 ### Phase 1: Development & Pilot – Q4 2025
 - Implement token minting and transfer mechanisms using PushDrop protocol
-- Integrate Metanet Desktop wallet for user transactions
+- Integrate BSV Desktop wallet for user transactions
 - Launch pilot with early adopters to validate token economy flow
 - **Resources Needed**: Blockchain developers, UX/UI team, testing users
 
