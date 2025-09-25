@@ -63,7 +63,7 @@ Explore more apps that work with BSV Desktop at [metanetapps.com](https://metane
 
 ## 📝 Quick Links
 
-- **Create your wallet:** 👉 [BSV Desktop Guide](../metanet-desktop-mainnet.md)
+- **Create your wallet:** 👉 [BSV Desktop Guide](./metanet-desktop-mainnet.md)
 - **Get BSV:** 👉 [Get BSV Guide](get-bsv/README.md)
 
 ---
