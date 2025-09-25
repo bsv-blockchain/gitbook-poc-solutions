@@ -23,7 +23,7 @@ You can upload, download, and manage files using your wallet for secure payments
 
 When you access the app, you’ll see the main page:
 
-![UHRP Storage Main Page](../../../assets/uhrp-app/uhrp-mainpage.png)
+![UHRP Storage Main Page](../../../assets/onboardings/bsv-apps/uhrp-app/uhrp-mainpage.png)
 
 > **Tip:** Make sure BSV Desktop is running and connected for seamless integration.
 
@@ -38,7 +38,7 @@ When you access the app, you’ll see the main page:
 
 The image below shows the upload process:
 
-![Uploading a File in UHRP Storage](../../../assets/uhrp-app/uhrp-upload-file.png)
+![Uploading a File in UHRP Storage](../../../assets/onboardings/bsv-apps/uhrp-app/uhrp-upload-file.png)
 
 ---
 
@@ -46,7 +46,7 @@ The image below shows the upload process:
 
 After clicking **Upload**, BSV Desktop will prompt you to confirm the payment for storing your file.
 
-![Payment Request in BSV Desktop](../../../assets/uhrp-app/uhrp-payment.png)
+![Payment Request in BSV Desktop](../../../assets/onboardings/bsv-apps/uhrp-app/uhrp-payment.png)
 
 ---
 
@@ -54,7 +54,7 @@ After clicking **Upload**, BSV Desktop will prompt you to confirm the payment fo
 
 Once payment is complete, you’ll receive a **UHRP URL**—a unique link to your file, proving its authenticity and allowing easy access.
 
-![File Uploaded and UHRP URL Returned](../../../assets/uhrp-app/uhrp-file-uploaded.png)
+![File Uploaded and UHRP URL Returned](../../../assets/onboardings/bsv-apps/uhrp-app/uhrp-file-uploaded.png)
 
 > **What is a UHRP URL?**
 > It’s a special link that lets you download your file from any UHRP-compatible server, ensuring the file is exactly as you uploaded it.
@@ -71,7 +71,7 @@ To download a file:
 
 The image below shows how simple it is:
 
-![Downloading a File with UHRP URL](../../../assets/uhrp-app/uhrp-download.png)
+![Downloading a File with UHRP URL](../../../assets/onboardings/bsv-apps/uhrp-app/uhrp-download.png)
 
 ---
 
@@ -85,7 +85,7 @@ You can view all files uploaded with your BSV Desktop profile:
 
 Your uploaded files will appear, as shown below:
 
-![Listing Uploaded Files in UHRP Storage](../../../assets/uhrp-app/uhrp-files.png)
+![Listing Uploaded Files in UHRP Storage](../../../assets/onboardings/bsv-apps/uhrp-app/uhrp-files.png)
 
 ---
 

@@ -122,7 +122,7 @@ While it’s a bit more complex than some payment ramps, it offers flexibility a
 - **Create your wallet:** 👉 [BSV Desktop Guide](../metanet-desktop-mainnet.md)
 - **Get BSV:** 👉 [Get BSV Guide](README.md)
 - **Send/Receive Payments:** 👉 [Pay & Get Paid Guide](../pay-and-paid.md)
-- **Withdraw to BSV Desktop:** 🚧 Coming soon!
+- **Withdraw to BSV Desktop:** 👉 [How to transfer BSV to BSV Desktop](../legacy-bridge.md) 
 
 ---
 

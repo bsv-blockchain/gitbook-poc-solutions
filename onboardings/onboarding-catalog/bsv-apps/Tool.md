@@ -46,7 +46,7 @@ If you don't have BSV Desktop Wallet yet, follow our [BSV Desktop Onboarding Gui
 2. The homepage will display the three main service categories
 3. Ensure your BSV Desktop Wallet is running in the background
 
-![ToolBSV Main Interface](../../../assets/tool-app/main-interface.png)
+![ToolBSV Main Interface](../../../assets/onboardings/bsv-apps/tool-app/main-interface.png)
 
 ### Step 2: Connect Your Metanet Wallet
 1. Click on any AI service (Chat, Images, or Video)
@@ -55,9 +55,9 @@ If you don't have BSV Desktop Wallet yet, follow our [BSV Desktop Onboarding Gui
 4. **Grant permission** to allow ToolBSV to request payments from your wallet
 5. Once connected, you'll see your wallet status in the ToolBSV interface
 
-![Granting access to ToolBsv through Metanet Wallet](../../../assets/tool-app/wallet-request.png)
+![Granting access to ToolBsv through Metanet Wallet](../../../assets/onboardings/bsv-apps/tool-app/wallet-request.png)
 
-![*\ToolBSV interface showing successful wallet connection\]*](../../../assets/tool-app/toolbsv-connected.png)
+![*\ToolBSV interface showing successful wallet connection\]*](../../../assets/onboardings/bsv-apps/tool-app/toolbsv-connected.png)
 
 ### Step 3: Choose Your AI Service
 
@@ -67,7 +67,7 @@ If you don't have BSV Desktop Wallet yet, follow our [BSV Desktop Onboarding Gui
 - Create new conversations or continue existing ones
 - View conversation history securely stored on-chain
 
-![Chat Models and Pricing](../../../assets/tool-app/chat-models.png)
+![Chat Models and Pricing](../../../assets/onboardings/bsv-apps/tool-app/chat-models.png)
 
 #### Images Section
 - Choose from various image generation models
@@ -81,14 +81,14 @@ If you don't have BSV Desktop Wallet yet, follow our [BSV Desktop Onboarding Gui
 - Create videos from text prompts
 - Preview and download your generated content
 
-![Video Models Selection](../../../assets/tool-app/video-models.png)
+![Video Models Selection](../../../assets/onboardings/bsv-apps/tool-app/video-models.png)
 
 ### Step 4: Customize Your Generation Settings
 
 #### Image Size Options
 Different image sizes affect the final cost of generation. ToolBSV offers various dimensions with transparent pricing:
 
-![Image Size Options and Pricing](../../../assets/tool-app/image-size.png)
+![Image Size Options and Pricing](../../../assets/onboardings/bsv-apps/tool-app/image-size.png)
 
 **Available sizes and costs:**
 - **1024 × 1024 (Square):** $0.06 - Perfect for social media posts and profile images
@@ -100,7 +100,7 @@ Each size is optimized for different use cases, allowing you to choose the most 
 #### Video Settings and Quality
 Video generation offers extensive customization options that directly impact the final cost:
 
-![Video Settings and Cost Impact](../../../assets/tool-app/video-settings.png)
+![Video Settings and Cost Impact](../../../assets/onboardings/bsv-apps/tool-app/video-settings.png)
 
 **Customizable settings:**
 
@@ -133,7 +133,7 @@ Video generation offers extensive customization options that directly impact the
 5. **Approve the micropayment** (ranging from $0.06 to higher amounts based on settings)
 6. Your AI request is processed immediately
 
-![Payment confirmation dialog in BSV Desktop showing micropayment amount](../../../assets/tool-app/metanet-payment.png)
+![Payment confirmation dialog in BSV Desktop showing micropayment amount](../../../assets/onboardings/bsv-apps/tool-app/metanet-payment.png)
 
 ### Step 6: View Results and History
 - Your generated content appears immediately after payment
@@ -143,7 +143,7 @@ Video generation offers extensive customization options that directly impact the
 
 You can easily access your transaction history by clicking on the ToolBSV application within BSV Desktop. The image below shows how your history will appear, including the payment made for the previous AI task.
 
-![ToolBSV transaction history in BSV Desktop, showing payment confirmation](../../../assets/tool-app/metanet-history.png)
+![ToolBSV transaction history in BSV Desktop, showing payment confirmation](../../../assets/onboardings/bsv-apps/tool-app/metanet-history.png)
 
 ---
 

@@ -20,7 +20,7 @@ Go to [exchange.orangegateway.com](https://exchange.orangegateway.com/).
 
 You’ll see a homepage like this:
 
-![Orange Gateway Main Page](../../../assets/orange-gateway-main.png)
+![Orange Gateway Main Page](../../../assets/onboardings/get-bsv/orange/orange-gateway-main.png)
 
 ---
 
@@ -37,7 +37,7 @@ To use the payment ramp without KYC or personal data, click **Credit Cards** in 
 
 You’ll see a screen like this:
 
-![Orange Gateway Credit Card](../../../assets/orange-gateway-creditcard.png)
+![Orange Gateway Credit Card](../../../assets/onboardings/get-bsv/orange/orange-gateway-creditcard.png)
 
 ---
 
@@ -58,8 +58,7 @@ Now that you have BSV, you can transfer it to your wallet for secure storage and
 	👉 [Create your BSV Desktop Wallet](../metanet-desktop-mainnet.md)
 
 - **Want to learn how to transfer BSV to BSV Desktop?**
-	👉 [How to transfer BSV to BSV Desktop](https://example.com) <!-- Replace with actual link later -->
-
+	👉 [How to transfer BSV to BSV Desktop](../legacy-bridge.md)
 ---
 
 Orange Gateway makes it easy to start your journey with BSV Blockchain.

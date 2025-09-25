@@ -69,7 +69,7 @@ Intuitive interface designed for both new users and experienced developers.
 
 When you start BSV Desktop for the first time, you’ll see the initial verification screen:
 
-![BSV Desktop Initial Screen](../../assets/metanet-desktop-init.png)
+![BSV Desktop Initial Screen](../../assets/onboardings/bsv-desktop/metanet-desktop-init.png)
 
 - You’ll be asked for a phone number (optional but recommended for recovery).
 - Before creating your wallet, click **Show Config** to review and customize your setup.
@@ -80,7 +80,7 @@ When you start BSV Desktop for the first time, you’ll see the initial verifica
 
 After clicking **Show Config**, you’ll see:
 
-![BSV Desktop Configuration](../../assets/metanet-desktop-config.png)
+![BSV Desktop Configuration](../../assets/onboardings/bsv-desktop/metanet-desktop-config.png)
 
 - **BSV Network:**
 	Select **Mainnet** to use the real BSV Blockchain, or **Testnet** for testing.
@@ -104,7 +104,7 @@ After configuration, you’ll be shown your recovery keys.
 
 Once setup is complete, you’ll see your wallet dashboard:
 
-![BSV Desktop Main Screen](../../assets/metanet-desktop-main.png)
+![BSV Desktop Main Screen](../../assets/onboardings/bsv-desktop/metanet-desktop-main.png)
 
 - **Your Balance:**
 	You’ll receive 99,991 Satoshis as a welcome gift to start exploring BSV Blockchain.

@@ -18,7 +18,7 @@ While the wallet itself is for managing your identity and applications, payments
 1. **Open BSV Desktop** and go to [PeerPay](https://peerpay.babbage.systems/).
     PeerPay will automatically detect your wallet.
 
-    ![PeerPay Landing Page](../../assets/peerpay-landing.png)
+    ![PeerPay Landing Page](../../assets/onboardings/pay-and-paid/peerpay-landing.png)
 
 2. **To send a payment, you need:**
     - The recipient’s **Identity Key** (public key)
@@ -40,7 +40,7 @@ While the wallet itself is for managing your identity and applications, payments
 1. **Share your Identity Key** (public key) with the sender.
     Find it in BSV Desktop under the **Identity** tab:
 
-    ![BSV Desktop Main Screen](../../assets/metanet-desktop-main.png)
+    ![BSV Desktop Main Screen](../../assets/onboardings/bsv-desktop/metanet-desktop-main.png)
 
     > ⚠️ **Important:** Only share your Identity Key. Never share your Privileged Identity Key (private key).
 
@@ -48,7 +48,7 @@ While the wallet itself is for managing your identity and applications, payments
     Go to [PeerPay](https://peerpay.babbage.systems/).
     Pending payments will be listed for you to accept.
 
-    ![PeerPay Accept Payment](../../assets/peer-pay-accept-payment.png)
+    ![PeerPay Accept Payment](../../assets/onboardings/pay-and-paid/peer-pay-accept-payment.png)
 
 3. **Click `Accept` to receive the payment.**
     Your balance will update in BSV Desktop.

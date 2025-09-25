@@ -86,7 +86,7 @@ Now that you have BSV, you can transfer it to your wallet for secure storage and
 	👉 [Create your BSV Desktop Wallet](../metanet-desktop-mainnet.md)
 
 - **Want to learn how to transfer BSV to BSV Desktop?**
-	👉 [How to transfer BSV to BSV Desktop](https://example.com) <!-- Replace with actual link later -->
+	👉 [How to transfer BSV to BSV Desktop](../legacy-bridge.md) 
 
 ---
 
