@@ -1,7 +1,7 @@
 # Preimage - Business Overview
 
 **Demo ID**: `preimage`
-**Status**: `Early Development`
+**Status**: `Complete Demo`
 **Last Updated**: `September 30, 2025`
 
 ## Executive Summary
