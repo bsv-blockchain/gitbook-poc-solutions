@@ -37,6 +37,15 @@
     * [Business Documentation](demos/demo-catalog/circular-economy/business-circular-economy.md)
   * Token Transfer
     * [Business Documentation](demos/demo-catalog/token-transfer/business-token-transfer.md)
+  * Pay-QuickR
+    * [Business Documentation](demos/demo-catalog/pay-quickr/business-pay-quickr.md)
+    * [Technical Documentation](demos/demo-catalog/pay-quickr/technical-pay-quickr.md)
+  * Beef Inspector
+    * [Business Documentation](demos/demo-catalog/beef-inspector/business-beef-inspector.md)
+    * [Technical Documentation](demos/demo-catalog/beef-inspector/technical-beef-inspector.md)
+  * Preimage
+    * [Business Documentation](demos/demo-catalog/preimage/business-preimage.md)
+    * [Technical Documentation](demos/demo-catalog/preimage/technical-preimage.md)
 
 ## Onboardings
 * [Onboarding Overview](onboardings/README.md)
