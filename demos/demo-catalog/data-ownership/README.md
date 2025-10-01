@@ -1,0 +1,3 @@
+# Data Ownership
+
+This proof of concept integrates SOLID pods with BSV blockchain to create a decentralized personal knowledge management system. SOLID provides personal data vaults with user ownership, while BSV enables public timestamping, notarization, and micropayments. The demo shows users maintaining data control while leveraging BSV for proof of existence, governance, and immutable audit trails. Built as a "second brain" application using NextJS and W3C standards, it demonstrates pay-per-use storage with micropayments, content sharing capabilities, and seamless AI integration while following decentralized identity management protocols.

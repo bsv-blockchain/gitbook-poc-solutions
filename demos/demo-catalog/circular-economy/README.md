@@ -1,0 +1,3 @@
+# Circular Economy
+
+This proof of concept demonstrates how BSV blockchain can revolutionize circular fashion by creating complete traceability from plastic waste to finished garments. The application tracks every step of the recycling process - from bottle collection in London through transformation into high-fashion clothing. By recording each stage on the immutable blockchain, it provides consumers with verifiable proof of sustainability claims, enabling them to make informed purchasing decisions. This transparency-driven approach could transform the fashion industry's environmental impact while building consumer trust through data-backed circular economy practices.

@@ -1,0 +1,3 @@
+# Digital Trust Card
+
+This proof of concept addresses online safety challenges following the UK's new Online Safety legislation by creating a blockchain-powered age verification tool. The Digital Trust Card enables privacy-first age verification without revealing personal identity, empowering families to protect children online while maintaining control. By partnering with child safety organizations, privacy advocates, and educational institutions, this PoC demonstrates how blockchain can provide practical solutions to real-world regulatory compliance issues while positioning BSV as a thoughtful innovator in digital identity and privacy protection.
