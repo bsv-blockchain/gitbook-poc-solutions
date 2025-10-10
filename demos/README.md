@@ -10,21 +10,21 @@ Comprehensive index of all Demo solutions with quick access to key information.
 
 | Use Case | Demo Name | Last Updated |
 |----------|-----------|--------------|
-| **Data Integrity & Hashing** | [Truth Machine](demo-catalog/truth-machine/) | Aug 2025 |
-| **Supply Chain Tracking** | [Natural Chain](demo-catalog/natural-chain/) | Aug 2025 |
-| **Healthcare Tokenization** | [Prescription Tokens](demo-catalog/prescription-tokens/) | Aug 2025 |
-| **Medical Data Exchange** | [P2P Medical](demo-catalog/p2p-medical/) | Aug 2025 |
-| **Digital Identity** | [Register](demo-catalog/register/) | Aug 2025 |
-| **Digital Receipts** | [Digital Receipts](demo-catalog/digital-reciept/) | Sep 2025 |
-| **Community Knowledge** | [Slack Threads](demo-catalog/slack-threads/) | Sep 2025 |
-| **Digital Identity Privacy** | [Digital Trust Card](demo-catalog/digital-trust-card/) | Sep 2025 |
-| **Sovereign Data Control** | [Data Ownership](demo-catalog/data-ownership/) | Sep 2025 |
-| **File Integrity & Tracking** | [Time Anchor](demo-catalog/time-anchor/) | Sep 2025 |
-| **Sustainable Fashion** | [Circular Economy](demo-catalog/circular-economy/) | Sep 2025 |
-| **Token Economy** | [Token Transfer](demo-catalog/token-transfer/) | Sep 2025 |
-| **Payment Solutions** | [Pay-QuickR](demo-catalog/pay-quickr/) | Sep 2025 |
-| **Debugging Tools** | [Beef Inspector](demo-catalog/beef-inspector/) | Sep 2025 |
-| **Transaction Analysis** | [Preimage](demo-catalog/preimage/) | Sep 2025 |
+| **Data Integrity & Hashing** | [Truth Machine](demo-catalog/truth-machine/README.md) | Aug 2025 |
+| **Supply Chain Tracking** | [Natural Chain](demo-catalog/natural-chain/README.md) | Aug 2025 |
+| **Healthcare Tokenization** | [Prescription Tokens](demo-catalog/prescription-tokens/README.md) | Aug 2025 |
+| **Medical Data Exchange** | [P2P Medical](demo-catalog/p2p-medical/README.md) | Aug 2025 |
+| **Digital Identity** | [Register](demo-catalog/register/README.md) | Aug 2025 |
+| **Digital Receipts** | [Digital Receipts](demo-catalog/digital-reciept/README.md) | Sep 2025 |
+| **Community Knowledge** | [Slack Threads](demo-catalog/slack-threads/README.md) | Sep 2025 |
+| **Digital Identity Privacy** | [Digital Trust Card](demo-catalog/digital-trust-card/README.md) | Sep 2025 |
+| **Sovereign Data Control** | [Data Ownership](demo-catalog/data-ownership/README.md) | Sep 2025 |
+| **File Integrity & Tracking** | [Time Anchor](demo-catalog/time-anchor/README.md) | Sep 2025 |
+| **Sustainable Fashion** | [Circular Economy](demo-catalog/circular-economy/README.md) | Sep 2025 |
+| **Token Economy** | [Token Transfer](demo-catalog/token-transfer/README.md) | Sep 2025 |
+| **Payment Solutions** | [Pay-QuickR](demo-catalog/pay-quickr/README.md) | Sep 2025 |
+| **Debugging Tools** | [Beef Inspector](demo-catalog/beef-inspector/README.md) | Sep 2025 |
+| **Transaction Analysis** | [Preimage](demo-catalog/preimage/README.md) | Sep 2025 |
 
 
 
