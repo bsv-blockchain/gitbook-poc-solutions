@@ -6,44 +6,44 @@
 
 ## Demo Solutions
 * [Demo Catalog](demos/README.md)
-  * Natural Chain
+  * [Natural Chain](demos/demo-catalog/natural-chain/README.md)
     * [Business Documentation](demos/demo-catalog/natural-chain/business-natural-chain.md)
     * [Technical Documentation](demos/demo-catalog/natural-chain/technical-natural-chain.md)
-  * P2P Medical
+  * [P2P Medical](demos/demo-catalog//p2p-medical/README.md)
     * [Business Documentation](demos/demo-catalog/p2p-medical/business-p2p-medical.md)
     * [Technical Documentation](demos/demo-catalog/p2p-medical/technical-p2p-medical.md)
-  * Prescription Tokens
+  * [Prescription Tokens](demos/demo-catalog/prescription-tokens/README.md)
     * [Business Documentation](demos/demo-catalog/prescription-tokens/business-prescription-tokens.md)
     * [Technical Documentation](demos/demo-catalog/prescription-tokens/technical-prescription-tokens.md)
-  * Register
+  * [Register](demos/demo-catalog/register/README.md)
     * [Business Documentation](demos/demo-catalog/register/business-register.md)
     * [Technical Documentation](demos/demo-catalog/register/technical-register.md)
-  * Truth Machine
+  * [Truth Machine](demos/demo-catalog/truth-machine/README.md)
     * [Business Documentation](demos/demo-catalog/truth-machine/business-truth-machine.md)
     * [Technical Documentation](demos/demo-catalog/truth-machine/technical-truth-machine.md)
-  * Digital Reciepts
+  * [Digital Reciepts](demos/demo-catalog/digital-reciept/README.md)
     * [Business Documentation](demos/demo-catalog/digital-reciept/business-digital-reciept.md)
     * [Technical Documentation](demos/demo-catalog/digital-reciept/technical-digital-reciept.md)
-  * Slack Threads
+  * [Slack Threads](demos/demo-catalog/slack-threads/README.md)
     * [Business Documentation](demos/demo-catalog/slack-threads/business-slack-threads.md)
     * [Technical Documentation](demos/demo-catalog/slack-threads/technical-slack-threads.md)
-  * Digital Trust Card
+  * [Digital Trust Card](demos/demo-catalog/digital-trust-card/README.md)
     * [Business Documentation](demos/demo-catalog/digital-trust-card/business-digital-trust-card.md)
-  * Data Ownership (SOLID + BSV)
+  * [Data Ownership (SOLID + BSV)](demos/demo-catalog/data-ownership/README.md)
     * [Business Documentation](demos/demo-catalog/data-ownership/business-data-ownership.md)
-  * Time Anchor
+  * [Time Anchor](demos/demo-catalog/time-anchor/README.md)
     * [Business Documentation](demos/demo-catalog/time-anchor/business-time-anchor.md)
-  * Circular Economy
+  * [Circular Economy](demos/demo-catalog/circular-economy/README.md)
     * [Business Documentation](demos/demo-catalog/circular-economy/business-circular-economy.md)
-  * Token Transfer
+  * [Token Transfer](demos/demo-catalog/token-transfer/README.md)
     * [Business Documentation](demos/demo-catalog/token-transfer/business-token-transfer.md)
-  * Pay-QuickR
+  * [Pay-QuickR](demos/demo-catalog/pay-quickr/README.md)
     * [Business Documentation](demos/demo-catalog/pay-quickr/business-pay-quickr.md)
     * [Technical Documentation](demos/demo-catalog/pay-quickr/technical-pay-quickr.md)
-  * Beef Inspector
+  * [Beef Inspector](demos/demo-catalog/beef-inspector/README.md)
     * [Business Documentation](demos/demo-catalog/beef-inspector/business-beef-inspector.md)
     * [Technical Documentation](demos/demo-catalog/beef-inspector/technical-beef-inspector.md)
-  * Preimage
+  * [Preimage](demos/demo-catalog/preimage/README.md)
     * [Business Documentation](demos/demo-catalog/preimage/business-preimage.md)
     * [Technical Documentation](demos/demo-catalog/preimage/technical-preimage.md)
 
