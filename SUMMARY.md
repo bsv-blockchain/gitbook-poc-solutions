@@ -49,6 +49,9 @@
 
 ## Onboardings
 * [Onboarding Overview](onboardings/README.md)
+* [Onboarding APPs](onboardings/onboarding-catalog/README.md)
+    * [Tool on BSV](onboardings/onboarding-catalog/bsv-apps/Tool.md)
+    * [UHRP Storage](onboardings/onboarding-catalog/bsv-apps/UHRP%20Storage.md)
 * [Onboarding Catalog](onboardings/onboarding-catalog/README.md)
   * [Getting BSV](onboardings/onboarding-catalog/get-bsv/README.md)
     * [Orange Gateway](onboardings/onboarding-catalog/get-bsv/orange-gateway.md)
