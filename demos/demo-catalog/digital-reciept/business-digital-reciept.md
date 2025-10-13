@@ -12,6 +12,8 @@ Global businesses and consumers face enormous environmental and economic costs d
 ### Solution Overview
 Digital Receipts is a BSV blockchain-powered platform enabling retailers and payment systems to issue secure, immutable digital receipts in place of paper ones[attached_file:1]. The solution leverages blockchain to ensure data integrity, reduce costs, and eliminate the need for environmentally harmful paper receipts.
 
+![Digital-receipt](../../../assets/demos/videos/digital-receipt/Digital-receipt.mov)
+
 ### Key Benefits
 - **Environmental impact**: Drastically reduces paper, energy, water, and oil consumption associated with traditional receipts[attached_file:1].
 - **Operational savings**: Reduces transaction and storage costs across retailers and payment processors.

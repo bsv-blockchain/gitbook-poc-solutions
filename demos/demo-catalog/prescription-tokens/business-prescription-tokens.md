@@ -25,6 +25,8 @@ The healthcare industry faces challenges in securely managing prescriptions, wit
 - Pharmacies redeem tokens to verify prescription authenticity and dispense medications.
 - The token-based system supports one-time use and auditability, minimizing fraud and errors.
 
+![Prescription](../../../assets/demos/videos/prescription/Prescription-video.mov)
+
 ---
 
 ## Key Benefits
