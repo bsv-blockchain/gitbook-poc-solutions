@@ -58,8 +58,6 @@ If you don't have a BSV wallet yet, follow the [BSV Desktop Onboarding Guide](..
    - Creator information
 4. Filter results to narrow your search
 
-![Catalog view with searchable files](../../../assets/onboardings/bsv-apps/metamarket-app/catalog-view.png)
-
 ### Step 3: Upload Your First File
 1. Click **"Upload File"** button
 2. Select the file from your device

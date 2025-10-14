@@ -53,7 +53,6 @@
   * [CoolCert](onboardings/onboarding-catalog/bsv-apps/CoolCert.md)
   * [DropBlocks](onboardings/onboarding-catalog/bsv-apps/DropBlocks.md)
   * [Immutify](onboardings/onboarding-catalog/bsv-apps/Immutify.md)
-  * [Legacy ATX Systems](onboardings/onboarding-catalog/bsv-apps/Legacy-ATX-Systems.md)
   * [MarsCast](onboardings/onboarding-catalog/bsv-apps/MarsCast.md)
   * [MetaMarket](onboardings/onboarding-catalog/bsv-apps/MetaMarket.md)
   * [Metanet Highway](onboardings/onboarding-catalog/bsv-apps/MetanetHighway.md)

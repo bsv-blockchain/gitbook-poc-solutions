@@ -90,8 +90,6 @@ Choose the correct derivation path for your wallet type:
    - Balance (if connected to blockchain)
    - UTXO information
 
-![Derivation results showing addresses and balances](../../../assets/onboardings/bsv-apps/mnemonic-brc100-app/derivation-result.png)
-
 ### Step 6: Manage Your Coins
 1. Review generated addresses and their balances
 2. Identify addresses with UTXOs (unspent coins)

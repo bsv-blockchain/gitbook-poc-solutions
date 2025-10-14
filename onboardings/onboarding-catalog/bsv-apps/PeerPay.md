@@ -117,7 +117,6 @@ PeerPay relies on the Babbage identity system for peer discovery. If you're usin
    - Payment amounts and descriptions
    - Transaction status (pending, confirmed)
 
-![PeerPay Payments Dashboard](../../../assets/onboardings/bsv-apps/peerpay-app/payments-dashboard.png)
 
 **History Features:**
 - Filter by date range or transaction type
