@@ -2,7 +2,7 @@
 
 **Status:** Production
 **Last Updated:** October 2025
-**Contact/Support:** [@mohrt](https://x.com/mohrt) | [DropBlocks Website](https://dropblocks.org/)
+**Contact/Support:** [DropBlocks Website](https://dropblocks.org/)
 
 ---
 
@@ -134,7 +134,6 @@ If you don't have a BSV wallet yet, follow the [BSV Desktop Onboarding Guide](..
 - **Use encryption for sensitive data** - Add extra privacy layer for confidential files
 
 ### Getting Help
-- **Twitter/X:** [@mohrt](https://x.com/mohrt) for support
 - **Community:** BSV blockchain community forums
 - **Documentation:** Check DropBlocks website for updates
 
