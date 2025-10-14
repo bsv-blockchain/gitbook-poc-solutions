@@ -21,8 +21,9 @@ Metanet Highway is a BSV wallet app for easy blockchain payments and transaction
 3. Share with others or use for transaction history review
 
 ## Screenshots
-- Wallet dashboard: (SKIP_SCREENSHOT_TAG)
-- Receive/send dialogs: (SKIP_SCREENSHOT_TAG)
+![Wallet dashboard](../../../assets/onboardings/bsv-apps/metanet-highway-app/wallet-dashboard.png)
+
+![Receive/send dialogs](../../../assets/onboardings/bsv-apps/metanet-highway-app/send-receive-dialogs.png)
 
 ## Tips
 - Use for Metanet-integrated wallet workflows

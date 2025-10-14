@@ -23,8 +23,9 @@ Meter creates, increments, and decrements blockchain-based counters that persist
 4. Identity key tracks each meter
 
 ## Screenshots
-- Meter dashboard: (SKIP_SCREENSHOT_TAG)
-- Creation dialog: (SKIP_SCREENSHOT_TAG)
+![Meter dashboard](../../../assets/onboardings/bsv-apps/meter-app/meter-dashboard.png)
+
+![Creation dialog](../../../assets/onboardings/bsv-apps/meter-app/creation-dialog.png)
 
 ## Tips
 - Use meters for gamified tasks, ledger or reputation tracking

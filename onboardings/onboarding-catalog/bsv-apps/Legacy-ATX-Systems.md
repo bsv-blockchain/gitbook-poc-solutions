@@ -25,8 +25,9 @@ Legacy ATX enables address-based BSV payments with BRC-100 wallets.
    - Input recipient address and amount
 
 ## Screenshots
-- Dashboard: (SKIP_SCREENSHOT_TAG)
-- Send/receive flow: (SKIP_SCREENSHOT_TAG)
+![Dashboard](../../../assets/onboardings/bsv-apps/legacy-atx-app/dashboard.png)
+
+![Send/receive flow](../../../assets/onboardings/bsv-apps/legacy-atx-app/send-receive.png)
 
 ## Tips
 - Suitable for backward-compatible transactions

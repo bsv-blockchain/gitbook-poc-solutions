@@ -23,8 +23,9 @@ PeerPay provides a peer-to-peer payment interface with identity search and trans
 4. Review incoming and outgoing payment history
 
 ## Screenshots
-- Identity search/input: (SKIP_SCREENSHOT_TAG)
-- Payments dashboard: (SKIP_SCREENSHOT_TAG)
+![Identity search/input](../../../assets/onboardings/bsv-apps/peerpay-app/identity-search.png)
+
+![Payments dashboard](../../../assets/onboardings/bsv-apps/peerpay-app/payments-dashboard.png)
 
 ## Tips
 - Use identity system for easy peer discovery

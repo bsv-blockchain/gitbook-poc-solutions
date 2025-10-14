@@ -23,8 +23,9 @@ SocialCert issues verifiable identity certificates using Discord, X, and email v
 4. Check certificate attributes/status
 
 ## Screenshots
-- Verification form (SKIP_SCREENSHOT_TAG)
-- Email/X/Discord status screen (SKIP_SCREENSHOT_TAG)
+![Verification form](../../../assets/onboardings/bsv-apps/socialcert-app/verification-form.png)
+
+![Email/X/Discord status screen](../../../assets/onboardings/bsv-apps/socialcert-app/verification-status.png)
 
 ## Tips
 - Use verified identity for access to Metanet/MarsCast platforms

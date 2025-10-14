@@ -31,8 +31,9 @@ Metanet ToDo turns tasks into incentivized blockchain commitments with satoshi r
 4. Mark task as done to release funds and get celebration notification
 
 ## Screenshots
-- Empty state (no tasks): (SKIP_SCREENSHOT_TAG)
-- New task dialog and celebration overlay: (SKIP_SCREENSHOT_TAG)
+![Empty state (no tasks)](../../../assets/onboardings/bsv-apps/todo-app/empty-state.png)
+
+![New task dialog and celebration overlay](../../../assets/onboardings/bsv-apps/todo-app/task-creation.png)
 
 ## Tips
 - Use for self-motivation in code and life tasks

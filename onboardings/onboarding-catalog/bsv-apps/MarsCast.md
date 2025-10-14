@@ -23,8 +23,9 @@ MarsCast delivers Mars weather data via a blockchain-secured API; requires a val
 4. View results and transaction confirmations
 
 ## Screenshots
-- MarsCast weather dashboard: (SKIP_SCREENSHOT_TAG)
-- Certificate verification/auth flow: (SKIP_SCREENSHOT_TAG)
+![MarsCast weather dashboard](../../../assets/onboardings/bsv-apps/marscast-app/weather-dashboard.png)
+
+![Certificate verification/auth flow](../../../assets/onboardings/bsv-apps/marscast-app/auth-flow.png)
 
 ## Tips
 - Use pay-per-request for fast, secure access

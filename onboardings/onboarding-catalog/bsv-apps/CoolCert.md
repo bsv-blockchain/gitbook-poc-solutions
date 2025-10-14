@@ -1,7 +1,7 @@
 ### CoolCert.md
 
 ***
-Status:** Production
+**Status:** Production
 **Last Updated:** October 2025
 **Contact/Support:** Babbage Systems, GitHub
 
@@ -22,8 +22,9 @@ CoolCert is a playful identity certification system. It demonstrates digital ide
 3. Use certificate for MarsCast or other APIs requiring identity
 
 ## Screenshots
-- Main page/certificate dashboard: (SKIP_SCREENSHOT_TAG)
-- Certificate issuance flow: (SKIP_SCREENSHOT_TAG)
+![Main page/certificate dashboard](../../../assets/onboardings/bsv-apps/coolcert-app/main-dashboard.png)
+
+![Certificate issuance flow](../../../assets/onboardings/bsv-apps/coolcert-app/issuance-flow.png)
 
 ## Tips
 - Example for real-world identity systems

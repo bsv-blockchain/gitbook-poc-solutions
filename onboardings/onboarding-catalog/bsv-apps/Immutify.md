@@ -23,8 +23,9 @@ Immutify enables cryptographic proof-of-existence for ideas, documents, and medi
 4. Optionally verify document or media hashes
 
 ## Screenshots
-- Main proof-creation form: (SKIP_SCREENSHOT_TAG)
-- Verify hash workflow: (SKIP_SCREENSHOT_TAG)
+![Main proof-creation form](../../../assets/onboardings/bsv-apps/immutify-app/proof-creation-form.png)
+
+![Verify hash workflow](../../../assets/onboardings/bsv-apps/immutify-app/verify-hash.png)
 
 ## Tips
 - Use for intellectual property protection and documentation

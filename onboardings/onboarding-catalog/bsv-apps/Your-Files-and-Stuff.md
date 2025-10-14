@@ -23,8 +23,9 @@ Web-driven blockchain drive for files, folders, markdown docs, and media attachm
 4. “Add Media File” – input UHRP, select type (image, video, audio)
 
 ## Screenshots
-- Main dashboard: (SKIP_SCREENSHOT_TAG)
-- File/folder creation: (SKIP_SCREENSHOT_TAG)
+![Main dashboard](../../../assets/onboardings/bsv-apps/your-files-app/main-dashboard.png)
+
+![File/folder creation](../../../assets/onboardings/bsv-apps/your-files-app/file-folder-creation.png)
 
 ## Tips
 - Use markdown files for structured knowledge storage

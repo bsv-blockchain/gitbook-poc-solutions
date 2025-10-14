@@ -23,8 +23,9 @@ MetaMarket is a decentralized marketplace for blockchain file and data uploads.
 4. Filter/browse data by name
 
 ## Screenshots
-- Upload interface: (SKIP_SCREENSHOT_TAG)
-- Search/catalog view: (SKIP_SCREENSHOT_TAG)
+![Upload interface](../../../assets/onboardings/bsv-apps/metamarket-app/upload-interface.png)
+
+![Search/catalog view](../../../assets/onboardings/bsv-apps/metamarket-app/catalog-view.png)
 
 ## Tips
 - Set competitive pricing for marketplace reach

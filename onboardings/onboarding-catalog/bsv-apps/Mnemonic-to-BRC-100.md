@@ -30,8 +30,9 @@ A utility for deriving BRC-100 wallet addresses from mnemonic phrases.
 4. Generate addresses and manage coins
 
 ## Screenshots
-- Main form: (SKIP_SCREENSHOT_TAG)
-- Derivation result: (SKIP_SCREENSHOT_TAG)
+![Main form](../../../assets/onboardings/bsv-apps/mnemonic-brc100-app/main-form.png)
+
+![Derivation result](../../../assets/onboardings/bsv-apps/mnemonic-brc100-app/derivation-result.png)
 
 ## Tips
 - Refresh after spending to avoid accidental double spend

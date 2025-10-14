@@ -22,8 +22,9 @@ Thryll Arcade provides blockchain games with rewards and leaderboards.
 3. Play to earn rewards and climb leaderboards
 
 ## Screenshots
-- Game selection page: (SKIP_SCREENSHOT_TAG)
-- Reward/leaderboard dashboard: (SKIP_SCREENSHOT_TAG)
+![Game selection page](../../../assets/onboardings/bsv-apps/thryll-app/game-selection.png)
+
+![Reward/leaderboard dashboard](../../../assets/onboardings/bsv-apps/thryll-app/rewards-leaderboard.png)
 
 ## Tips
 - Explore new games as they are released
