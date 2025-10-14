@@ -78,7 +78,7 @@ Select which account type you want to verify first:
 ### Step 3: Complete X (Twitter) Verification
 
 #### Process:
-1. Click on **"Verify X Account"** or similar button
+1. Click on **"X Account"**
 2. SocialCert redirects to X OAuth authentication
 3. **Log in to your X account** if not already logged in
 4. Review the **permission request** from SocialCert
@@ -98,7 +98,7 @@ Select which account type you want to verify first:
 ### Step 4: Complete Discord Verification
 
 #### Process:
-1. Select **"Verify Discord Account"**
+1. Select **"Discord Account"**
 2. SocialCert initiates Discord OAuth flow
 3. **Log in to Discord** if not already authenticated
 4. Review **permissions requested** by SocialCert bot
@@ -117,7 +117,7 @@ Select which account type you want to verify first:
 ### Step 5: Complete Email Verification
 
 #### Process:
-1. Click on **"Verify Email"**
+1. Click on **"Email"**
 2. Enter your **email address** in the verification form
 3. Click **"Send Verification"**
 4. Check your **email inbox** (and spam/junk folder)
@@ -137,7 +137,7 @@ Select which account type you want to verify first:
 ![Email, X, and Discord Verification Status Screen](../../../assets/onboardings/bsv-apps/socialcert-app/verification-status.png)
 
 ### Step 6: View and Manage Your Certificates
-1. After verification completes, navigate to **"My Certificates"** or similar section
+1. After verification completes, navigate to **"Identity"** on BSV Desktop
 2. View all your issued certificates:
    - Certificate type (X, Discord, Email)
    - Associated account information
@@ -145,8 +145,7 @@ Select which account type you want to verify first:
    - Certificate status (active, revoked)
    - Blockchain transaction ID
 3. Check **certificate attributes** - data included in each certificate
-4. **Export certificate details** for use in other applications
-5. **Revoke certificates** if needed (account change, security concerns)
+4. **Revoke certificates** if needed (account change, security concerns)
 
 **Certificate Management:**
 - Download certificate data for local storage

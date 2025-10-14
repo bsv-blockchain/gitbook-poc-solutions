@@ -133,7 +133,7 @@ Target completion: Q4 2025
 ### Step 5: Add Media Files via UHRP URLs
 Media files (images, videos, audio) are referenced via UHRP URLs rather than uploaded directly:
 
-1. Click **"Add Media File"** or similar button
+1. Click **"Add Media"**
 2. Select **media type**:
    - **Image** - Photos, graphics, diagrams
    - **Video** - Video content

@@ -64,7 +64,7 @@ MarsCast is a blockchain-secured API service that delivers real-time Mars weathe
 ![Certificate verification and authentication flow](../../../assets/onboardings/bsv-apps/marscast-app/auth-flow.png)
 
 ### Step 3: Request Mars Weather Data
-1. Once authenticated, click **"Get Mars Weather"** or similar button
+1. Once authenticated, click **"Fetch Mars Weather"**
 2. Review the request cost: **$0.001 (approximately 1,000-2,000 satoshis)**
 3. Confirm the micropayment in your BSV wallet
 4. API processes your request immediately
