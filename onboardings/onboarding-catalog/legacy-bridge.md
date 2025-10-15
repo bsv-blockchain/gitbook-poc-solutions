@@ -80,7 +80,7 @@ If you don't have a BSV Desktop wallet yet:
 
 ### Step 4: Generate Legacy Address
 
-1. **In Legacy Bridge**, select "Receive Funds" or similar option
+1. **In Legacy Bridge**, select "Generate Address"
 2. **Generate a legacy-compatible address** that your exchange can recognize
 3. **Copy the generated legacy address** carefully
 4. **Verify the address format** matches what your exchange expects

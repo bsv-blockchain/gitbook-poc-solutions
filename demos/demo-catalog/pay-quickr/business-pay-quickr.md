@@ -68,7 +68,7 @@ Pay-QuickR is a React TypeScript demonstration project that showcases BSV blockc
 
 - **Technical Documentation**: [Technical Pay-QuickR Documentation](./technical-pay-quickr.md)
 - **Demo/Prototype**: [GitHub Repository](https://github.com/bsv-blockchain-demos/Pay-QuickR)
-- **Live Demo**: [pay-quickr.vercel.app](https://pay-quickr.vercel.app)
+- **Live Demo**: [pay-quickr](https://pay-quickr.atx.systems)
 - **Business Case**: BSV blockchain payment adoption and developer education
 
 ---

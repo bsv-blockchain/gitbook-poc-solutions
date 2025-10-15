@@ -116,7 +116,7 @@ Key configuration parameters:
 
 - **Repository**: [Slack Threads Webapp](https://github.com/bsv-blockchain-demos/slack-threads-webapp), [Slack Bot App](https://github.com/bsv-blockchain-demos/slack-bot-app)
 - **Business Documentation**: [BSVA Slack Threads - Business Overview](./business-slack-threads.md)
-- **Demo Environment**: [Live Demo](http://slack-threads-us-01.bsvb.tech/)
+- **Demo Environment**: (Local/open as per deployment)
 - **Support Contact**: [Lead Blockchain Engineer]
 
 ---

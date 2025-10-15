@@ -9,7 +9,7 @@
 ### System Architecture
 The platform integrates retailer POS systems and a consumer mobile app via the BSV blockchain.
 - POS system generates receipt, encodes data into a blockchain transaction, produces a QR code for consumer verification.
-- Mobile app scans QR receipt, verifies authenticity against BSV blockchain, stores locally[12].
+- Mobile app scans QR receipt, verifies authenticity against BSV blockchain, stores locally.
 
 ### Technology Stack
 - **Frontend**: Next.js 15, React 19, Tailwind CSS v4 (POS); React Native with Expo (mobile app)
