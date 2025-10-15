@@ -9,9 +9,9 @@
   * [Natural Chain](demos/demo-catalog/natural-chain/README.md)
     * [Business Documentation](demos/demo-catalog/natural-chain/business-natural-chain.md)
     * [Technical Documentation](demos/demo-catalog/natural-chain/technical-natural-chain.md)
-  * [P2P Medical](demos/demo-catalog//p2p-medical/README.md)
+  <!-- * [P2P Medical](demos/demo-catalog//p2p-medical/README.md)
     * [Business Documentation](demos/demo-catalog/p2p-medical/business-p2p-medical.md)
-    * [Technical Documentation](demos/demo-catalog/p2p-medical/technical-p2p-medical.md)
+    * [Technical Documentation](demos/demo-catalog/p2p-medical/technical-p2p-medical.md) -->
   * [Prescription Tokens](demos/demo-catalog/prescription-tokens/README.md)
     * [Business Documentation](demos/demo-catalog/prescription-tokens/business-prescription-tokens.md)
     * [Technical Documentation](demos/demo-catalog/prescription-tokens/technical-prescription-tokens.md)
