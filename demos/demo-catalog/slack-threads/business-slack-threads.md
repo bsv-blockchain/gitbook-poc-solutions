@@ -10,7 +10,7 @@
 Valuable knowledge and technical discussions within BSVA's internal Slack workspace are confined to private channels, limiting knowledge sharing and collaboration with broader communities. Additionally, incentivizing quality contributions and meaningful engagement through traditional methods is challenging.
 
 ### Solution Overview
-BSVA Slack Threads connects internal Slack discussions with a public Q&A website powered by BSV microtransactions[1]. This integration enables important threads to be shared publicly, promoting wider knowledge dissemination. Users can reward helpful answers with BSV tips, leveraging blockchain micropayments to create economic incentives for high-quality knowledge sharing.
+BSVA Slack Threads connects internal Slack discussions with a public Q&A website powered by BSV microtransactions. This integration enables important threads to be shared publicly, promoting wider knowledge dissemination. Users can reward helpful answers with BSV tips, leveraging blockchain micropayments to create economic incentives for high-quality knowledge sharing.
 
 ### Key Benefits
 - **Knowledge Expansion**: Extends internal organizational knowledge to external developer communities.

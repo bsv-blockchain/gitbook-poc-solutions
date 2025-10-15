@@ -11,7 +11,7 @@ This page explains **what each template contains, how to copy it, and how to mix
 | **Business** | Managers & stakeholders | Core Info, Executive Summary | Business Impact, Roadmap, Success Stories |
 | **Technical** | Developers & architects | Core Info, Technical Summary | Architecture, Integration, Deployment, Testing |
 
-GitBook supports **page duplication** and **block-level editing**, so you can reuse these templates as many times as you need[13].
+GitBook supports **page duplication** and **block-level editing**, so you can reuse these templates as many times as you need.
 
 ---
 
@@ -69,7 +69,7 @@ text
 | **Major change** (new section) | Quarterly review | Doc lead |
 | **Deprecate** (module no longer used) | When superseded | Steering group |
 
-> Use Git change-requests to review major template updates[15].
+> Use Git change-requests to review major template updates.
 
 ---
 
