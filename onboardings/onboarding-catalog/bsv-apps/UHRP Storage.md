@@ -1,11 +1,11 @@
-# 🗄️ UHRP Storage Guide
+# UHRP Storage Guide
 
 Welcome to the UHRP Storage onboarding!
 Here you’ll learn how to securely store and validate data on BSV Blockchain using the [UHRP Storage app](https://uhrp-ui.bapp.dev/), following the UHRP protocol ([specification](https://bsv.brc.dev/overlays/0026)).
 
 ---
 
-## 🌐 What is UHRP?
+## What is UHRP?
 
 **UHRP (Universal HTTP Resource Protocol)** is a protocol for decentralized, secure, and verifiable file storage on BSV Blockchain.
 It allows you to upload files, generate unique UHRP URLs for access, and ensure data integrity—making your files tamper-proof and always available.
@@ -16,7 +16,7 @@ It allows you to upload files, generate unique UHRP URLs for access, and ensure 
 
 ---
 
-## 🚀 Getting Started with UHRP Storage
+## Getting Started with UHRP Storage
 
 The [UHRP Storage app](https://uhrp-ui.bapp.dev/) is fully compatible with BSV Desktop.
 You can upload, download, and manage files using your wallet for secure payments.
@@ -29,7 +29,7 @@ When you access the app, you’ll see the main page:
 
 ---
 
-## 📤 Uploading a File
+## Uploading a File
 
 1. Go to the **Upload** section.
 2. Select a storage server (default is fine for most users).
@@ -42,7 +42,7 @@ The image below shows the upload process:
 
 ---
 
-## 💳 Payment Confirmation
+## Payment Confirmation
 
 After clicking **Upload**, BSV Desktop will prompt you to confirm the payment for storing your file.
 
@@ -50,7 +50,7 @@ After clicking **Upload**, BSV Desktop will prompt you to confirm the payment fo
 
 ---
 
-## 🔗 UHRP URL: Your File’s Unique Link
+## UHRP URL: Your File’s Unique Link
 
 Once payment is complete, you’ll receive a **UHRP URL**—a unique link to your file, proving its authenticity and allowing easy access.
 
@@ -61,7 +61,7 @@ Once payment is complete, you’ll receive a **UHRP URL**—a unique link to you
 
 ---
 
-## 📥 Downloading a File
+## Downloading a File
 
 To download a file:
 
@@ -75,7 +75,7 @@ The image below shows how simple it is:
 
 ---
 
-## 📚 Listing Your Uploaded Files
+## Listing Your Uploaded Files
 
 You can view all files uploaded with your BSV Desktop profile:
 
@@ -89,7 +89,7 @@ Your uploaded files will appear, as shown below:
 
 ---
 
-## 🎉 Conclusion & Next Steps
+## Conclusion & Next Steps
 
 UHRP Storage makes decentralized file storage on BSV Blockchain simple, secure, and verifiable.
 You control your data, prove its integrity, and access it anytime with UHRP URLs.
@@ -102,7 +102,7 @@ You control your data, prove its integrity, and access it anytime with UHRP URLs
 
 ---
 
-## 🔗 Useful Links
+## Useful Links
 
 - **Need BSV?** 👉 [Get BSV Guide](../get-bsv/README.md)
 - **Create your wallet:** 👉 [BSV Desktop Guide](../metanet-desktop-mainnet.md)
