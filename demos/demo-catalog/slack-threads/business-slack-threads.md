@@ -57,7 +57,7 @@ BSVA Slack Threads connects internal Slack discussions with a public Q&A website
 ## Related Resources
 
 - **Technical Documentation**: [BSVA Slack Threads - Technical Documentation](./technical-slack-threads.md)
-- **Demo/Prototype**: [Live Platform](http://slack-threads-us-01.bsvb.tech/)
+- **Demo/Prototype**: (Local/open as per deployment)
 - **Business Case**: [Slack Threads Webapp](https://github.com/bsv-blockchain-demos/slack-threads-webapp), [Slack Bot App](https://github.com/bsv-blockchain-demos/slack-bot-app)
 
 ---
