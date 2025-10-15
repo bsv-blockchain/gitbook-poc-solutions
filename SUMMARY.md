@@ -48,8 +48,8 @@
     * [Technical Documentation](demos/demo-catalog/preimage/technical-preimage.md)
 
 ## Onboardings
-* [Onboarding Overview](onboardings/)
-* [Onboarding APPs](onboardings/onboarding-catalog/)
+* [Onboarding Overview](onboardings/README.md)
+* [Onboarding APPs](onboardings/onboarding-catalog/bsv-apps/README.md)
   * [CoolCert](onboardings/onboarding-catalog/bsv-apps/CoolCert.md)
   * [DropBlocks](onboardings/onboarding-catalog/bsv-apps/DropBlocks.md)
   * [Immutify](onboardings/onboarding-catalog/bsv-apps/Immutify.md)
@@ -68,7 +68,7 @@
   * [UHRP Storage](onboardings/onboarding-catalog/bsv-apps/UHRP%20Storage.md)
   * [Your Files and Stuff](onboardings/onboarding-catalog/bsv-apps/Your-Files-and-Stuff.md)
 
-* [Onboarding Catalog](onboardings/onboarding-catalog/)
+* [Onboarding Catalog](onboardings/onboarding-catalog/README.md)
   * [Getting BSV](onboardings/onboarding-catalog/get-bsv/)
     * [Orange Gateway](onboardings/onboarding-catalog/get-bsv/orange-gateway.md)
     * [Digifinex](onboardings/onboarding-catalog/get-bsv/digifinex.md)
