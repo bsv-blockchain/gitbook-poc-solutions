@@ -1,3 +1,5 @@
 # Digital Receipts
 
 This proof of concept tackles the environmental and economic waste of paper receipts by creating a BSV blockchain-powered digital receipt platform. Addressing the massive environmental impact—10 million trees and 21 billion gallons of water annually—plus billions in economic losses, the PoC demonstrates how blockchain can enable secure, immutable digital receipts. The platform connects payment systems with retailers to eliminate paper waste while creating new economic value through trusted collaboration and data integrity, positioning BSV as a scalable solution for everyday commerce transformation.
+
+![Digital Reciept Demo](https://youtu.be/3BrnWdqHUHE)

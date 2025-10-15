@@ -131,6 +131,7 @@ interface WalletConfig {
 
 - **Repository**: [GitHub - Pay-QuickR](https://github.com/bsv-blockchain-demos/Pay-QuickR)
 - **Business Documentation**: [Business Pay-QuickR Documentation](./business-pay-quickr.md)
+- **Live Demo**: [pay-quickr](https://pay-quickr.atx.systems)
 - **BSV SDK Documentation**: [BSV Blockchain SDK](https://docs.bsvblockchain.org/)
 - **Support Contact**: BSV Blockchain Demos Team
 
