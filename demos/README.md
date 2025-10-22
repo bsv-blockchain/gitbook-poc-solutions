@@ -13,7 +13,7 @@ Comprehensive index of all Demo solutions with quick access to key information.
 | **Data Integrity & Hashing** | [Truth Machine](demo-catalog/truth-machine/README.md) | Aug 2025 |
 | **Supply Chain Tracking** | [Natural Chain](demo-catalog/natural-chain/README.md) | Aug 2025 |
 | **Healthcare Tokenization** | [Prescription Tokens](demo-catalog/prescription-tokens/README.md) | Aug 2025 |
-| **Medical Data Exchange** | [P2P Medical](demo-catalog/p2p-medical/README.md) | Aug 2025 |
+| **Medical Data Exchange** | [P2P Medical](demo-catalog/p2p-medical/Readme.md) | Aug 2025 |
 | **Digital Identity** | [Register](demo-catalog/register/README.md) | Aug 2025 |
 | **Digital Receipts** | [Digital Receipts](demo-catalog/digital-reciept/README.md) | Sep 2025 |
 | **Community Knowledge** | [Slack Threads](demo-catalog/slack-threads/README.md) | Sep 2025 |
