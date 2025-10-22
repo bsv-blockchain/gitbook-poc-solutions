@@ -103,7 +103,7 @@ Tokens map prescription data immutably on the BSV blockchain, enabling secure tr
 ## Resources
 
 - **Repository:** [GitHub - bsv-blockchain-demos/prescription-tokens](https://github.com/bsv-blockchain-demos/prescription-tokens)
-- **Demo URL:** (Local/open as per deployment)
+- **Demo URL:** [Prescriptions Site](https://prescription-tokens.vercel.app/)
 - **Related Docs:** Business and Register demos for ecosystem context
 
 ---
