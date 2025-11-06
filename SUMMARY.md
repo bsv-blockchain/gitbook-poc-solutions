@@ -48,6 +48,9 @@
   * [Preimage](demos/demo-catalog/preimage/README.md)
     * [Business Documentation](demos/demo-catalog/preimage/business-preimage.md)
     * [Technical Documentation](demos/demo-catalog/preimage/technical-preimage.md)
+  * [Supply Chain Action Builder](demos/demo-catalog/dynamic-supplychains/README.md)
+    * [Business Documentation](demos/demo-catalog/dynamic-supplychains/business-dynamic-supplychains.md)
+    * [Technical Documentation](demos/demo-catalog/dynamic-supplychains/technical-dynamic-supplychains.md)
 
 ## Onboardings
 * [Onboarding Overview](onboardings/README.md)
