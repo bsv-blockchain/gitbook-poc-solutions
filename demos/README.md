@@ -28,6 +28,7 @@ Comprehensive index of all Demo solutions with quick access to key information.
 | **Transaction Analysis** | [Preimage](demo-catalog/preimage/README.md) | Sep 2025 |
 | **Supply Chain Management** | [Supply Chain Action Builder](demo-catalog/dynamic-supplychains/README.md) | Nov 2025 |
 | **Decentralized Voting** | [Pollr](demo-catalog/pollr/README.md) | Oct 2025 |
+| **Crowdfunding** | [Crowdfunding Platform](demo-catalog/crowdfunding-platform/README.md) | Dec 2025 |
 
 
 
@@ -41,6 +42,7 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **Sustainable Fashion:** Circular Economy
 - **Content Sharing / Token Economy:** Token Transfer
 - **Governance & Voting:** Pollr
+- **Crowdfunding:** Crowdfunding Platform
 - **Developer Tools:** Pay-QuickR, Beef Inspector, Preimage, Desktop Wallet Management
 
 ### By Use Case Category
@@ -55,18 +57,19 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **Sustainable Product Transparency:** Circular Economy
 - **Decentralized File Sharing:** Token Transfer
 - **Governance & Decentralized Voting:** Pollr
+- **Crowdfunding & Fundraising:** Crowdfunding Platform
 - **Wallet Integration & Payments:** Pay-QuickR
 - **Wallet Management & Infrastructure:** Desktop Wallet Management
 - **Transaction Debugging:** Beef Inspector, Preimage
-- **Developer Education:** Pay-QuickR, Beef Inspector, Preimage, Desktop Wallet Management
+- **Developer Education:** Pay-QuickR, Beef Inspector, Preimage, Desktop Wallet Management, Crowdfunding Platform
 
 ### By Implementation Status
-- **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management
+- **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform
 - **In Progress:** P2P Medical, Register, Slack Threads, Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
 - **Not Started:** Circular Economy
 
 ### By Development Stage
-- **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Slack Threads, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management
+- **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Slack Threads, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform
 - **Core Features Complete:** P2P Medical, Register
 - **Pilot Phase:** Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
 - **Planning Phase:** Circular Economy
@@ -113,6 +116,11 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **Repository:** [https://github.com/p2ppsr/Pollr](https://github.com/p2ppsr/Pollr)
 - **Status:** Active development - open-source blockchain-based polling application
 - **License:** Open BSV License
+
+### Crowdfunding Platform - BSV Crowdfunding with Token Distribution
+- **Repository:** [https://github.com/bsv-blockchain-demos/crowfunding-workshop-demo](https://github.com/bsv-blockchain-demos/crowfunding-workshop-demo)
+- **Status:** Production-ready educational demo showcasing 402 Payment Protocol and token distribution
+- **Features:** BRC-103/104 payment flow, BRC-29 key derivation, individual token claiming pattern
 
 ## Navigation Structure
 

@@ -51,6 +51,12 @@
   * [Supply Chain Action Builder](demos/demo-catalog/dynamic-supplychains/README.md)
     * [Business Documentation](demos/demo-catalog/dynamic-supplychains/business-dynamic-supplychains.md)
     * [Technical Documentation](demos/demo-catalog/dynamic-supplychains/technical-dynamic-supplychains.md)
+  * [Desktop Wallet Management](demos/demo-catalog/desktop-wallet-management/README.md)
+    * [Business Documentation](demos/demo-catalog/desktop-wallet-management/business-desktop-wallet-management.md)
+    * [Technical Documentation](demos/demo-catalog/desktop-wallet-management/technical-desktop-wallet-management.md)
+  * [Crowdfunding Platform](demos/demo-catalog/crowdfunding-platform/README.md)
+    * [Business Documentation](demos/demo-catalog/crowdfunding-platform/business-crowdfunding-platform.md)
+    * [Technical Documentation](demos/demo-catalog/crowdfunding-platform/technical-crowdfunding-platform.md)
 
 ## Onboardings
 * [Onboarding Overview](onboardings/README.md)
