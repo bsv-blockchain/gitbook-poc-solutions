@@ -595,11 +595,10 @@ async function consolidateBasket(
 
 ## Resources
 
-- **Educational Guide**: Desktop-Wallet-Management.md (source material)
 - **Business Documentation**: [Business Desktop Wallet Management Documentation](./business-desktop-wallet-management.md)
 - **BSV SDK Documentation**: [Official BSV SDK](https://docs.bsvblockchain.org/)
 - **BRC-42 Specification**: [Key Derivation Standard](https://brc.dev/42)
-- **BSV Academy**: [Bitcoin Fundamentals](https://bitcoinsv.academy/)
+- **BSV Academy**: [Bitcoin Fundamentals](https://hub.bsvblockchain.org/bsv-academy)
 - **Support Contact**: BSV Blockchain Association
 
 ---
