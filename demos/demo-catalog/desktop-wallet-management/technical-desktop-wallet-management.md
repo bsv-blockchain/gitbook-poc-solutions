@@ -6,60 +6,21 @@
 
 ## Architecture Overview
 
-### System Architecture
-The Desktop Wallet Management proof-of-concept demonstrates a comprehensive wallet architecture built on the @bsv/sdk. The system implements the UTXO model with hierarchical deterministic key derivation (BRC-42 standard), basket-based fund organization, and P2PKH transaction creation. The architecture is designed to be portable from desktop to server-side implementations, providing a foundation for enterprise wallet infrastructure.
-
-```
-┌─────────────────────────────────────────────────┐
-│           Wallet Client Interface               │
-│              (@bsv/sdk)                        │
-└────────────┬────────────────────────────────────┘
-             │
-      ┌──────┴──────┐
-      │             │
-┌─────▼──────┐ ┌───▼──────────┐
-│   Key      │ │   UTXO       │
-│ Management │ │ Management   │
-└─────┬──────┘ └───┬──────────┘
-      │            │
-┌─────▼────────────▼──────┐
-│   Transaction Builder   │
-└─────────────────────────┘
-```
+This demo showcases a comprehensive wallet architecture using @bsv/sdk with BRC-42 key derivation, basket-based UTXO management, and P2PKH transactions. The architecture is portable from desktop to server-side implementations.
 
 ### Technology Stack
 - **SDK**: @bsv/sdk (Official BSV Blockchain SDK)
 - **Key Derivation**: BRC-42 standard implementation
 - **Script Type**: P2PKH (Pay-to-Public-Key-Hash)
-- **Language**: TypeScript for type safety and modern JavaScript features
-- **Storage Model**: UTXO-based with basket organization
+- **Language**: TypeScript
 
-### Key Components
+### Core Components
 
-1. **WalletClient**: Primary interface for all wallet operations
-   - Connection management and identity retrieval
-   - Public/private key operations
-   - Transaction creation and submission
-
-2. **Key Derivation System**: BRC-42 hierarchical deterministic keys
-   - Protocol-specific key generation
-   - Counterparty-based key isolation
-   - Deterministic and reproducible derivation
-
-3. **Basket Manager**: UTXO organization system
-   - Fund categorization (savings, spending, payments, etc.)
-   - Output tracking and balance calculation
-   - Transaction routing to specific baskets
-
-4. **Transaction Builder**: P2PKH transaction creation
-   - Locking script generation
-   - Output construction with basket assignment
-   - Change management and fee calculation
-
-5. **Balance Tracker**: Multi-basket balance aggregation
-   - Output enumeration across baskets
-   - Satoshi summation and BSV conversion
-   - Real-time balance updates
+1. **WalletClient**: Main interface for wallet operations, identity management, and transaction creation
+2. **Key Derivation**: BRC-42 hierarchical deterministic keys for protocol-specific key generation
+3. **Basket Manager**: UTXO organization with fund categorization (savings, spending, payments, etc.)
+4. **Transaction Builder**: P2PKH transaction creation with locking scripts and basket assignment
+5. **Balance Tracker**: Multi-basket balance aggregation and real-time updates
 
 ## Integration & APIs
 
@@ -139,7 +100,25 @@ let balance = result.outputs.reduce((sum, output) =>
 - Knowledge of public/private key cryptography
 - BSV wallet with sufficient balance for testing
 
-### Setup Instructions
+### Getting Started
+
+Clone the demo repository to get started quickly:
+
+```bash
+# Clone the repository
+git clone https://github.com/bsv-blockchain-demos/desktop-wallet-data.git
+
+# Navigate to the project directory
+cd desktop-wallet-data
+
+# Install dependencies
+npm install
+
+# Run the demo
+npm start
+```
+
+Alternatively, you can set up a project from scratch:
 
 ```bash
 # Initialize Node.js project
@@ -332,55 +311,16 @@ async function runTests() {
 
 ## Performance & Scalability
 
-### Current Metrics
+### Performance Metrics
 - **Key Derivation**: < 10ms per key
 - **Transaction Creation**: ~200ms (network dependent)
-- **Balance Query**: ~100ms per basket (database dependent)
-- **Memory Usage**: Minimal (stateless operations)
+- **Balance Query**: ~100ms per basket
 
-### Scalability Considerations
-
-#### Desktop to Server Migration
-- Replace WalletClient with server-side key management
-- Implement database layer for UTXO tracking
-- Add caching for frequently accessed keys
-- Use connection pooling for concurrent operations
-
-#### High-Volume Scenarios
-- **Batch Operations**: Group multiple transactions for efficiency
-- **Key Caching**: Cache derived keys for frequently used protocols
-- **UTXO Consolidation**: Periodically merge small outputs
-- **Parallel Queries**: Query multiple baskets concurrently
-
-#### Performance Optimization
-```typescript
-// Parallel basket queries
-async function getBalanceOptimized(
-  wallet: WalletClient,
-  baskets: string[]
-): Promise<Map<string, number>> {
-  const queries = baskets.map(async (basket) => {
-    try {
-      const result = await wallet.listOutputs({ basket, limit: 10000 });
-      const balance = result.outputs?.reduce(
-        (sum, output) => sum + (output.satoshis || 0), 0
-      ) || 0;
-      return [basket, balance] as [string, number];
-    } catch {
-      return [basket, 0] as [string, number];
-    }
-  });
-
-  const results = await Promise.all(queries);
-  return new Map(results);
-}
-```
-
-### Basket Organization Best Practices
-- Use meaningful basket names (savings, spending, rewards)
-- Avoid the "default" basket (typically admin-only)
-- Regularly consolidate UTXOs to prevent fragmentation
-- Implement basket-specific spending policies
+### Scalability Best Practices
+- **Desktop to Server**: Replace WalletClient with server-side key management and database layer for UTXO tracking
+- **High-Volume**: Use batch operations, key caching, and parallel queries
+- **UTXO Management**: Regularly consolidate small outputs to prevent fragmentation
+- **Basket Organization**: Use meaningful basket names and implement basket-specific spending policies
 
 ## Maintenance & Support
 
@@ -454,147 +394,30 @@ async function getTotalBalance(wallet: WalletClient): Promise<number> {
 ## Production Considerations
 
 ### Security Best Practices
-
-1. **Key Management**
-   - Never expose private keys in logs or error messages
-   - Store identity keys in secure hardware when possible
-   - Implement key rotation policies for long-lived applications
-
-2. **Transaction Validation**
-   - Always verify amounts before transaction creation
-   - Validate recipient addresses against expected format
-   - Implement transaction size limits to prevent abuse
-
-3. **Access Control**
-   - Restrict basket access based on user permissions
-   - Audit all fund movements with immutable logs
-   - Implement multi-signature requirements for high-value baskets
+- Never expose private keys in logs or error messages
+- Store identity keys in secure hardware when possible
+- Always verify amounts before transaction creation
+- Restrict basket access based on user permissions
+- Audit all fund movements with immutable logs
 
 ### Server-Side Adaptation
-
-#### Database Schema Example
-```sql
-CREATE TABLE wallet_keys (
-  id SERIAL PRIMARY KEY,
-  protocol_id VARCHAR(255),
-  key_id VARCHAR(255),
-  public_key TEXT,
-  created_at TIMESTAMP,
-  UNIQUE(protocol_id, key_id)
-);
-
-CREATE TABLE utxos (
-  id SERIAL PRIMARY KEY,
-  txid VARCHAR(64),
-  vout INTEGER,
-  satoshis BIGINT,
-  basket VARCHAR(50),
-  locking_script TEXT,
-  spent BOOLEAN DEFAULT false,
-  created_at TIMESTAMP
-);
-```
-
-#### Caching Strategy
-```typescript
-import { LRUCache } from 'lru-cache';
-
-class WalletCache {
-  private keyCache = new LRUCache<string, string>({ max: 1000 });
-
-  async getCachedKey(
-    wallet: WalletClient,
-    protocolID: string,
-    keyID: string
-  ): Promise<string> {
-    const cacheKey = `${protocolID}:${keyID}`;
-
-    let publicKey = this.keyCache.get(cacheKey);
-    if (!publicKey) {
-      publicKey = await deriveKey(wallet, protocolID, keyID);
-      this.keyCache.set(cacheKey, publicKey);
-    }
-
-    return publicKey;
-  }
-}
-```
-
-### Integration Patterns
-
-#### Webhook Notifications
-```typescript
-interface TransactionEvent {
-  txid: string;
-  basket: string;
-  amount: number;
-  timestamp: number;
-}
-
-async function notifyTransaction(event: TransactionEvent, webhookUrl: string) {
-  await fetch(webhookUrl, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(event)
-  });
-}
-```
+For production deployments, implement:
+- Database layer for key storage and UTXO tracking
+- Caching strategy for frequently accessed keys (LRU cache recommended)
+- Webhook notifications for transaction events
+- Connection pooling for concurrent operations
 
 ## Advanced Concepts
 
 ### Multi-Protocol Key Management
-```typescript
-const PROTOCOL_REGISTRY = {
-  payments: [0, "payments"],
-  messaging: [0, "messaging"],
-  documents: [0, "documents"],
-  tokens: [0, "tokens"]
-};
+Use a protocol registry to organize keys by application context (payments, messaging, documents, tokens). The demo repository includes examples of protocol-specific key derivation.
 
-async function deriveProtocolKey(
-  wallet: WalletClient,
-  protocol: keyof typeof PROTOCOL_REGISTRY,
-  identifier: string
-): Promise<string> {
-  const keyResult = await wallet.getPublicKey({
-    protocolID: PROTOCOL_REGISTRY[protocol],
-    keyID: identifier,
-    counterparty: "self",
-    forSelf: true
-  });
-
-  return keyResult.publicKey;
-}
-```
-
-### UTXO Consolidation Strategy
-```typescript
-async function consolidateBasket(
-  wallet: WalletClient,
-  basket: string,
-  threshold: number = 1000 // satoshis
-): Promise<void> {
-  const outputs = await wallet.listOutputs({ basket, limit: 10000 });
-
-  const smallOutputs = outputs.outputs.filter(
-    output => output.satoshis < threshold
-  );
-
-  if (smallOutputs.length < 10) {
-    return; // Not worth consolidating
-  }
-
-  const totalAmount = smallOutputs.reduce(
-    (sum, output) => sum + output.satoshis, 0
-  );
-
-  // Create consolidation transaction
-  await createBasketTransaction(wallet, basket, totalAmount);
-}
-```
+### UTXO Consolidation
+Periodically consolidate small UTXOs (below a threshold like 1000 satoshis) when you have 10+ small outputs. This reduces transaction complexity and improves wallet performance.
 
 ## Resources
 
+- **Demo Repository**: [https://github.com/bsv-blockchain-demos/desktop-wallet-data](https://github.com/bsv-blockchain-demos/desktop-wallet-data)
 - **Business Documentation**: [Business Desktop Wallet Management Documentation](./business-desktop-wallet-management.md)
 - **BSV SDK Documentation**: [Official BSV SDK](https://docs.bsvblockchain.org/)
 - **BRC-42 Specification**: [Key Derivation Standard](https://brc.dev/42)
