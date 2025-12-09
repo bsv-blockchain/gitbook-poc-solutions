@@ -24,6 +24,7 @@ Comprehensive index of all Demo solutions with quick access to key information.
 | **Token Economy** | [Token Transfer](demo-catalog/token-transfer/README.md) | Sep 2025 |
 | **Payment Solutions** | [Pay-QuickR](demo-catalog/pay-quickr/README.md) | Sep 2025 |
 | **Debugging Tools** | [Beef Inspector](demo-catalog/beef-inspector/README.md) | Sep 2025 |
+| **Wallet Management** | [Desktop Wallet Management](demo-catalog/desktop-wallet-management/README.md) | Dec 2025 |
 | **Transaction Analysis** | [Preimage](demo-catalog/preimage/README.md) | Sep 2025 |
 | **Supply Chain Management** | [Supply Chain Action Builder](demo-catalog/dynamic-supplychains/README.md) | Nov 2025 |
 | **Decentralized Voting** | [Pollr](demo-catalog/pollr/README.md) | Oct 2025 |
@@ -40,7 +41,7 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **Sustainable Fashion:** Circular Economy
 - **Content Sharing / Token Economy:** Token Transfer
 - **Governance & Voting:** Pollr
-- **Developer Tools:** Pay-QuickR, Beef Inspector, Preimage
+- **Developer Tools:** Pay-QuickR, Beef Inspector, Preimage, Desktop Wallet Management
 
 ### By Use Case Category
 - **Data Integrity:** Truth Machine, Time Anchor
@@ -55,18 +56,17 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **Decentralized File Sharing:** Token Transfer
 - **Governance & Decentralized Voting:** Pollr
 - **Wallet Integration & Payments:** Pay-QuickR
+- **Wallet Management & Infrastructure:** Desktop Wallet Management
 - **Transaction Debugging:** Beef Inspector, Preimage
-- **Developer Education:** Pay-QuickR, Beef Inspector, Preimage
+- **Developer Education:** Pay-QuickR, Beef Inspector, Preimage, Desktop Wallet Management
 
 ### By Implementation Status
-- **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder
-- **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Pollr, Pay-QuickR, Beef Inspector, Preimage
+- **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management
 - **In Progress:** P2P Medical, Register, Slack Threads, Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
 - **Not Started:** Circular Economy
 
 ### By Development Stage
-- **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Slack Threads, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder
-- **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Slack Threads, Pollr, Pay-QuickR, Beef Inspector, Preimage
+- **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Slack Threads, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management
 - **Core Features Complete:** P2P Medical, Register
 - **Pilot Phase:** Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
 - **Planning Phase:** Circular Economy
@@ -94,6 +94,11 @@ Comprehensive index of all Demo solutions with quick access to key information.
 ### Beef Inspector - BEEF Payload Debugging Tool
 - **Repository:** [https://github.com/bsv-blockchain-demos/beef-inspector](https://github.com/bsv-blockchain-demos/beef-inspector)
 - **Status:** Complete demo - ready for use and contribution
+
+### Desktop Wallet Management - BSV Wallet Infrastructure POC
+- **Repository:** [https://github.com/bsv-blockchain-demos/desktop-wallet-data](https://github.com/bsv-blockchain-demos/desktop-wallet-data)
+- **Status:** Educational proof-of-concept demonstrating wallet management patterns
+- **Features:** BRC-42 key derivation, basket-based UTXO management, P2PKH transactions
 
 ### Preimage - Transaction Preimage Analysis Tool
 - **Repository:** [https://github.com/bsv-blockchain-demos/preimage](https://github.com/bsv-blockchain-demos/preimage)
