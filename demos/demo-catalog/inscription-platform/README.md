@@ -4,7 +4,8 @@ A blockchain-based inscription platform that allows users to permanently store d
 
 ## Video Overview
 
-[![Inscription Platform Demo](https://img.youtube.com/vi/VIDEO_ID_PLACEHOLDER/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_PLACEHOLDER)
+{% embed url="https://youtu.be/V_eryHviemY" %}
+
 
 ## Resources
 

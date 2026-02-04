@@ -4,7 +4,7 @@ A complete token management platform combining frontend token creation and trans
 
 ## Video Overview
 
-[![Utilitary Token Platform Demo](https://img.youtube.com/vi/VIDEO_ID_PLACEHOLDER/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_PLACEHOLDER)
+{% embed url="https://youtu.be/wdbGRDfAb44" %}
 
 ## Resources
 
