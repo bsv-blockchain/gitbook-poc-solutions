@@ -57,6 +57,15 @@
   * [Crowdfunding Platform](demos/demo-catalog/crowdfunding-platform/README.md)
     * [Business Documentation](demos/demo-catalog/crowdfunding-platform/business-crowdfunding-platform.md)
     * [Technical Documentation](demos/demo-catalog/crowdfunding-platform/technical-crowdfunding-platform.md)
+  * [MessageBox Platform](demos/demo-catalog/messagebox-platform/README.md)
+    * [Business Documentation](demos/demo-catalog/messagebox-platform/business-messagebox-platform.md)
+    * [Technical Documentation](demos/demo-catalog/messagebox-platform/technical-messagebox-platform.md)
+  * [Inscription Platform](demos/demo-catalog/inscription-platform/README.md)
+    * [Business Documentation](demos/demo-catalog/inscription-platform/business-inscription-platform.md)
+    * [Technical Documentation](demos/demo-catalog/inscription-platform/technical-inscription-platform.md)
+  * [Utilitary Token Platform](demos/demo-catalog/utilitary-token-platform/README.md)
+    * [Business Documentation](demos/demo-catalog/utilitary-token-platform/business-utilitary-token-platform.md)
+    * [Technical Documentation](demos/demo-catalog/utilitary-token-platform/technical-utilitary-token-platform.md)
 
 ## Onboardings
 * [Onboarding Overview](onboardings/README.md)
