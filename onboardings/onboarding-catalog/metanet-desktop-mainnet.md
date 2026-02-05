@@ -65,63 +65,91 @@ Intuitive interface designed for both new users and experienced developers.
 
 ---
 
-## 🚀 First Launch & Configuration
+## 🚀 Configuration & Wallet Creation
 
-When you start BSV Desktop for the first time, you’ll see the initial verification screen:
+When you launch BSV Desktop, you will be greeted by the initial verified start screen. This is your gateway to the Metanet.
 
-![BSV Desktop Initial Screen](../../assets/onboardings/bsv-desktop/metanet-desktop-init.png)
+![BSV Desktop Initial Screen](../../assets/onboardings/bsv-desktop/bsv-desktop-main.png)
 
-- You’ll be asked for a phone number (optional but recommended for recovery).
-- Before creating your wallet, click **Show Config** to review and customize your setup.
+To begin creating your wallet, click on **Configure Wallet**.
 
----
+### Choose Your Wallet Type
 
-### ⚙️ Configuration Options
+BSV Desktop offers two distinct ways to create and manage your identity. Choose the one that fits your needs:
 
-After clicking **Show Config**, you’ll see:
+#### 1. WAB (Wallet Authentication Backend) - Recommended
+*   **Easy Recovery:** Uses your phone number. If you lose your device, you can recover your wallet easily.
+*   **Welcome Gift:** You receive a small amount of Satoshis to get started immediately.
+*   **User Experience:** Streamlined and user-friendly.
 
-![BSV Desktop Configuration](../../assets/onboardings/bsv-desktop/metanet-desktop-config.png)
-
-- **BSV Network:**
-	Select **Mainnet** to use the real BSV Blockchain, or **Testnet** for testing.
-- **WAB Configuration:**
-	Choose whether to use your mobile phone for recovery.
-	- **Recommended:** Use your phone for easier recovery.
-	- **No phone:** You’ll need to securely store three private keys yourself.
+#### 2. Mnemonic (Traditional)
+*   **Self-Sovereign:** No phone number required.
+*   **Manual Recovery:** You are solely responsible for your recovery phrase (12 words). If you lose it, your funds are lost forever.
+*   **No Gift:** You must fund the wallet yourself before using it.
 
 ---
 
-## 🔑 Backup & Security
+### Option A: WAB Setup (Recommended)
 
-After configuration, you’ll be shown your recovery keys.
-**Important:**
-- Save your recovery key in a safe place.
-- Never share your private keys with anyone.
+1.  **Configuration**:
+    In the configuration screen, ensure the **Network** is set to `Mainnet` (or `Testnet` for development).
+    
+    ![WAB Configuration](../../assets/onboardings/bsv-desktop/bsv-desktop-wab-config.png)
+    
+    *   **WAB Server**: Defines the identity provider. Default: `https://wab.babbage.systems`. Click **Refresh Info** to update server details.
+    *   **Remote Storage**: Your wallet balance and history can be stored on a secure remote server (`https://storage.babbage.systems`) or locally. Remote is recommended for cross-device access.
+    *   **Messagebox**: The communication hub for peer-to-peer transactions and token transfers. Default: `https://messagebox.babbage.systems`.
 
----
+2.  **Verification**:
+    After applying settings, click **Create new Identity**. You will be asked to enter your phone number.
+    
+    ![WAB Verification](../../assets/onboardings/bsv-desktop/bsv-desktop-wab-account.png)
+    
+    Enter the code received via SMS. Once verified, your wallet is ready and funded!
 
-## 🎉 Welcome to Your Wallet
+### Option B: Mnemonic Setup
 
-Once setup is complete, you’ll see your wallet dashboard:
+1.  **Configuration**:
+    Select **"I prefer to use a mnemonic presentation key"**.
+    
+    ![Mnemonic Configuration](../../assets/onboardings/bsv-desktop/bsv-desktop-mnemonic-config.png)
+    
+    Click **Apply Configuration** to proceed.
 
-![BSV Desktop Main Screen](../../assets/onboardings/bsv-desktop/metanet-desktop-main.png)
+2.  **Generate Key**:
+    Click on **Generate Random Mnemonic**.
+    
+    ![Generate Mnemonic](../../assets/onboardings/bsv-desktop/bsv-desktop-mnemonic-account.png)
+    
+    > [!IMPORTANT]
+    > **Write down your mnemonic phrase and store it safely.** This is the ONLY way to recover your wallet.
 
-- **Your Balance:**
-	You’ll receive 99,991 Satoshis as a welcome gift to start exploring BSV Blockchain.
-- **Identity Tab:**
-	Shows your unique Identity Key and Private Key (keep this confidential).
-- **Apps Tab:**
-	Here you’ll find applications registered to your wallet.
-	(Check the next sections to start using your wallet with apps!)
+3.  **Confirm**:
+    Verify you have saved your phrase.
+    
+    ![Mnemonic Example](../../assets/onboardings/bsv-desktop/bsv-desktop-mnemonic-key.png)
+    
+    Click **Continue**.
+
+4.  **Fund Your Wallet**:
+    Unlike WAB, a mnemonic wallet starts empty. You will see a funding screen.
+    
+    ![Fund Wallet](../../assets/onboardings/bsv-desktop/bsv-desktop-mnemonic-fund.png)
+    
+    You must send BSV to the displayed address to activate the wallet.
+    Need BSV? Check our [Get BSV Guide](get-bsv/README.md).
 
 ---
 
 ## 🧩 Discover Metanet Apps
 
-Explore the catalog of available applications:
-[https://metanetapps.com/](https://metanetapps.com/)
+Unlock the full potential of your new wallet by exploring the Metanet ecosystem.
 
-Don’t worry—upcoming sections will guide you through your first app integrations!
+> [!TIP]
+> **Browse the App Catalog**
+> Visit **[MetanetApps.com](https://metanetapps.com/)** to find applications for social media, finance, storage, and more.
+
+Your wallet is the key to logging in and interacting with all these applications seamlessly.
 
 ---
 
