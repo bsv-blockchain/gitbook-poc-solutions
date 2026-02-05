@@ -94,7 +94,7 @@ BSV Desktop offers two distinct ways to create and manage your identity. Choose 
 1.  **Configuration**:
     In the configuration screen, ensure the **Network** is set to `Mainnet` (or `Testnet` for development).
     
-    ![WAB Configuration](../../assets/onboardings/bsv-desktop/bsv-desktop-wab-config.png)
+    ![WAB Configuration](../../assets/onboardings/bsv-desktop/bsv-desktop-wab-config.png) 
     
     *   **WAB Server**: Defines the identity provider. Default: `https://wab.babbage.systems`. Click **Refresh Info** to update server details.
     *   **Remote Storage**: Your wallet balance and history can be stored on a secure remote server (`https://storage.babbage.systems`) or locally. Remote is recommended for cross-device access.
