@@ -29,6 +29,9 @@ Comprehensive index of all Demo solutions with quick access to key information.
 | **Supply Chain Management** | [Supply Chain Action Builder](demo-catalog/dynamic-supplychains/README.md) | Nov 2025 |
 | **Decentralized Voting** | [Pollr](demo-catalog/pollr/README.md) | Oct 2025 |
 | **Crowdfunding** | [Crowdfunding Platform](demo-catalog/crowdfunding-platform/README.md) | Dec 2025 |
+| **Blockchain Inscriptions** | [Inscription Platform](demo-catalog/inscription-platform/README.md) | Feb 2026 |
+| **Decentralized Messaging** | [MessageBox Platform](demo-catalog/messagebox-platform/README.md) | Feb 2026 |
+| **Token Management** | [Utilitary Token Platform](demo-catalog/utilitary-token-platform/README.md) | Feb 2026 |
 
 
 
@@ -43,11 +46,12 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **Content Sharing / Token Economy:** Token Transfer
 - **Governance & Voting:** Pollr
 - **Crowdfunding:** Crowdfunding Platform
+- **Messaging & Communication:** MessageBox Platform
 - **Developer Tools:** Pay-QuickR, Beef Inspector, Preimage, Desktop Wallet Management
 
 ### By Use Case Category
 - **Data Integrity:** Truth Machine, Time Anchor
-- **Tokenization:** Prescription Tokens, Token Transfer
+- **Tokenization:** Prescription Tokens, Token Transfer, Utilitary Token Platform
 - **Supply Chain Tracking:** Natural Chain, Circular Economy, Supply Chain Action Builder
 - **Healthcare Systems:** P2P Medical, Prescription Tokens
 - **Identity Management:** Register, Digital Trust Card
@@ -60,16 +64,18 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **Crowdfunding & Fundraising:** Crowdfunding Platform
 - **Wallet Integration & Payments:** Pay-QuickR
 - **Wallet Management & Infrastructure:** Desktop Wallet Management
+- **Blockchain Inscriptions & Data Storage:** Inscription Platform
+- **Decentralized Messaging & Payments:** MessageBox Platform
 - **Transaction Debugging:** Beef Inspector, Preimage
-- **Developer Education:** Pay-QuickR, Beef Inspector, Preimage, Desktop Wallet Management, Crowdfunding Platform
+- **Developer Education:** Pay-QuickR, Beef Inspector, Preimage, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform
 
 ### By Implementation Status
-- **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform
+- **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform
 - **In Progress:** P2P Medical, Register, Slack Threads, Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
 - **Not Started:** Circular Economy
 
 ### By Development Stage
-- **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Slack Threads, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform
+- **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Slack Threads, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform
 - **Core Features Complete:** P2P Medical, Register
 - **Pilot Phase:** Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
 - **Planning Phase:** Circular Economy
@@ -121,6 +127,21 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **Repository:** [https://github.com/bsv-blockchain-demos/crowfunding-workshop-demo](https://github.com/bsv-blockchain-demos/crowfunding-workshop-demo)
 - **Status:** Production-ready educational demo showcasing 402 Payment Protocol and token distribution
 - **Features:** BRC-103/104 payment flow, BRC-29 key derivation, individual token claiming pattern
+
+### Inscription Platform - Blockchain Data Inscription
+- **Repository:** [https://github.com/bsv-blockchain-demos/inscription-platform](https://github.com/bsv-blockchain-demos/inscription-platform)
+- **Status:** Complete demo - ready for use and contribution
+- **Features:** OP_RETURN data storage, cryptographic verification, immutable proof of existence
+
+### MessageBox Platform - Decentralized Messaging & Payments
+- **Repository:** [https://github.com/bsv-blockchain-demos/messagebox-platform](https://github.com/bsv-blockchain-demos/messagebox-platform)
+- **Status:** Complete demo - ready for use and contribution
+- **Features:** End-to-end encryption via MessageBox protocol, BRC-29 identity-based payments, peer-to-peer messaging
+
+### Utilitary Token Platform - Token Management System
+- **Repository:** [https://github.com/bsv-blockchain-demos/utility-tokens](https://github.com/bsv-blockchain-demos/utility-tokens)
+- **Status:** Complete demo - ready for use and contribution
+- **Features:** PushDrop (BRC-48) token creation, overlay architecture (BRC-57), fungible token issuance and transfer
 
 ## Navigation Structure
 
