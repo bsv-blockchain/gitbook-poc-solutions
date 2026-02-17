@@ -4,7 +4,7 @@ A blockchain-based inscription platform that allows users to permanently store d
 
 ## Video Overview
 
-{% embed url="https://youtu.be/V_eryHviemY" %}
+{% embed url="https://youtu.be/UWRTcbxAAgk" %}
 
 
 ## Resources

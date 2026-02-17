@@ -32,6 +32,7 @@ Comprehensive index of all Demo solutions with quick access to key information.
 | **Blockchain Inscriptions** | [Inscription Platform](demo-catalog/inscription-platform/README.md) | Feb 2026 |
 | **Decentralized Messaging** | [MessageBox Platform](demo-catalog/messagebox-platform/README.md) | Feb 2026 |
 | **Token Management** | [Utilitary Token Platform](demo-catalog/utilitary-token-platform/README.md) | Feb 2026 |
+| **Certification & Access Control** | [Certification Platform](demo-catalog/certification-platform/README.md) | Feb 2026 |
 
 
 
@@ -47,6 +48,7 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **Governance & Voting:** Pollr
 - **Crowdfunding:** Crowdfunding Platform
 - **Messaging & Communication:** MessageBox Platform
+- **Identity & Access Control:** Certification Platform
 - **Developer Tools:** Pay-QuickR, Beef Inspector, Preimage, Desktop Wallet Management
 
 ### By Use Case Category
@@ -54,7 +56,7 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **Tokenization:** Prescription Tokens, Token Transfer, Utilitary Token Platform
 - **Supply Chain Tracking:** Natural Chain, Circular Economy, Supply Chain Action Builder
 - **Healthcare Systems:** P2P Medical, Prescription Tokens
-- **Identity Management:** Register, Digital Trust Card
+- **Identity Management:** Register, Digital Trust Card, Certification Platform
 - **Age Verification & Compliance:** Digital Trust Card
 - **Decentralized Knowledge Management:** Data Ownership
 - **File Integrity & Verification:** Time Anchor
@@ -67,15 +69,16 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **Blockchain Inscriptions & Data Storage:** Inscription Platform
 - **Decentralized Messaging & Payments:** MessageBox Platform
 - **Transaction Debugging:** Beef Inspector, Preimage
-- **Developer Education:** Pay-QuickR, Beef Inspector, Preimage, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform
+- **Certification & Access Control:** Certification Platform
+- **Developer Education:** Pay-QuickR, Beef Inspector, Preimage, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform, Certification Platform
 
 ### By Implementation Status
-- **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform
+- **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform, Certification Platform
 - **In Progress:** P2P Medical, Register, Slack Threads, Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
 - **Not Started:** Circular Economy
 
 ### By Development Stage
-- **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Slack Threads, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform
+- **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Slack Threads, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform, Certification Platform
 - **Core Features Complete:** P2P Medical, Register
 - **Pilot Phase:** Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
 - **Planning Phase:** Circular Economy
@@ -142,6 +145,11 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **Repository:** [https://github.com/bsv-blockchain-demos/utility-tokens](https://github.com/bsv-blockchain-demos/utility-tokens)
 - **Status:** Complete demo - ready for use and contribution
 - **Features:** PushDrop (BRC-48) token creation, overlay architecture (BRC-57), fungible token issuance and transfer
+
+### Certification Platform - Certificate Issuance & Gated Access
+- **Repository:** [https://github.com/bsv-blockchain-demos/certification-platform](https://github.com/bsv-blockchain-demos/certification-platform)
+- **Status:** Complete demo - ready for use and contribution
+- **Features:** BRC-52/53 certificate issuance, field-level ECDH encryption, BRC-31 mutual authentication, certificate-gated access control
 
 ## Navigation Structure
 

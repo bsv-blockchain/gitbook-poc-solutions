@@ -66,6 +66,9 @@
   * [Utilitary Token Platform](demos/demo-catalog/utilitary-token-platform/README.md)
     * [Business Documentation](demos/demo-catalog/utilitary-token-platform/business-utilitary-token-platform.md)
     * [Technical Documentation](demos/demo-catalog/utilitary-token-platform/technical-utilitary-token-platform.md)
+  * [Certification Platform](demos/demo-catalog/certification-platform/README.md)
+    * [Business Documentation](demos/demo-catalog/certification-platform/business-certification-platform.md)
+    * [Technical Documentation](demos/demo-catalog/certification-platform/technical-certification-platform.md)
 
 ## Onboardings
 * [Onboarding Overview](onboardings/README.md)
