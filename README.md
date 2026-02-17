@@ -22,9 +22,9 @@ This hub serves as a single source of truth for all Demo solutions, offering:
 
 ## Current Status
 
-- **Active Demos**: 16
+- **Active Demos**: 23
 - **Templates Available**: 2 (Business + Technical)
-- **Last Updated**: 11/07/2025
+- **Last Updated**: 02/10/2026
 
 ---
 
