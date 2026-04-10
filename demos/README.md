@@ -20,7 +20,6 @@ Comprehensive index of all Demo solutions with quick access to key information.
 | **Digital Identity Privacy** | [Digital Trust Card](demo-catalog/digital-trust-card/README.md) | Sep 2025 |
 | **Sovereign Data Control** | [Data Ownership](demo-catalog/data-ownership/README.md) | Sep 2025 |
 | **File Integrity & Tracking** | [Time Anchor](demo-catalog/time-anchor/README.md) | Sep 2025 |
-<!-- | **Sustainable Fashion** | [Circular Economy](demo-catalog/circular-economy/README.md) | Sep 2025 | -->
 | **Token Economy** | [Token Transfer](demo-catalog/token-transfer/README.md) | Sep 2025 |
 | **Payment Solutions** | [Pay-QuickR](demo-catalog/pay-quickr/README.md) | Sep 2025 |
 | **Debugging Tools** | [Beef Inspector](demo-catalog/beef-inspector/README.md) | Sep 2025 |
@@ -34,7 +33,9 @@ Comprehensive index of all Demo solutions with quick access to key information.
 | **Token Management** | [Utilitary Token Platform](demo-catalog/utilitary-token-platform/README.md) | Feb 2026 |
 | **Certification & Access Control** | [Certification Platform](demo-catalog/certification-platform/README.md) | Feb 2026 |
 
-
+<!-- Hidden row (kept for reference):
+| **Sustainable Fashion** | [Circular Economy](demo-catalog/circular-economy/README.md) | Sep 2025 |
+-->
 
 ## Quick Filters
 
