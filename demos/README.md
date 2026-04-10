@@ -20,7 +20,7 @@ Comprehensive index of all Demo solutions with quick access to key information.
 | **Digital Identity Privacy** | [Digital Trust Card](demo-catalog/digital-trust-card/README.md) | Sep 2025 |
 | **Sovereign Data Control** | [Data Ownership](demo-catalog/data-ownership/README.md) | Sep 2025 |
 | **File Integrity & Tracking** | [Time Anchor](demo-catalog/time-anchor/README.md) | Sep 2025 |
-| **Sustainable Fashion** | [Circular Economy](demo-catalog/circular-economy/README.md) | Sep 2025 |
+<!-- | **Sustainable Fashion** | [Circular Economy](demo-catalog/circular-economy/README.md) | Sep 2025 | -->
 | **Token Economy** | [Token Transfer](demo-catalog/token-transfer/README.md) | Sep 2025 |
 | **Payment Solutions** | [Pay-QuickR](demo-catalog/pay-quickr/README.md) | Sep 2025 |
 | **Debugging Tools** | [Beef Inspector](demo-catalog/beef-inspector/README.md) | Sep 2025 |
@@ -40,10 +40,10 @@ Comprehensive index of all Demo solutions with quick access to key information.
 
 ### By Industry
 - **Healthcare:** P2P Medical, Prescription Tokens
-- **Supply Chain:** Natural Chain, Circular Economy, Supply Chain Action Builder
+- **Supply Chain:** Natural Chain, Supply Chain Action Builder
 - **Data Management:** Truth Machine, Data Ownership (SOLID + BSV)
 - **Identity:** Register, Digital Trust Card
-- **Sustainable Fashion:** Circular Economy
+<!-- - **Sustainable Fashion:** Circular Economy -->
 - **Content Sharing / Token Economy:** Token Transfer
 - **Governance & Voting:** Pollr
 - **Crowdfunding:** Crowdfunding Platform
@@ -54,13 +54,13 @@ Comprehensive index of all Demo solutions with quick access to key information.
 ### By Use Case Category
 - **Data Integrity:** Truth Machine, Time Anchor
 - **Tokenization:** Prescription Tokens, Token Transfer, Utilitary Token Platform
-- **Supply Chain Tracking:** Natural Chain, Circular Economy, Supply Chain Action Builder
+- **Supply Chain Tracking:** Natural Chain, Supply Chain Action Builder
 - **Healthcare Systems:** P2P Medical, Prescription Tokens
 - **Identity Management:** Register, Digital Trust Card, Certification Platform
 - **Age Verification & Compliance:** Digital Trust Card
 - **Decentralized Knowledge Management:** Data Ownership
 - **File Integrity & Verification:** Time Anchor
-- **Sustainable Product Transparency:** Circular Economy
+<!-- - **Sustainable Product Transparency:** Circular Economy -->
 - **Decentralized File Sharing:** Token Transfer
 - **Governance & Decentralized Voting:** Pollr
 - **Crowdfunding & Fundraising:** Crowdfunding Platform
@@ -75,13 +75,13 @@ Comprehensive index of all Demo solutions with quick access to key information.
 ### By Implementation Status
 - **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform, Certification Platform
 - **In Progress:** P2P Medical, Register, Slack Threads, Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
-- **Not Started:** Circular Economy
+<!-- - **Not Started:** Circular Economy -->
 
 ### By Development Stage
 - **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Slack Threads, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform, Certification Platform
 - **Core Features Complete:** P2P Medical, Register
 - **Pilot Phase:** Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
-- **Planning Phase:** Circular Economy
+<!-- - **Planning Phase:** Circular Economy -->
 
 
 ## Demo Access Links

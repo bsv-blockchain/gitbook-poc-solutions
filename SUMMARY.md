@@ -32,8 +32,10 @@
     * [Business Documentation](demos/demo-catalog/data-ownership/business-data-ownership.md)
   * [Time Anchor](demos/demo-catalog/time-anchor/README.md)
     * [Business Documentation](demos/demo-catalog/time-anchor/business-time-anchor.md)
+<!--
   * [Circular Economy](demos/demo-catalog/circular-economy/README.md)
     * [Business Documentation](demos/demo-catalog/circular-economy/business-circular-economy.md)
+-->
   * [Token Transfer](demos/demo-catalog/token-transfer/README.md)
     * [Business Documentation](demos/demo-catalog/token-transfer/business-token-transfer.md)
   * [Pay-QuickR](demos/demo-catalog/pay-quickr/README.md)
