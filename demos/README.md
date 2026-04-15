@@ -13,7 +13,7 @@ Comprehensive index of all Demo solutions with quick access to key information.
 | **Data Integrity & Hashing** | [Truth Machine](demo-catalog/truth-machine/README.md) | Aug 2025 |
 | **Supply Chain Tracking** | [Natural Chain](demo-catalog/natural-chain/README.md) | Aug 2025 |
 | **Healthcare Tokenization** | [Prescription Tokens](demo-catalog/prescription-tokens/README.md) | Aug 2025 |
-| **Medical Data Exchange** | [P2P Medical](demo-catalog/p2p-medical/README.md) | Aug 2025 |
+| **Medical Data Exchange** | [P2P Medical](demo-catalog/p2p-medical/README.md) | Apr 2026 |
 | **Digital Identity** | [Register](demo-catalog/register/README.md) | Aug 2025 |
 | **Digital Receipts** | [Digital Receipts](demo-catalog/digital-reciept/README.md) | Sep 2025 |
 | **Community Knowledge** | [Slack Threads](demo-catalog/slack-threads/README.md) | Sep 2025 |
@@ -74,13 +74,13 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **Developer Education:** Pay-QuickR, Beef Inspector, Preimage, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform, Certification Platform
 
 ### By Implementation Status
-- **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform, Certification Platform
-- **In Progress:** P2P Medical, Register, Slack Threads, Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
+- **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens, P2P Medical, Digital Receipts, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform, Certification Platform
+- **In Progress:** Register, Slack Threads, Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
 <!-- - **Not Started:** Circular Economy -->
 
 ### By Development Stage
-- **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens, Digital Receipts, Slack Threads, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform, Certification Platform
-- **Core Features Complete:** P2P Medical, Register
+- **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens, P2P Medical, Digital Receipts, Slack Threads, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform, Certification Platform
+- **Core Features Complete:** Register
 - **Pilot Phase:** Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
 <!-- - **Planning Phase:** Circular Economy -->
 
@@ -99,6 +99,12 @@ Comprehensive index of all Demo solutions with quick access to key information.
 ### Prescription Tokens - Tokenization of Medicine
 - **Live Demo:** [prescription-tokens.vercel.app](https://prescription-tokens.vercel.app) *(new bsvb.tech URL coming soon)*
 - **Repository:** [https://github.com/bsv-blockchain-demos/prescription-tokens](https://github.com/bsv-blockchain-demos/prescription-tokens)
+
+### P2P Medical - Secure Peer-to-Peer Medical File Exchange
+- **Live Demo:** [https://p2p-medical.bsvblockchain.tech](https://p2p-medical.bsvblockchain.tech)
+- **Repository:** [https://github.com/bsv-blockchain-demos/p2p-medical](https://github.com/bsv-blockchain-demos/p2p-medical)
+- **Status:** Complete demo - ready for use and contribution
+- **Features:** In-browser ECDH + AES-256-GCM encryption, multi-provider UHRP storage, PushDrop metadata token, MessageBox notification, on-chain audit trail of every access
 
 ### Pay-QuickR - BSV Wallet Integration Demo
 - **Live Demo:** [pay-quickr.vercel.app](https://pay-quickr.vercel.app)
