@@ -1,4 +1,4 @@
-# 🪪 BSV Desktop Wallet
+# 🪪 BSV Desktop
 
 Welcome to your first step with BSV Blockchain: **BSV Desktop**!
 BSV Desktop is a modern wallet designed to make your experience with BSV Blockchain simple, secure, and powerful—whether you’re a beginner or an advanced user.

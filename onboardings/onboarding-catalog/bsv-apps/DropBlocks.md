@@ -26,7 +26,7 @@ DropBlocks is a decentralized file storage application built on the BSV blockcha
 ## 2. Before You Begin
 
 ### Prerequisites
-- **BSV Wallet:** BRC-100 compatible wallet (Metanet Desktop recommended)
+- **BSV Wallet:** BRC-100 compatible wallet (BSV Desktop recommended)
 - **Web Browser:** Modern browser with JavaScript enabled
 - **BSV Balance:** Small amount of BSV for storage fees (varies by file size and retention period)
 

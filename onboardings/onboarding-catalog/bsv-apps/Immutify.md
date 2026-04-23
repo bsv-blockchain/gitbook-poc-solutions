@@ -26,7 +26,7 @@ Immutify is a powerful blockchain-based proof-of-existence platform that enables
 ## 2. Before You Begin
 
 ### Prerequisites
-- **BSV Wallet:** BSV Desktop Wallet for payment of blockchain storage fees
+- **BSV Wallet:** BSV Desktop for payment of blockchain storage fees
 - **Web Browser:** Modern browser with JavaScript enabled
 - **Content to Protect:** Ideas, documents, images, or media you want to timestamp
 - **BSV Balance:** Small amount of BSV for blockchain transaction fees
@@ -52,7 +52,7 @@ Before using Immutify, understand the key concepts:
 ### Step 1: Access Immutify
 1. Navigate to **https://immutify.metanet.app/** in your web browser
 2. The Immutify main interface loads
-3. Ensure your BSV Desktop Wallet is running for payment processing
+3. Ensure your BSV Desktop is running for payment processing
 4. Review the main dashboard options
 
 ![Immutify Proof Creation Form](../../../assets/onboardings/bsv-apps/immutify-app/proof-creation-form.png)
@@ -105,7 +105,7 @@ Immutify supports multiple content types for proof creation:
    - Privacy setting
    - Estimated blockchain fee
 2. Click **"Submit to Blockchain"** or **"Create Proof"**
-3. BSV Desktop Wallet prompts for payment confirmation
+3. BSV Desktop prompts for payment confirmation
 4. **Approve the transaction** (typically a very small fee)
 5. Wait for blockchain confirmation (usually seconds to minutes)
 6. Your proof is now permanently timestamped on BSV blockchain

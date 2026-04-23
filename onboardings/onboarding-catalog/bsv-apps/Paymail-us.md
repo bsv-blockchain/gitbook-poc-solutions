@@ -25,7 +25,7 @@ Paymail.us (Paymail Bridge) is a user-friendly platform that simplifies BSV paym
 ## 2. Before You Begin
 
 ### Prerequisites
-- **BSV Wallet:** BRC-100 compatible wallet (Metanet Desktop recommended)
+- **BSV Wallet:** BRC-100 compatible wallet (BSV Desktop recommended)
 - **Web Browser:** Modern browser with JavaScript enabled
 - **BSV Balance:** Small amount of BSV for payments (transactions cost fractions of cents)
 
@@ -157,7 +157,7 @@ Understanding satoshi amounts:
 
 ### Integration Opportunities
 - Combine with [PeerPay](./PeerPay.md) for enhanced peer-to-peer payments
-- Use with [Metanet Desktop](../metanet-desktop-mainnet.md) for full wallet features
+- Use with [BSV Desktop](../metanet-desktop-mainnet.md) for full wallet features
 - Explore other BSV payment apps for complete financial workflows
 
 ### Learn More About Paymail

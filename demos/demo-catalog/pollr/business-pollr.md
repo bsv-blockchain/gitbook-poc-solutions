@@ -10,7 +10,7 @@
 Traditional online polling platforms face challenges with data manipulation, lack of transparency, centralized control, and trust issues regarding vote authenticity. Organizations and communities need a verifiable, transparent, and tamper-proof solution for conducting polls and surveys where participants can trust that results are genuine and unaltered.
 
 ### Solution Overview
-Pollr is a decentralized polling application built on the BSV blockchain that provides transparent, immutable, and verifiable voting mechanisms. By leveraging blockchain technology and MetaNet Client wallet integration, Pollr ensures that every vote is cryptographically secured and permanently recorded, creating an auditable trail that eliminates doubts about poll integrity.
+Pollr is a decentralized polling application built on the BSV blockchain that provides transparent, immutable, and verifiable voting mechanisms. By leveraging blockchain technology and BSV Desktop wallet integration, Pollr ensures that every vote is cryptographically secured and permanently recorded, creating an auditable trail that eliminates doubts about poll integrity.
 
 ### Key Benefits
 - **Immutable Results**: All votes are recorded on the blockchain, preventing tampering or manipulation
@@ -64,7 +64,7 @@ Pollr is a decentralized polling application built on the BSV blockchain that pr
 - Poll creation with blockchain recording
 - Personal poll management dashboard
 - Completed polls archive
-- MetaNet Client wallet integration
+- BSV Desktop wallet integration
 - Real-time voting and result display
 - MongoDB backend for poll metadata
 
@@ -99,7 +99,7 @@ Pollr is a decentralized polling application built on the BSV blockchain that pr
 
 ### Technical Differentiators
 - Built on BSV's scalable blockchain infrastructure
-- MetaNet Client integration for seamless wallet experience
+- BSV Desktop integration for seamless wallet experience
 - Low transaction costs enable frequent polling
 - Open-source codebase for community trust and contribution
 
@@ -119,7 +119,7 @@ Pollr is a decentralized polling application built on the BSV blockchain that pr
 ### User Costs
 - **Participation**: Minimal BSV transaction fees for voting
 - **Poll Creation**: Small fee to record poll on blockchain
-- **Wallet Setup**: Free MetaNet Client installation
+- **Wallet Setup**: Free BSV Desktop installation
 
 ## Related Resources
 

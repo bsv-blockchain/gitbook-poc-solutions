@@ -20,7 +20,7 @@ Traditional crowdfunding platforms face issues with high transaction fees, centr
 
 ## How It Works
 
-- Users connect their BSV Desktop Wallet to the platform using WalletClient integration
+- Users connect their BSV Desktop to the platform using WalletClient integration
 - Campaign creators set funding goals, with all progress tracked in real-time
 - Investors contribute using the 402 Payment Protocol with BRC-29 key derivation for secure payment addressing
 - The backend uses payment middleware to verify and internalize transactions automatically

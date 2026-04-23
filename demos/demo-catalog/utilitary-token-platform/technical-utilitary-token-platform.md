@@ -31,7 +31,7 @@ Multi-tier architecture with React frontend for token management, Node.js overla
 | @bsv/sdk | Transaction and token creation | Latest | docs.bsvblockchain.org |
 | @bsv/overlay-tools | Overlay service framework | Latest | github.com/bitcoin-sv/overlay-tools |
 | MongoDB | UTXO indexing and storage | 5.0+ | mongodb.com/docs |
-| BSV Desktop Wallet | User wallet and signing | Latest | desktop.bsvb.tech |
+| BSV Desktop | User wallet and signing | Latest | desktop.bsvb.tech |
 
 ### API Endpoints
 
@@ -47,7 +47,7 @@ GET /balance/:identityKey
 ### Prerequisites
 - Node.js 18+
 - MongoDB 5.0+
-- BSV Desktop Wallet installed
+- BSV Desktop installed
 - TypeScript 4.9+
 - Test BSV for transaction fees
 

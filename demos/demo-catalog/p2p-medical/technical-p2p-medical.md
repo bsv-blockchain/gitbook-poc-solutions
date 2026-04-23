@@ -14,7 +14,7 @@ Browser-first application: the patient's client resolves the recipient doctor's 
 - **Blockchain SDK**: @bsv/sdk (PushDrop, WalletClient, MessageBox client, identity resolution)
 - **Storage**: UHRP (Universal Hash Resolution Protocol) — one or multiple providers selectable at upload time
 - **Messaging**: MessageBox protocol for recipient notification
-- **Wallet Integration**: BRC-100-compatible wallets (BSV Desktop Wallet) for key derivation, signing, and decryption
+- **Wallet Integration**: BRC-100-compatible wallets (BSV Desktop) for key derivation, signing, and decryption
 
 ### Key Components
 1. **Recipient Resolver**: Looks up the selected doctor's identity public key for ECDH targeting
@@ -32,7 +32,7 @@ Browser-first application: the patient's client resolves the recipient doctor's 
 |---------|---------|---------|---------------|
 | @bsv/sdk | PushDrop, WalletClient, MessageBox, identity & crypto primitives | Latest | docs.bsvblockchain.org |
 | UHRP Providers | Content-addressed storage (multi-provider optional) | Latest | docs.bsvblockchain.org |
-| BSV Desktop Wallet | User key management, ECDH decryption, signing | Latest | desktop.bsvb.tech |
+| BSV Desktop | User key management, ECDH decryption, signing | Latest | desktop.bsvb.tech |
 | MessageBox | Recipient notification channel | Latest | docs.bsvblockchain.org |
 
 ### Core Flow
@@ -51,7 +51,7 @@ Browser-first application: the patient's client resolves the recipient doctor's 
 
 ### Prerequisites
 - Node.js 18+
-- BSV Desktop Wallet (BRC-100 compatible) installed and unlocked
+- BSV Desktop (BRC-100 compatible) installed and unlocked
 - Access to at least one UHRP storage provider
 
 ### Setup Instructions
@@ -119,7 +119,7 @@ Live deployment: [p2p-medical.bsvblockchain.tech](https://p2p-medical.bsvblockch
 ### Troubleshooting
 | Issue | Cause | Solution |
 |-------|-------|----------|
-| Wallet not found | BSV Desktop Wallet not installed or locked | Install wallet and unlock before use |
+| Wallet not found | BSV Desktop not installed or locked | Install wallet and unlock before use |
 | Recipient decryption fails | Recipient public key mismatch or wrong wallet | Confirm recipient selection; recipient must use the same wallet identity used for ECDH |
 | UHRP fetch fails | Provider outage or object pruned | Re-upload with multi-provider selection; content-addressing allows seamless failover |
 | Hash verification mismatch | Corrupted download or wrong object | Refetch from an alternate UHRP provider |

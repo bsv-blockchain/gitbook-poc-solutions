@@ -26,7 +26,7 @@ Thryll Arcade is a revolutionary blockchain-powered gaming platform that combine
 ## 2. Before You Begin
 
 ### Prerequisites
-- **BSV Wallet:** BSV Desktop Wallet or compatible wallet for receiving rewards
+- **BSV Wallet:** BSV Desktop or compatible wallet for receiving rewards
 - **Web Browser:** Modern browser with JavaScript and WebGL support for game rendering
 - **Identity Key:** BSV identity for personalized profile and reward tracking (recommended)
 - **Internet Connection:** Stable connection for real-time gameplay and leaderboard updates
