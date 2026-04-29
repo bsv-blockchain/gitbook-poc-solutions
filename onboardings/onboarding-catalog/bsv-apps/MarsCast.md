@@ -25,7 +25,7 @@ MarsCast is a blockchain-secured API service that delivers real-time Mars weathe
 ## 2. Before You Begin
 
 ### Prerequisites
-- **BSV Wallet:** BRC-100 compatible wallet (Metanet Desktop recommended)
+- **BSV Wallet:** BRC-100 compatible wallet (BSV Desktop recommended)
 - **CoolCert Identity:** Valid CoolCert identity certificate (required for authentication)
 - **Web Browser:** Modern browser with JavaScript enabled
 - **BSV Balance:** Small amount of BSV for API requests ($0.001 per request)

@@ -7,18 +7,18 @@
 ## Architecture Overview
 
 ### System Architecture
-Pollr is a full-stack decentralized polling application built on the BSV blockchain. The architecture consists of a React frontend for user interactions and a backend service for managing poll data and blockchain operations. The system leverages MetaNet Client for wallet integration and stores poll results immutably on the BSV blockchain.
+Pollr is a full-stack decentralized polling application built on the BSV blockchain. The architecture consists of a React frontend for user interactions and a backend service for managing poll data and blockchain operations. The system leverages BSV Desktop for wallet integration and stores poll results immutably on the BSV blockchain.
 
 ### Technology Stack
 - **Frontend**: React 18.3.1, TypeScript 5.8.3, Material-UI 7.0.2
 - **Backend**: Node.js with TypeScript 5.2.2, MongoDB 6.11.0
 - **Blockchain SDK**: @bsv/sdk v1.6.22 (backend), v1.7.6 (frontend)
 - **Build Tools**: Webpack 5.74.0, Babel
-- **Infrastructure**: MetaNet Client overlay network
+- **Infrastructure**: BRC-100 wallet interface, BSV overlay services, and MongoDB
 
 ### Key Components
 1. **Polling Interface**: React-based UI for creating, viewing, and participating in polls
-2. **Wallet Integration**: MetaNet Client (MNC) authentication and blockchain operations
+2. **Wallet Integration**: BSV Desktop via WalletClient/BRC-100 for authentication and blockchain operations
 3. **Backend API**: RESTful services for poll management and data persistence
 4. **Database Layer**: MongoDB for poll storage and user interactions
 5. **Blockchain Overlay**: @bsv/overlay for decentralized data management
@@ -47,7 +47,7 @@ Pollr is a full-stack decentralized polling application built on the BSV blockch
 - Node.js (v18 or higher)
 - npm package manager
 - MongoDB instance (local or cloud)
-- MetaNet Client browser extension
+- BSV Desktop installed and running
 - BSV blockchain concepts knowledge
 - LARS and CARS CLI tools for deployment
 
@@ -109,7 +109,7 @@ brave-browser --disable-web-security --user-data-dir="/tmp/brave_dev"
 - **Manual Testing**: Poll creation, voting flows, and result verification
 
 ### Validation Criteria
-- [x] MetaNet Client wallet authentication
+- [x] BSV Desktop wallet authentication
 - [x] Poll creation and submission to blockchain
 - [x] Vote casting and immutable recording
 - [x] Real-time poll result updates
@@ -136,13 +136,13 @@ brave-browser --disable-web-security --user-data-dir="/tmp/brave_dev"
 
 ### Monitoring
 - **Logs**: Server-side logging for backend operations
-- **Metrics**: MetaNet Client transaction monitoring
+- **Metrics**: Backend transaction logging and overlay service health checks
 - **Alerts**: Database connection and blockchain service health checks
 
 ### Troubleshooting
 | Issue | Cause | Solution |
 |-------|-------|----------|
-| MetaNet Client not detected | Extension not installed | Install MNC browser extension and refresh |
+| BSV Desktop not detected | Wallet app not installed, running, or unlocked | Install BSV Desktop, unlock it, and refresh |
 | Transaction rejection | Local topical hosts issue | Use alternative browser configuration or network |
 | Poll not loading | Database connection error | Check MongoDB URI and connection status |
 | Vote not recording | Blockchain transaction failure | Verify wallet balance and network connectivity |

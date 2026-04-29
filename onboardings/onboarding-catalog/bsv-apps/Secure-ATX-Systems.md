@@ -157,7 +157,7 @@ Before relying on your backup:
 ### Integration with BSV Wallets
 Use Secure ATX to backup:
 - BSV wallet seed phrases (12 or 24 words)
-- Private keys from Metanet Desktop
+- Private keys from BSV Desktop
 - BRC-42 identity keys
 - Any cryptographic material
 
@@ -206,7 +206,7 @@ Use Secure ATX to backup:
 - One at home, one with trusted person, one in cloud backup
 
 ### Related Resources
-- Combine with [BSV Desktop Wallet](../metanet-desktop-mainnet.md) for key backup
+- Combine with [BSV Desktop](../metanet-desktop-mainnet.md) for key backup
 - Use with [Legacy ATX Systems](./Legacy-ATX-Systems.md) for address management
 - Learn about [BRC-42 Key Derivation](https://bsv.brc.dev/wallet/0042)
 

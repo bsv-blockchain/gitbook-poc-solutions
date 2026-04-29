@@ -23,7 +23,7 @@ Legacy Bridge is a BSV blockchain tool that enables seamless fund transfers betw
 ### 2.1. Prerequisites
 
 **Essential Requirements:**
-- **BSV Desktop Wallet** - Your BRC-100 compatible BSV wallet
+- **BSV Desktop** - Your BRC-100 compatible BSV wallet
 - **Web browser** - Chrome, Firefox, Safari, or Edge
 - **BSV funds on an exchange** - Funds in a traditional exchange like KuCoin, Kraken, or others
 - **Internet connection** - Stable connection for blockchain transactions
@@ -48,7 +48,7 @@ Legacy Bridge works with traditional exchanges that use legacy address formats, 
 
 ## 3. Getting Started: Step-by-Step
 
-### Step 1: Set Up Your BSV Desktop Wallet
+### Step 1: Set Up Your BSV Desktop
 
 If you don't have a BSV Desktop wallet yet:
 
@@ -57,7 +57,7 @@ If you don't have a BSV Desktop wallet yet:
 3. **Secure your recovery keys** in a safe place
 4. **Note your wallet's receiving address** for later use
 
-👉 **Detailed Guide:** [BSV Desktop Wallet Setup](./metanet-desktop-mainnet.md)
+👉 **Detailed Guide:** [BSV Desktop Setup](./metanet-desktop-mainnet.md)
 
 ### Step 2: Access Legacy Bridge
 

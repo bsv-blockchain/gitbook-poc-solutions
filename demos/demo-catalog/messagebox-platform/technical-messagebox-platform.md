@@ -30,7 +30,7 @@ Full-stack application with React frontend using WalletClient for identity manag
 | @bsv/sdk | Transaction creation, key derivation | Latest | docs.bsvblockchain.org |
 | @bsv/message-box-client | MessageBox protocol integration | Latest | github.com/bitcoin-sv/message-box |
 | MongoDB | User and session storage | 5.0+ | mongodb.com/docs |
-| BSV Desktop Wallet | User wallet integration | Latest | desktop.bsvb.tech |
+| BSV Desktop | User wallet integration | Latest | desktop.bsvb.tech |
 
 ### API Endpoints
 
@@ -47,7 +47,7 @@ POST /api/internalize-payment
 ### Prerequisites
 - Node.js 18+
 - MongoDB 5.0+
-- BSV Desktop Wallet installed
+- BSV Desktop installed
 - MessageBox network access
 
 ### Setup Instructions

@@ -27,7 +27,7 @@ Browser-based single-page application connecting directly to user wallets via Wa
 | Service | Purpose | Version | Documentation |
 |---------|---------|---------|---------------|
 | @bsv/sdk | Transaction creation, script building | Latest | docs.bsvblockchain.org |
-| BSV Desktop Wallet | User key management, signing | Latest | desktop.bsvb.tech |
+| BSV Desktop | User key management, signing | Latest | desktop.bsvb.tech |
 
 ### API Endpoints
 No external API required - direct blockchain interaction via WalletClient.
@@ -36,7 +36,7 @@ No external API required - direct blockchain interaction via WalletClient.
 
 ### Prerequisites
 - Node.js 18+
-- BSV Desktop Wallet installed
+- BSV Desktop installed
 - Modern web browser with localStorage support
 - Test BSV for transaction fees
 
@@ -65,7 +65,7 @@ Wallet connection handled automatically via WalletClient. No environment variabl
 - **Manual Tests**: End-to-end inscription creation
 
 ### Validation Criteria
-- [ ] Successfully connect to BSV Desktop Wallet
+- [ ] Successfully connect to BSV Desktop
 - [ ] Create text inscriptions with OP_RETURN
 - [ ] Create JSON inscriptions with validation
 - [ ] Generate file hashes and store on-chain
@@ -93,7 +93,7 @@ Wallet connection handled automatically via WalletClient. No environment variabl
 ### Troubleshooting
 | Issue | Cause | Solution |
 |-------|-------|----------|
-| Wallet not connecting | BSV Desktop Wallet not installed/unlocked | Install wallet or unlock |
+| Wallet not connecting | BSV Desktop not installed/unlocked | Install wallet or unlock |
 | Transaction fails | Insufficient BSV balance | Add funds from faucet |
 | History not persisting | localStorage disabled | Enable browser storage |
 

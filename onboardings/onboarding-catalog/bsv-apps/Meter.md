@@ -26,7 +26,7 @@ Meter is a blockchain-based counter application that enables you to create, incr
 ## 2. Before You Begin
 
 ### Prerequisites
-- **BSV Wallet:** BSV Desktop Wallet or Babbage-compatible wallet
+- **BSV Wallet:** BSV Desktop or BRC-100 compatible wallet
 - **BSV Identity:** Identity key for meter ownership and state management
 - **Web Browser:** Modern browser with JavaScript enabled
 - **BSV Balance:** Small amount for blockchain transaction fees (typically minimal)
@@ -34,7 +34,7 @@ Meter is a blockchain-based counter application that enables you to create, incr
 ### Supported Platforms
 - **Web-based:** Access via https://meter.bapp.dev/
 - **Cross-platform:** Works on desktop and mobile browsers
-- **Babbage SDK Integration:** Built on Babbage infrastructure for identity management
+- **BRC-100 wallet integration:** Uses wallet-to-application permissions for identity and transaction requests
 - **No Installation Required:** Pure web application
 
 ### Understanding Meter Concepts
@@ -59,8 +59,8 @@ Before creating your first meter, understand these key concepts:
 ### Step 1: Access Meter
 1. Navigate to **https://meter.bapp.dev/** in your web browser
 2. The Meter application interface loads
-3. Ensure your BSV Desktop Wallet is running in the background
-4. The app automatically detects your Babbage-enabled wallet
+3. Ensure your BSV Desktop is running in the background
+4. The app requests access through your BRC-100-compatible wallet
 
 ![Meter Dashboard](../../../assets/onboardings/bsv-apps/meter-app/meter-dashboard.png)
 
@@ -196,7 +196,7 @@ Before creating your first meter, understand these key concepts:
 - Voting or polling systems
 
 ### Developer Integration
-- **Babbage SDK:** Build custom applications using Meter as backend
+- **BRC-100 wallet interface:** Build custom applications using the same wallet-to-app integration pattern
 - **API Access:** Programmatically create and modify meters
 - **Smart Contract Integration:** Use meters within complex blockchain logic
 - **Custom UI:** Build tailored interfaces for specific meter use cases
@@ -285,7 +285,7 @@ Before creating your first meter, understand these key concepts:
 - **Blockchain State:** Learn how blockchain maintains application state
 - **UTXO Model:** Understand how BSV transactions track values
 - **Identity Keys:** Study cryptographic identity and ownership
-- **Babbage SDK:** Explore the SDK powering Meter's identity features
+- **BRC-100 wallet interface:** Explore the standard used for wallet permissions and identity-backed actions
 - **Smart Contracts:** Investigate how counters can be part of complex logic
 
 ### Development and Customization
@@ -296,7 +296,7 @@ Before creating your first meter, understand these key concepts:
 - **Open Source Contribution:** Contribute improvements back to the project
 
 ### Related Resources
-- **Babbage SDK Documentation:** Learn the underlying technology
+- **BRC-100 standard:** Learn the wallet-to-application interface
 - **BSV Smart Contracts:** Explore advanced blockchain state management
 - **Identity Systems:** Study decentralized identity implementations
 - **Use Case Studies:** Review examples of blockchain-based tracking
@@ -312,7 +312,7 @@ Before creating your first meter, understand these key concepts:
 ---
 
 **Quick Links:**
-[BSV Desktop Guide](../metanet-desktop-mainnet.md) | [BSV Getting Started](../README.md) | [PeerPay](PeerPay.md) | [Babbage SDK](https://babbage.systems/)
+[BSV Desktop Guide](../metanet-desktop-mainnet.md) | [BSV Getting Started](../README.md) | [PeerPay](PeerPay.md) | [BRC-100 Standard](https://bsv.brc.dev/wallet/0100)
 
 ---
 

@@ -25,7 +25,7 @@ Metanet ToDo is a unique task management application that turns your to-do list 
 ## 2. Before You Begin
 
 ### Prerequisites
-- **BSV Wallet:** BRC-100 compatible wallet (Metanet Desktop recommended)
+- **BSV Wallet:** BRC-100 compatible wallet (BSV Desktop recommended)
 - **Web Browser:** Modern browser with JavaScript enabled
 - **BSV Balance:** Small amount of BSV for task incentives (even 1 satoshi works)
 

@@ -79,7 +79,7 @@ Individual token claiming endpoint. Creates and sends PushDrop token to investor
 ### Prerequisites
 - Node.js (v18 or higher)
 - npm package manager
-- BSV Desktop Wallet installed
+- BSV Desktop installed
 - Environment variables configured in .env
 
 ### Setup Instructions
@@ -236,7 +236,7 @@ export function loadCrowdfundingData(walletIdentity: string): CrowdfundingState 
 ## Testing & Validation
 
 ### Validation Criteria
-- [ ] Frontend wallet connects successfully to BSV Desktop Wallet
+- [ ] Frontend wallet connects successfully to BSV Desktop
 - [ ] 402 payment flow completes with BRC-29 key derivation
 - [ ] Backend internalizes investment transactions correctly
 - [ ] Campaign progress updates in real-time
@@ -291,7 +291,7 @@ crowdfunding-project/
 | 402 payment fails | Incorrect BRC-29 derivation | Verify protocol ID matches middleware |
 | Token claiming fails | Goal not reached | Check campaign status endpoint |
 | State not persisting | File permissions | Verify write access to project directory |
-| Wallet connection fails | BSV Desktop Wallet not running | Start BSV Desktop Wallet application |
+| Wallet connection fails | BSV Desktop not running | Start BSV Desktop application |
 
 ## Important Concepts
 

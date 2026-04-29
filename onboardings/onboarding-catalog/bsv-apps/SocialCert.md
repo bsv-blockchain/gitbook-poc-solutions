@@ -26,7 +26,7 @@ SocialCert is a blockchain-based identity verification platform that issues veri
 ## 2. Before You Begin
 
 ### Prerequisites
-- **BSV Wallet:** BSV Desktop Wallet for certificate signing and small blockchain fees
+- **BSV Wallet:** BSV Desktop for certificate signing and small blockchain fees
 - **Social Accounts:** Active accounts on platforms you want to verify (X, Discord, Email)
 - **Web Browser:** Modern browser with JavaScript enabled
 - **Account Access:** Ability to receive verification messages on accounts you're verifying
@@ -62,7 +62,7 @@ SocialCert currently supports three primary verification types:
 ### Step 1: Access SocialCert
 1. Navigate to **https://socialcert.net/** in your web browser
 2. The SocialCert interface loads showing verification options
-3. Ensure your BSV Desktop Wallet is running
+3. Ensure your BSV Desktop is running
 4. Connect your wallet when prompted
 
 ![SocialCert Verification Form](../../../assets/onboardings/bsv-apps/socialcert-app/verification-form.png)

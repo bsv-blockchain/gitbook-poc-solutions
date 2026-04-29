@@ -27,7 +27,7 @@ Your Files and Stuff is a blockchain-powered file and folder management system t
 ## 2. Before You Begin
 
 ### Prerequisites
-- **BSV Wallet:** BSV Desktop Wallet for blockchain transactions
+- **BSV Wallet:** BSV Desktop for blockchain transactions
 - **Web Browser:** Modern browser with JavaScript enabled
 - **BSV Balance:** Small amount for file creation and folder operations
 - **UHRP Understanding:** Basic familiarity with UHRP URLs for media (helpful but not required)
@@ -61,7 +61,7 @@ Before creating your first file or folder, understand these concepts:
 ### Step 1: Access Your Files and Stuff
 1. Navigate to **https://your-files-and-stuff.lovable.app/** in your web browser
 2. The main dashboard loads showing your file system
-3. Ensure your BSV Desktop Wallet is running
+3. Ensure your BSV Desktop is running
 4. The interface displays your existing files and folders (empty on first visit)
 
 ![Your Files and Stuff Main Dashboard](../../../assets/onboardings/bsv-apps/your-files-app/main-dashboard.png)

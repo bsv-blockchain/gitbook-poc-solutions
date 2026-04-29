@@ -30,7 +30,7 @@ Full-stack application with a Next.js frontend and Express.js backend, connectin
 | @bsv/sdk | Certificates, AuthFetch, WalletClient, cryptography | 1.10.1+ | docs.bsvblockchain.org |
 | @bsv/wallet-toolbox-client | Server-side full Wallet with storage and chain services | 1.7.18+ | docs.bsvblockchain.org |
 | @bsv/auth-express-middleware | Express middleware for BRC-31 mutual authentication | 1.2.3+ | docs.bsvblockchain.org |
-| BSV Desktop Wallet | User key management, certificate storage, signing | Latest | desktop.bsvb.tech |
+| BSV Desktop | User key management, certificate storage, signing | Latest | desktop.bsvb.tech |
 
 ### API Endpoints
 | Method | Endpoint | Auth | Purpose |
@@ -44,7 +44,7 @@ Full-stack application with a Next.js frontend and Express.js backend, connectin
 
 ### Prerequisites
 - Node.js 18+
-- BSV Desktop Wallet installed
+- BSV Desktop installed
 - TypeScript 4.9+
 - A wallet storage service URL (for backend Wallet initialization)
 
@@ -121,7 +121,7 @@ Frontend configuration via `.env.local`:
 ### Troubleshooting
 | Issue | Cause | Solution |
 |-------|-------|----------|
-| Wallet not found | BSV Desktop Wallet not installed or locked | Install wallet extension and unlock before use |
+| Wallet not found | BSV Desktop not installed or locked | Install wallet extension and unlock before use |
 | Failed to get certificate from server | Backend not running or wrong port | Ensure backend is running; check `NEXT_PUBLIC_API_URL` |
 | Certificate Required on dashboard | No certificate in wallet | Acquire a certificate on the main certify page first |
 | Access denied after acquiring certificate | Auth middleware hasn't processed certificate | Check backend logs for `onCertificatesReceived`; verify certificate type and certifier match |

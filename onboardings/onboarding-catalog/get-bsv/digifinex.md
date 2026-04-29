@@ -75,7 +75,7 @@ If you encounter any difficulties, DigiFinex provides 24/7 customer support acce
 You can now transfer your BSV to personal wallets for additional control and security.
 
 - **Need a wallet?**
-  👉 [Create your BSV Desktop Wallet](../metanet-desktop-mainnet.md)
+  👉 [Create your BSV Desktop](../metanet-desktop-mainnet.md)
 
 - **Want to learn how to transfer BSV to BSV Desktop?**
   👉 [How to transfer BSV to BSV Desktop](../legacy-bridge.md)

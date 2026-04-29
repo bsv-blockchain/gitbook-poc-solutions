@@ -1,7 +1,7 @@
 # 💸 Pay & Get Paid with BSV Desktop
 
 Welcome to the guide for making and receiving payments using **BSV Desktop** and connected applications.
-If you haven’t created your wallet yet, start here: 👉 [Create your BSV Desktop Wallet](../metanet-desktop-mainnet.md)
+If you haven’t created your wallet yet, start here: 👉 [Create your BSV Desktop](../metanet-desktop-mainnet.md)
 Need BSV to get started? 👉 [How to get BSV](get-bsv/README.md)
 
 ---

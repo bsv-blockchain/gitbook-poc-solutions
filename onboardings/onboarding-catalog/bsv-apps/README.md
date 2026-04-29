@@ -198,7 +198,7 @@ Weather data platform demonstrating real-world data integration with BSV blockch
 
 Before using most BSV applications, you'll need:
 
-1. **BSV Wallet:** Most commonly BSV Desktop Wallet (Metanet Desktop)
+1. **BSV Wallet:** Most commonly BSV Desktop
    - [Get BSV Desktop Guide](../metanet-desktop-mainnet.md)
    - [BSV Wallet Setup Instructions](../README.md)
 
@@ -209,6 +209,15 @@ Before using most BSV applications, you'll need:
 3. **Modern Web Browser:** Most apps are web-based
    - Chrome, Firefox, Safari, or Edge recommended
    - JavaScript enabled
+
+Some listed applications and service endpoints are vendor-operated Babbage deployments. They are examples of BRC-100-compatible software and hosted infrastructure, not exclusive requirements for BSV applications.
+
+### Terminology Alignment
+
+- **BSV Desktop** is the current product name for the desktop wallet/app catalog experience. Some older materials may call it Metanet Desktop or MetaNet Client.
+- **BRC-100** is the vendor-neutral wallet-to-application interface. Saying an app uses BRC-100 does not automatically mean every BRC-100 wallet supports that app's identity, storage, or service dependencies.
+- **WalletClient** is the BSV SDK client used by web apps to request wallet actions from BRC-100-compatible wallets such as BSV Desktop.
+- **Babbage** is a vendor and service operator for several hosted apps and endpoints in this catalog. Keep Babbage references when they identify the app operator, support path, hosted service, or configured infrastructure.
 
 ### General Usage Pattern
 
@@ -319,7 +328,7 @@ BSV apps commonly use:
 - **BRC Standards:** Protocol specifications for interoperability
 - **Paymail Protocol:** Human-readable payment addressing
 - **UHRP:** Universal Hash Resolution Protocol
-- **Babbage SDK:** Development toolkit for BSV applications
+- **BSV SDK / WalletClient:** Development toolkit and client interface for BSV applications
 
 ### Open Source Examples
 

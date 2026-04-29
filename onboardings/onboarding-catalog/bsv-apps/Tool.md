@@ -25,7 +25,7 @@ ToolBSV is a revolutionary AI platform that replaces expensive subscriptions wit
 ## 2. Before You Begin
 
 ### Prerequisites
-- **BSV Wallet:** BSV Desktop Wallet (required for micropayments)
+- **BSV Wallet:** BSV Desktop (required for micropayments)
 - **Web Browser:** Modern browser with JavaScript enabled
 - **BSV Balance:** Small amount of BSV for micropayments (transactions cost fractions of cents)
 
@@ -35,7 +35,7 @@ ToolBSV is a revolutionary AI platform that replaces expensive subscriptions wit
 - **No Installation Required:** Pure web application
 
 ### Metanet Wallet Setup
-If you don't have BSV Desktop Wallet yet, follow our [BSV Desktop Onboarding Guide](../metanet-desktop-mainnet.md) to get started. You'll need this wallet to make micropayments for AI services.
+If you don't have BSV Desktop yet, follow our [BSV Desktop Onboarding Guide](../metanet-desktop-mainnet.md) to get started. You'll need this wallet to make micropayments for AI services.
 
 ---
 
@@ -44,7 +44,7 @@ If you don't have BSV Desktop Wallet yet, follow our [BSV Desktop Onboarding Gui
 ### Step 1: Access ToolBSV
 1. Navigate to **https://toolbsv.com** in your web browser
 2. The homepage will display the three main service categories
-3. Ensure your BSV Desktop Wallet is running in the background
+3. Ensure your BSV Desktop is running in the background
 
 ![ToolBSV Main Interface](../../../assets/onboardings/bsv-apps/tool-app/main-interface.png)
 

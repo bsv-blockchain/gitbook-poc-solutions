@@ -26,7 +26,7 @@ MetaMarket is a decentralized marketplace built on the BSV blockchain for upload
 ## 2. Before You Begin
 
 ### Prerequisites
-- **BSV Wallet:** BRC-100 compatible wallet (Metanet Desktop recommended)
+- **BSV Wallet:** BRC-100 compatible wallet (BSV Desktop recommended)
 - **Web Browser:** Modern browser with JavaScript enabled
 - **BSV Balance:** Small amount of BSV for upload transactions and purchases
 - **Files/Data:** Digital content you want to share or sell
