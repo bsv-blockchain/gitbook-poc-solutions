@@ -19,7 +19,7 @@ Comprehensive index of all Demo solutions with quick access to key information.
 | **Community Knowledge** | [Slack Threads](demo-catalog/slack-threads/README.md) | Sep 2025 |
 | **Digital Identity Privacy** | [Digital Trust Card](demo-catalog/digital-trust-card/README.md) | Sep 2025 |
 | **Sovereign Data Control** | [Data Ownership](demo-catalog/data-ownership/README.md) | Sep 2025 |
-| **File Integrity & Tracking** | [Time Anchor](demo-catalog/time-anchor/README.md) | Sep 2025 |
+| **File Integrity & Tracking** | [Time Anchor](demo-catalog/time-anchor/README.md) | May 2026 |
 | **Token Economy** | [Token Transfer](demo-catalog/token-transfer/README.md) | Sep 2025 |
 | **Payment Solutions** | [Pay-QuickR](demo-catalog/pay-quickr/README.md) | Sep 2025 |
 | **Debugging Tools** | [Beef Inspector](demo-catalog/beef-inspector/README.md) | Sep 2025 |
@@ -74,14 +74,14 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **Developer Education:** Pay-QuickR, Beef Inspector, Preimage, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform, Certification Platform
 
 ### By Implementation Status
-- **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens, P2P Medical, Digital Receipts, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform, Certification Platform
-- **In Progress:** Register, Slack Threads, Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
+- **Done (Live Demos Available):** Truth Machine, Natural Chain, Prescription Tokens, P2P Medical, Digital Receipts, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Time Anchor, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform, Certification Platform
+- **In Progress:** Register, Slack Threads, Digital Trust Card, Data Ownership, Token Transfer
 <!-- - **Not Started:** Circular Economy -->
 
 ### By Development Stage
-- **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens, P2P Medical, Digital Receipts, Slack Threads, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform, Certification Platform
+- **Fully Functional:** Truth Machine, Natural Chain, Prescription Tokens, P2P Medical, Digital Receipts, Slack Threads, Pollr, Pay-QuickR, Beef Inspector, Preimage, Supply Chain Action Builder, Desktop Wallet Management, Time Anchor, Crowdfunding Platform, Inscription Platform, MessageBox Platform, Utilitary Token Platform, Certification Platform
 - **Core Features Complete:** Register
-- **Pilot Phase:** Digital Trust Card, Data Ownership, Time Anchor, Token Transfer
+- **Pilot Phase:** Digital Trust Card, Data Ownership, Token Transfer
 <!-- - **Planning Phase:** Circular Economy -->
 
 
@@ -118,6 +118,11 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **Repository:** [https://github.com/bsv-blockchain-demos/desktop-wallet-data](https://github.com/bsv-blockchain-demos/desktop-wallet-data)
 - **Status:** Educational proof-of-concept demonstrating wallet management patterns
 - **Features:** BRC-42 key derivation, basket-based UTXO management, P2PKH transactions
+
+### Time Anchor - Desktop File Integrity
+- **Repository:** [https://github.com/bsv-blockchain-demos/desktop-integrity-app](https://github.com/bsv-blockchain-demos/desktop-integrity-app)
+- **Status:** Working POC — cross-platform Electron desktop app (Windows / macOS / Linux)
+- **Features:** SHA-256 file anchoring via OP_FALSE OP_RETURN, BSV Overlay broadcast on `tm_desktopintegrity`, client-side encryption with UHRP / BRC-26 storage, file recall and independent verification
 
 ### Preimage - Transaction Preimage Analysis Tool
 - **Repository:** [https://github.com/bsv-blockchain-demos/preimage](https://github.com/bsv-blockchain-demos/preimage)
