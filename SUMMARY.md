@@ -35,6 +35,7 @@
     * [Business Documentation](demos/demo-catalog/data-ownership/business-data-ownership.md)
   * [Time Anchor](demos/demo-catalog/time-anchor/README.md)
     * [Business Documentation](demos/demo-catalog/time-anchor/business-time-anchor.md)
+    * [Technical Documentation](demos/demo-catalog/time-anchor/technical-time-anchor.md)
   * [Token Transfer](demos/demo-catalog/token-transfer/README.md)
     * [Business Documentation](demos/demo-catalog/token-transfer/business-token-transfer.md)
   * [Pay-QuickR](demos/demo-catalog/pay-quickr/README.md)
