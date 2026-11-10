@@ -136,7 +136,7 @@ Comprehensive index of all Demo solutions with quick access to key information.
 - **Website:** [pollr.gg](https://pollr.gg/) (requires JavaScript-enabled browser)
 - **Repository:** [https://github.com/p2ppsr/Pollr](https://github.com/p2ppsr/Pollr)
 - **Status:** Active development - open-source blockchain-based polling application
-- **License:** Open BSV License
+- **License:** Apache License 2.0
 
 ### Crowdfunding Platform - BSV Crowdfunding with Token Distribution
 - **Repository:** [https://github.com/bsv-blockchain-demos/crowfunding-workshop-demo](https://github.com/bsv-blockchain-demos/crowfunding-workshop-demo)
